@@ -32,7 +32,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "15735934",
       "id" : 15735934
     }, {
-      "name" : "crabbykang",
+      "name" : "crabby",
       "screen_name" : "crabbykang",
       "indices" : [ 16, 27 ],
       "id_str" : "16022023",
@@ -50,7 +50,7 @@ Grailbird.data.tweets_2009_12 =
     "source" : "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "crabbykang",
+        "name" : "crabby",
         "screen_name" : "crabbykang",
         "indices" : [ 3, 14 ],
         "id_str" : "16022023",
@@ -353,7 +353,7 @@ Grailbird.data.tweets_2009_12 =
       "screen_name" : "lifedefrager",
       "protected" : false,
       "id_str" : "50532853",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1219696116/abc_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3579682553/1ba5fded27982d39955570d88d3eb250_normal.jpeg",
       "id" : 50532853,
       "verified" : false
     }
@@ -975,7 +975,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "13285972",
       "id" : 13285972
     }, {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 9, 18 ],
       "id_str" : "42175097",
@@ -1066,7 +1066,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 3, 12 ],
       "id_str" : "42175097",
@@ -1446,7 +1446,13 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Michelle Baik",
+      "screen_name" : "michellebaik",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1615410564",
+      "id" : 1615410564
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1460,7 +1466,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 7090691560,
   "in_reply_to_status_id" : 7090557755,
   "created_at" : "Sun Dec 27 14:06:04 +0000 2009",
-  "in_reply_to_screen_name" : "tmichellebaik",
+  "in_reply_to_screen_name" : "baiktm",
   "in_reply_to_user_id_str" : "18191464",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -2186,6 +2192,12 @@ Grailbird.data.tweets_2009_12 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Michelle Baik",
+      "screen_name" : "michellebaik",
+      "indices" : [ 29, 42 ],
+      "id_str" : "1615410564",
+      "id" : 1615410564
+    }, {
       "name" : "Woongcheol Yang",
       "screen_name" : "woongy",
       "indices" : [ 43, 50 ],
@@ -2283,7 +2295,7 @@ Grailbird.data.tweets_2009_12 =
       "screen_name" : "leejeonghwan",
       "protected" : false,
       "id_str" : "37142916",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3160538424/57956a180dcd2d5c085381d2a0b91d5c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000077698421/65933c81b3bddc32a0062e2887dae61c_normal.jpeg",
       "id" : 37142916,
       "verified" : false
     }
@@ -2931,7 +2943,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -4206,7 +4218,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "18735898",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2226873871/icons_bigpicture_250x250_normal.png",
       "id" : 18735898,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 6345496088,
@@ -4246,7 +4258,13 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Michelle Baik",
+      "screen_name" : "michellebaik",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1615410564",
+      "id" : 1615410564
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4260,7 +4278,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 6337641372,
   "in_reply_to_status_id" : 6337561719,
   "created_at" : "Fri Dec 04 14:10:12 +0000 2009",
-  "in_reply_to_screen_name" : "tmichellebaik",
+  "in_reply_to_screen_name" : "baiktm",
   "in_reply_to_user_id_str" : "18191464",
   "user" : {
     "name" : "Woongcheol Yang",

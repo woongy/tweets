@@ -2151,7 +2151,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uB0E5\uC774\uD615 \uD0A4\uC988\uC528",
+      "name" : "\uD0A4\uC988\uC528",
       "screen_name" : "keyzc",
       "indices" : [ 0, 6 ],
       "id_str" : "194107445",

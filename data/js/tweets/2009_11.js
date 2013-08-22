@@ -861,7 +861,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -918,7 +918,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -1084,77 +1084,6 @@ Grailbird.data.tweets_2009_11 =
   "text" : "A small red light is blinking on my MS wireless mouse. Guess that's for low battery. So it lasted a bit more than a month.",
   "id" : 5844846929,
   "created_at" : "Thu Nov 19 01:51:19 +0000 2009",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3241201428/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "jj",
-      "screen_name" : "all2one",
-      "indices" : [ 3, 11 ],
-      "id_str" : "15735934",
-      "id" : 15735934
-    }, {
-      "name" : "Programming Joy",
-      "screen_name" : "programmingjoy",
-      "indices" : [ 16, 31 ],
-      "id_str" : "46321397",
-      "id" : 46321397
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "programming",
-      "indices" : [ 81, 93 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "5841476498",
-  "text" : "RT @all2one: RT @programmingjoy: 40% off Thanksgiving PragSale now through 11/25 #programming http://bit.ly/3dvA6y",
-  "retweeted_status" : {
-    "source" : "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Programming Joy",
-        "screen_name" : "programmingjoy",
-        "indices" : [ 3, 18 ],
-        "id_str" : "46321397",
-        "id" : 46321397
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "programming",
-        "indices" : [ 68, 80 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : {
-    },
-    "id_str" : "5841070803",
-    "text" : "RT @programmingjoy: 40% off Thanksgiving PragSale now through 11/25 #programming http://bit.ly/3dvA6y",
-    "id" : 5841070803,
-    "created_at" : "Wed Nov 18 23:30:57 +0000 2009",
-    "user" : {
-      "name" : "jj",
-      "screen_name" : "all2one",
-      "protected" : false,
-      "id_str" : "15735934",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1461511810/profile_normal.jpg",
-      "id" : 15735934,
-      "verified" : false
-    }
-  },
-  "id" : 5841476498,
-  "created_at" : "Wed Nov 18 23:46:14 +0000 2009",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

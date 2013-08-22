@@ -1508,7 +1508,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uB0E5\uC774\uD615 \uD0A4\uC988\uC528",
+      "name" : "\uD0A4\uC988\uC528",
       "screen_name" : "keyzc",
       "indices" : [ 0, 6 ],
       "id_str" : "194107445",
@@ -3179,7 +3179,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "jasonrudolph",
       "protected" : false,
       "id_str" : "14188383",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3257306189/cef7233045fc5d3c7654e376c4933222_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3516152911/0bb4796ba2e1df70c15bafc0fab31dd1_normal.jpeg",
       "id" : 14188383,
       "verified" : false
     }

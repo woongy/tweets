@@ -89,14 +89,39 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "132110540",
       "id" : 132110540
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http://twitter.com/DarthJinger/status/174377320763756544/photo/1",
       "indices" : [ 41, 61 ],
       "url" : "http://t.co/5bWkmSx6",
-      "expanded_url" : "http://twitter.com/DarthJinger/status/174377320763756544/photo/1",
+      "media_url" : "http://pbs.twimg.com/media/AmuDP9VCEAEED0_.jpg",
+      "id_str" : "174377320767950849",
+      "id" : 174377320767950849,
+      "media_url_https" : "https://pbs.twimg.com/media/AmuDP9VCEAEED0_.jpg",
+      "sizes" : [ {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 768
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 768
+      } ],
       "display_url" : "pic.twitter.com/5bWkmSx6"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : {
   },

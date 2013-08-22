@@ -505,7 +505,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "naval",
       "protected" : false,
       "id_str" : "745273",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2828962757/5025ea1febd56482d7fe1999b9bc2f19_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3696617328/667874c5936764d93d56ccc76a2bcc13_normal.jpeg",
       "id" : 745273,
       "verified" : false
     }

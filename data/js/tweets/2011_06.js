@@ -1012,7 +1012,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854564207/d95fa8dea789d0805d6bfef8847006e5_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3568735118/818587bb98ce00d7a19b511519c30199_normal.jpeg",
       "id" : 10545,
       "verified" : false
     }
@@ -3122,7 +3122,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "dcurtis",
       "protected" : false,
       "id_str" : "9395832",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3347867731/22177c51b2b2a9c73d54c0159a9eb0b9_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3586312198/4f90d52a9416842731420c9e3cb1ec9f_normal.png",
       "id" : 9395832,
       "verified" : false
     }

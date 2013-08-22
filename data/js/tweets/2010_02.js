@@ -1149,7 +1149,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "yalkongs",
       "protected" : false,
       "id_str" : "43451222",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3131510552/7634efbcd4030c82f2189170e6da2ec5_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3707346974/7710a167d9c2e83488cbb5b6dd7aa585_normal.jpeg",
       "id" : 43451222,
       "verified" : false
     }
@@ -3024,7 +3024,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -3176,7 +3176,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",

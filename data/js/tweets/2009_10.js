@@ -1440,7 +1440,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "14941102",
       "id" : 14941102
     }, {
-      "name" : "\uD280\uC5B4\uB098\uC640\uC694 \uC131\uCE58\uC758 \uC232",
+      "name" : "\uC0AC\uC774\uBC84 \uC694\uC815 \uC131\uCE58",
       "screen_name" : "sungchi",
       "indices" : [ 17, 25 ],
       "id_str" : "14696334",

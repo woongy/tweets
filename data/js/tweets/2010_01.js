@@ -577,7 +577,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -2167,7 +2167,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "abhishektiwari",
       "protected" : false,
       "id_str" : "19114465",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3483882687/740d2ecba9c54619b48688526a214364_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261568342188/99a3a2922847de7e2429a07815a5ec0a_normal.jpeg",
       "id" : 19114465,
       "verified" : false
     }
@@ -3572,11 +3572,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7651277856,
     "created_at" : "Tue Jan 12 01:26:51 +0000 2010",
     "user" : {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "157680000s",
       "protected" : true,
       "id_str" : "45482413",
-      "profile_image_url_https" : "https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261582633690/d3d5d2e4d47ffd09de8e7e254d8ea4a4_normal.jpeg",
       "id" : 45482413,
       "verified" : false
     }
@@ -4121,11 +4121,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7580963182,
     "created_at" : "Sun Jan 10 03:56:32 +0000 2010",
     "user" : {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "157680000s",
       "protected" : true,
       "id_str" : "45482413",
-      "profile_image_url_https" : "https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261582633690/d3d5d2e4d47ffd09de8e7e254d8ea4a4_normal.jpeg",
       "id" : 45482413,
       "verified" : false
     }
@@ -4469,7 +4469,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "49574529",
       "id" : 49574529
     }, {
-      "name" : "\u305F\u3064\u3044\u3061\u308D\u301C\u30FBx\u30FB",
+      "name" : "\uFF34\u301C\uFF2A\u301C(*^^*)",
       "screen_name" : "TjRyu",
       "indices" : [ 80, 86 ],
       "id_str" : "973922354",
@@ -4523,7 +4523,7 @@ Grailbird.data.tweets_2010_01 =
         "id_str" : "49574529",
         "id" : 49574529
       }, {
-        "name" : "\u305F\u3064\u3044\u3061\u308D\u301C\u30FBx\u30FB",
+        "name" : "\uFF34\u301C\uFF2A\u301C(*^^*)",
         "screen_name" : "TjRyu",
         "indices" : [ 66, 72 ],
         "id_str" : "973922354",
@@ -4546,11 +4546,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7501030753,
     "created_at" : "Fri Jan 08 01:51:43 +0000 2010",
     "user" : {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "157680000s",
       "protected" : true,
       "id_str" : "45482413",
-      "profile_image_url_https" : "https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261582633690/d3d5d2e4d47ffd09de8e7e254d8ea4a4_normal.jpeg",
       "id" : 45482413,
       "verified" : false
     }
@@ -5318,7 +5318,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC804\uC5C5\uAD50\uC591\uAFBC \uC54C\uB819 \uCE74\uD2B8\uBA3C",
+      "name" : "\uAC74\uC124\uC801\uC778 \uC804\uC5C5\uAD50\uC591\uAFBC \uC54C\uB819 \uCE74\uD2B8\uBA3C",
       "screen_name" : "aleph_k",
       "indices" : [ 28, 36 ],
       "id_str" : "704441353",
@@ -6271,7 +6271,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "212655264",
       "id" : 212655264
     }, {
-      "name" : "\uD280\uC5B4\uB098\uC640\uC694 \uC131\uCE58\uC758 \uC232",
+      "name" : "\uC0AC\uC774\uBC84 \uC694\uC815 \uC131\uCE58",
       "screen_name" : "sungchi",
       "indices" : [ 63, 71 ],
       "id_str" : "14696334",

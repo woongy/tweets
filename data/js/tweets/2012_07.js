@@ -290,7 +290,7 @@ Grailbird.data.tweets_2012_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Harris",
-      "screen_name" : "pearfalse",
+      "screen_name" : "Pearfalse",
       "indices" : [ 3, 13 ],
       "id_str" : "19075362",
       "id" : 19075362
@@ -319,10 +319,10 @@ Grailbird.data.tweets_2012_07 =
     "created_at" : "Thu Jul 12 17:54:20 +0000 2012",
     "user" : {
       "name" : "Simon Harris",
-      "screen_name" : "pearfalse",
+      "screen_name" : "Pearfalse",
       "protected" : false,
       "id_str" : "19075362",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3122125547/7f8eaf17382ff49d7e516a11d1f7b0e4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000114422007/df39ee7c93ba6486a3b2e02faf345dcd_normal.jpeg",
       "id" : 19075362,
       "verified" : false
     }

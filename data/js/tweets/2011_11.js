@@ -267,7 +267,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "destraynor",
       "protected" : false,
       "id_str" : "6484432",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1571178965/des_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000269303502/d1b8a5c870720f3a43c034bbba45a501_normal.png",
       "id" : 6484432,
       "verified" : false
     }

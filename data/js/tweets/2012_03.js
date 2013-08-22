@@ -1117,7 +1117,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "njp",
       "protected" : false,
       "id_str" : "21409455",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1723205330/HeadshotSmall_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000003799921/c0078708832b3ef7c7a0736550fcdb12_normal.jpeg",
       "id" : 21409455,
       "verified" : false
     }

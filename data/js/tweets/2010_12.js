@@ -455,7 +455,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "kelvindonghokim",
       "protected" : false,
       "id_str" : "49897254",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3172246659/825a5239cce4aa77b7bdfa6dbb5f918c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000000373923/6b9a359653556835a02c873b59d76c35_normal.jpeg",
       "id" : 49897254,
       "verified" : false
     }
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2010_12 =
     "user" : {
       "name" : "Paulo Lopez",
       "screen_name" : "pauloroid",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "21381826",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1120777091/headshot-2009b_normal.png",
       "id" : 21381826,
@@ -1607,7 +1607,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "71165241",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1629319406/simple-icon-sm_normal.png",
       "id" : 71165241,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 14851879947206657,
@@ -1744,7 +1744,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uBE0C\uB85C\uD070 \uC5D1\uC124\uC774\uACE0 \uBB50\uACE0 \uD480\uCF64\uBD80\uD130",
+      "name" : "HNO3",
       "screen_name" : "nitricacid1",
       "indices" : [ 3, 15 ],
       "id_str" : "95571010",
@@ -1773,7 +1773,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 4574640340992000,
     "created_at" : "Tue Nov 16 16:40:53 +0000 2010",
     "user" : {
-      "name" : "\uBE0C\uB85C\uD070 \uC5D1\uC124\uC774\uACE0 \uBB50\uACE0 \uD480\uCF64\uBD80\uD130",
+      "name" : "HNO3",
       "screen_name" : "nitricacid1",
       "protected" : false,
       "id_str" : "95571010",

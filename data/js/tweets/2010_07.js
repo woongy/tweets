@@ -49,7 +49,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Thompson ",
+      "name" : "Parker Thompson",
       "screen_name" : "pt",
       "indices" : [ 3, 6 ],
       "id_str" : "9571702",
@@ -78,11 +78,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19945071896,
     "created_at" : "Fri Jul 30 22:45:43 +0000 2010",
     "user" : {
-      "name" : "Parker Thompson ",
+      "name" : "Parker Thompson",
       "screen_name" : "pt",
       "protected" : false,
       "id_str" : "9571702",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3247265093/4f833701553a8cb2f5c2ebd44627867d_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000266812715/f1718a1273830a73be11d4d10b8c387c_normal.jpeg",
       "id" : 9571702,
       "verified" : false
     }
@@ -900,7 +900,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "lsegal",
       "protected" : false,
       "id_str" : "5186831",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3412797479/f217ef79c63aa3dfb7ca28ccbeadf50a_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3684877476/b068f29a156ef51bdbb06ab44cc56fc8_normal.png",
       "id" : 5186831,
       "verified" : false
     }
@@ -1556,8 +1556,6 @@ Grailbird.data.tweets_2010_07 =
       "urls" : [ ]
     },
     "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 37.7825184506, -122.4008767155 ]
     },
     "id_str" : "19297026743",
     "text" : "OH: \"everything is awesome until you build it\"",
@@ -1716,7 +1714,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 19073974504,
   "in_reply_to_status_id" : 19071597282,
   "created_at" : "Wed Jul 21 12:53:23 +0000 2010",
-  "in_reply_to_screen_name" : "tmichellebaik",
+  "in_reply_to_screen_name" : "baiktm",
   "in_reply_to_user_id_str" : "18191464",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4127,7 +4125,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6D0\uC0DD \uC6B0\uC9C4\uBB35",
+      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -4293,7 +4291,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "olleh",
       "protected" : false,
       "id_str" : "90605157",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1798094875/___normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000057357141/07c6e827125cb098665f1aa9d2a70e0f_normal.jpeg",
       "id" : 90605157,
       "verified" : false
     }
