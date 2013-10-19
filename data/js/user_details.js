@@ -3,5 +3,5 @@ var user_details =  {
   "location" : "Korea",
   "full_name" : "Woongcheol Yang",
   "id" : "48000543",
-  "created_at" : "Wed Jun 17 15:41:22 +0000 2009"
+  "created_at" : "2009-06-17 15:41:22 +0000"
 }
