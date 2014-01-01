@@ -629,7 +629,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "Zen_Moments",
       "protected" : false,
       "id_str" : "17486629",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1117626620\/circle-1_normal.PNG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117626620\/circle-1_normal.PNG",
       "id" : 17486629,
       "verified" : false
     }

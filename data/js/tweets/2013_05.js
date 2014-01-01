@@ -160,7 +160,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AHHHHHHndrew Morrish",
+      "name" : "Andrew Morrish",
       "screen_name" : "int_main",
       "indices" : [ 0, 9 ],
       "id_str" : "37830957",
@@ -273,7 +273,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "maxvoltar",
       "protected" : false,
       "id_str" : "2727051",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000496723243\/5c3b82df2ae97933cda8699d97118896_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413315498558767104\/78xOqo7e_normal.jpeg",
       "id" : 2727051,
       "verified" : false
     }

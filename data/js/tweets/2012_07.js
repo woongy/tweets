@@ -310,7 +310,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "Pearfalse",
       "protected" : false,
       "id_str" : "19075362",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000114422007\/df39ee7c93ba6486a3b2e02faf345dcd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000114422007\/df39ee7c93ba6486a3b2e02faf345dcd_normal.jpeg",
       "id" : 19075362,
       "verified" : false
     }
