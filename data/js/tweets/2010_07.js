@@ -78,7 +78,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "pt",
       "protected" : false,
       "id_str" : "9571702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000517546784\/7d844d54ee0055c7f62d14e3a793099d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449564862767575040\/eyulnkkV_normal.jpeg",
       "id" : 9571702,
       "verified" : false
     }
@@ -562,13 +562,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aza Raskin",
-      "screen_name" : "azaaza",
-      "indices" : [ 3, 10 ],
-      "id_str" : "534677003",
-      "id" : 534677003
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -667,7 +661,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "lsegal",
       "protected" : false,
       "id_str" : "5186831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000556230163\/b7bc07dfce9d5220a9cb1102bb7e103a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436041233090097152\/39xVjub6_normal.jpeg",
       "id" : 5186831,
       "verified" : false
     }
@@ -1961,7 +1955,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/93079724\/PU_twitter_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461507317096120322\/MAQ7J9nR_normal.jpeg",
       "id" : 5694822,
       "verified" : true
     }
@@ -2206,7 +2200,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Angry_Drunk",
       "protected" : false,
       "id_str" : "11405762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2096543385\/i_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443778145301172224\/JgvrIj1m_normal.jpeg",
       "id" : 11405762,
       "verified" : false
     }
@@ -2257,7 +2251,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Angry_Drunk",
       "protected" : false,
       "id_str" : "11405762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2096543385\/i_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443778145301172224\/JgvrIj1m_normal.jpeg",
       "id" : 11405762,
       "verified" : false
     }
@@ -3896,13 +3890,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "show_tweet",
-      "screen_name" : "show_tweet",
-      "indices" : [ 3, 14 ],
-      "id_str" : "219898942",
-      "id" : 219898942
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4043,7 +4031,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
+      "name" : "\uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -4130,13 +4118,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Seunghoon Yeon \uC5F0\uC2B9\uD6C8",
-      "screen_name" : "y5h",
-      "indices" : [ 3, 7 ],
-      "id_str" : "28625202",
-      "id" : 28625202
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4158,8 +4140,8 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17458313659,
     "created_at" : "2010-07-01 01:57:23 +0000",
     "user" : {
-      "name" : "Seunghoon Yeon \uC5F0\uC2B9\uD6C8",
-      "screen_name" : "y5h",
+      "name" : "\uC5F0\uC2B9\uD6C8 \/ Seunghoon Yeon",
+      "screen_name" : "yeonsh",
       "protected" : false,
       "id_str" : "28625202",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000574515824\/eea262fb66221fa87628f4f44d82ea59_normal.jpeg",

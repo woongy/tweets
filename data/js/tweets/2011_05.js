@@ -401,7 +401,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "rands",
       "protected" : false,
       "id_str" : "30923",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2886028302\/d9137f9df14bafdb1144d6b6c16259c1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458982455932760064\/40qsmGPF_normal.png",
       "id" : 30923,
       "verified" : false
     }
@@ -3133,7 +3133,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "internet heartthrob",
+      "name" : "Tom Dale",
       "screen_name" : "tomdale",
       "indices" : [ 3, 11 ],
       "id_str" : "668863",
@@ -3160,7 +3160,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 63265381908889600,
     "created_at" : "2011-04-27 15:36:57 +0000",
     "user" : {
-      "name" : "internet heartthrob",
+      "name" : "Tom Dale",
       "screen_name" : "tomdale",
       "protected" : false,
       "id_str" : "668863",

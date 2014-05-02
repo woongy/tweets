@@ -184,9 +184,9 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3522902634",
-  "text" : "Just ordered OS X Snow Leopard.",
-  "id" : 3522902634,
+  "id_str" : "3508694271",
+  "text" : "Gmail \uD55C\uAD6D\uC5B4 \uBC84\uC804\uC740 \uC65C Redirecting (as in page redirection)\uC744 '\uC218\uC2E0 \uC8FC\uC18C \uBCC0\uACBD'\uC73C\uB85C \uBC88\uC5ED\uD574\uC11C \uB85C\uADF8\uC778 \uD560 \uB54C\uB9C8\uB2E4 \uB0A0 \uD63C\uB780\uC2A4\uB7FD\uAC8C \uD558\uB294\uAC00",
+  "id" : 3508694271,
   "created_at" : "2009-08-24 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -206,9 +206,9 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3508694271",
-  "text" : "Gmail \uD55C\uAD6D\uC5B4 \uBC84\uC804\uC740 \uC65C Redirecting (as in page redirection)\uC744 '\uC218\uC2E0 \uC8FC\uC18C \uBCC0\uACBD'\uC73C\uB85C \uBC88\uC5ED\uD574\uC11C \uB85C\uADF8\uC778 \uD560 \uB54C\uB9C8\uB2E4 \uB0A0 \uD63C\uB780\uC2A4\uB7FD\uAC8C \uD558\uB294\uAC00",
-  "id" : 3508694271,
+  "id_str" : "3522902634",
+  "text" : "Just ordered OS X Snow Leopard.",
+  "id" : 3522902634,
   "created_at" : "2009-08-24 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",

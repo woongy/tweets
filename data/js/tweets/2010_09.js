@@ -2,13 +2,7 @@ Grailbird.data.tweets_2010_09 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Graham Smith",
-      "screen_name" : "imjustcreative",
-      "indices" : [ 3, 18 ],
-      "id_str" : "1632783314",
-      "id" : 1632783314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -34,7 +28,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3032899727\/ebec80a13af3963d3239b1e69c1a9649_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448492593697927168\/oOyghHhv_normal.jpeg",
       "id" : 1753061,
       "verified" : false
     }
@@ -126,13 +120,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Graham Smith",
-      "screen_name" : "imjustcreative",
-      "indices" : [ 3, 18 ],
-      "id_str" : "1632783314",
-      "id" : 1632783314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -158,7 +146,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3032899727\/ebec80a13af3963d3239b1e69c1a9649_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448492593697927168\/oOyghHhv_normal.jpeg",
       "id" : 1753061,
       "verified" : false
     }
@@ -352,7 +340,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "i2pi",
       "protected" : false,
       "id_str" : "18246193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000443896369\/d799421f94ba56ccaecf9e0f10e8daaa_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442175430137610240\/JnxWo-LB_normal.jpeg",
       "id" : 18246193,
       "verified" : false
     }
@@ -520,13 +508,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Graham Smith",
-      "screen_name" : "imjustcreative",
-      "indices" : [ 3, 18 ],
-      "id_str" : "1632783314",
-      "id" : 1632783314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -552,7 +534,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3032899727\/ebec80a13af3963d3239b1e69c1a9649_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448492593697927168\/oOyghHhv_normal.jpeg",
       "id" : 1753061,
       "verified" : false
     }
@@ -856,13 +838,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Redirect",
-      "screen_name" : "deaxon",
-      "indices" : [ 3, 10 ],
-      "id_str" : "260513949",
-      "id" : 260513949
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -888,7 +864,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "bdc",
       "protected" : false,
       "id_str" : "10209392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1864422254\/128_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458893509638893568\/cB72nwa7_normal.png",
       "id" : 10209392,
       "verified" : false
     }
@@ -1342,13 +1318,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Graham Smith",
-      "screen_name" : "imjustcreative",
-      "indices" : [ 3, 18 ],
-      "id_str" : "1632783314",
-      "id" : 1632783314
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1374,7 +1344,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3032899727\/ebec80a13af3963d3239b1e69c1a9649_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448492593697927168\/oOyghHhv_normal.jpeg",
       "id" : 1753061,
       "verified" : false
     }
@@ -1725,7 +1695,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "mfeathers",
       "protected" : false,
       "id_str" : "14253068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2872855625\/8461b3adedd23de13c78146aa7dca3f2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418861392309915648\/vJk75Sn3_normal.png",
       "id" : 14253068,
       "verified" : false
     }
@@ -2549,7 +2519,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#mantia",
+      "name" : "Louie",
       "screen_name" : "mantia",
       "indices" : [ 3, 10 ],
       "id_str" : "41783",
@@ -2576,11 +2546,11 @@ Grailbird.data.tweets_2010_09 =
     "id" : 24501541298,
     "created_at" : "2010-09-14 19:09:55 +0000",
     "user" : {
-      "name" : "#mantia",
+      "name" : "Louie",
       "screen_name" : "mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000863543471\/FGyMr9d4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459382239005270016\/mzETAmbc_normal.png",
       "id" : 41783,
       "verified" : false
     }
@@ -2810,7 +2780,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Heilemann",
+      "name" : "Michael Heilemann",
       "screen_name" : "Heilemann",
       "indices" : [ 122, 132 ],
       "id_str" : "11656",
@@ -3129,13 +3099,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sachin Agarwal",
-      "screen_name" : "a4agarwal",
-      "indices" : [ 3, 13 ],
-      "id_str" : "519939712",
-      "id" : 519939712
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3161,7 +3125,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "agarwal",
       "protected" : false,
       "id_str" : "15105000",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000535321443\/8a43f08b6a4aaa0073f023dc1d603ab1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429350081003663361\/K4aj9fmn_normal.jpeg",
       "id" : 15105000,
       "verified" : false
     }
@@ -3574,7 +3538,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "sstephenson",
       "protected" : false,
       "id_str" : "6707392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1691186870\/500_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434450913151840257\/VySz8SQS_normal.png",
       "id" : 6707392,
       "verified" : false
     }

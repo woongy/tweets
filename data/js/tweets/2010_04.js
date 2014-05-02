@@ -331,35 +331,13 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "lsegal",
       "protected" : false,
       "id_str" : "5186831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000556230163\/b7bc07dfce9d5220a9cb1102bb7e103a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436041233090097152\/39xVjub6_normal.jpeg",
       "id" : 5186831,
       "verified" : false
     }
   },
   "id" : 13093319331,
   "created_at" : "2010-04-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12995184699",
-  "text" : "I'm at Little Jakob's in Mokpo-Si http:\/\/gowal.la\/c\/FbUs",
-  "id" : 12995184699,
-  "created_at" : "2010-04-28 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -958,6 +936,34 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Hacker News Bot",
+      "screen_name" : "hackernewsbot",
+      "indices" : [ 17, 31 ],
+      "id_str" : "19575586",
+      "id" : 19575586
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12669499180",
+  "text" : "It's scary... RT @hackernewsbot Pixilated SimCity Player Spends +3years for Optimal City Design (pop: 6m)... http:\/\/bit.ly\/9JvaM8",
+  "id" : 12669499180,
+  "created_at" : "2010-04-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1138,34 +1144,6 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "graphittie",
   "in_reply_to_user_id_str" : "5135041",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Hacker News Bot",
-      "screen_name" : "hackernewsbot",
-      "indices" : [ 17, 31 ],
-      "id_str" : "19575586",
-      "id" : 19575586
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12669499180",
-  "text" : "It's scary... RT @hackernewsbot Pixilated SimCity Player Spends +3years for Optimal City Design (pop: 6m)... http:\/\/bit.ly\/9JvaM8",
-  "id" : 12669499180,
-  "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -1480,28 +1458,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12498226353",
   "text" : "\uC11C\uC810\uC5D0\uC11C \uCC45 \uB0B4\uC6A9 \uBCF4\uACE0 \uC608\uC2A424\uC571\uC73C\uB85C \uCE74\uD2B8\uC5D0 \uB2F4\uC544 \uACB0\uC81C(...)",
   "id" : 12498226353,
-  "created_at" : "2010-04-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12499040581",
-  "text" : "With my mom. \u2014 at Mr. Pizza http:\/\/gowal.la\/s\/61NA",
-  "id" : 12499040581,
   "created_at" : "2010-04-20 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -2187,28 +2143,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12379489269",
-  "text" : "With my dad. \u2014 at Caffe Ti-amo http:\/\/gowal.la\/s\/5Xjq",
-  "id" : 12379489269,
-  "created_at" : "2010-04-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
@@ -2483,6 +2417,61 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Taewoo Kim",
+      "screen_name" : "Taewoo_",
+      "indices" : [ 0, 8 ],
+      "id_str" : "20353211",
+      "id" : 20353211
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12267128206",
+  "geo" : { },
+  "id_str" : "12270860727",
+  "in_reply_to_user_id" : 20353211,
+  "text" : "@Taewoo_ I filed it 1 1\/2 months ago. Wondering when I'm going to get it '-'",
+  "id" : 12270860727,
+  "in_reply_to_status_id" : 12267128206,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Taewoo_",
+  "in_reply_to_user_id_str" : "20353211",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12273036209",
+  "text" : "A dog http:\/\/youtube.com\/v\/H3xdcx2WUcU and a cat http:\/\/youtube.com\/v\/Q9NP-AeKX40 playing with an iPad ;D",
+  "id" : 12273036209,
+  "created_at" : "2010-04-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2562,49 +2551,16 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Taewoo Kim",
-      "screen_name" : "Taewoo_",
-      "indices" : [ 0, 8 ],
-      "id_str" : "20353211",
-      "id" : 20353211
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12267128206",
-  "geo" : { },
-  "id_str" : "12270860727",
-  "in_reply_to_user_id" : 20353211,
-  "text" : "@Taewoo_ I filed it 1 1\/2 months ago. Wondering when I'm going to get it '-'",
-  "id" : 12270860727,
-  "in_reply_to_status_id" : 12267128206,
-  "created_at" : "2010-04-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Taewoo_",
-  "in_reply_to_user_id_str" : "20353211",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "12273036209",
-  "text" : "A dog http:\/\/youtube.com\/v\/H3xdcx2WUcU and a cat http:\/\/youtube.com\/v\/Q9NP-AeKX40 playing with an iPad ;D",
-  "id" : 12273036209,
-  "created_at" : "2010-04-16 00:00:00 +0000",
+  "id_str" : "12244363161",
+  "text" : "Adobe\u00AE Ideas 1.0 for iPhone http:\/\/itunes.apple.com\/app\/id365441166 Tasty UI, tight with all essential functionalities. And it's free :D",
+  "id" : 12244363161,
+  "created_at" : "2010-04-15 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -3122,28 +3078,6 @@ Grailbird.data.tweets_2010_04 =
     }
   },
   "id" : 12243283917,
-  "created_at" : "2010-04-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12244363161",
-  "text" : "Adobe\u00AE Ideas 1.0 for iPhone http:\/\/itunes.apple.com\/app\/id365441166 Tasty UI, tight with all essential functionalities. And it's free :D",
-  "id" : 12244363161,
   "created_at" : "2010-04-15 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -3817,6 +3751,130 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "web",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12090902942",
+  "text" : "http:\/\/nyti.ms\/9E0HGd \"[...] plans to show promoted posts in the stream of Twitter posts [...]\" I would rather pay than see ads.",
+  "id" : 12090902942,
+  "created_at" : "2010-04-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sang-Kil Park",
+      "screen_name" : "likejazz",
+      "indices" : [ 3, 12 ],
+      "id_str" : "1540111",
+      "id" : 1540111
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12090959252",
+  "text" : "RT @likejazz: \uB514\uC9C0\uD0C8 \uAE30\uAE30\uB97C \uC774\uC6A9\uD55C \uC88B\uC740 \uC544\uBE60 \uB418\uAE30 http:\/\/bit.ly\/9vYrca \uAE30\uC220\uC774 \uC6B0\uB9AC \uC0B6\uC744 \uD48D\uC694\uB86D\uAC8C \uD558\uB294 \uAC83. \uC774\uAC83\uC774\uC57C \uB9D0\uB85C \uAE30\uC220\uC758 \uCD5C\uACE0 \uAC00\uCE58\uAC00 \uC544\uB2D0\uAE4C \uC2F6\uC2B5\uB2C8\uB2E4.",
+  "retweeted_status" : {
+    "source" : "web",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "12076116835",
+    "text" : "\uB514\uC9C0\uD0C8 \uAE30\uAE30\uB97C \uC774\uC6A9\uD55C \uC88B\uC740 \uC544\uBE60 \uB418\uAE30 http:\/\/bit.ly\/9vYrca \uAE30\uC220\uC774 \uC6B0\uB9AC \uC0B6\uC744 \uD48D\uC694\uB86D\uAC8C \uD558\uB294 \uAC83. \uC774\uAC83\uC774\uC57C \uB9D0\uB85C \uAE30\uC220\uC758 \uCD5C\uACE0 \uAC00\uCE58\uAC00 \uC544\uB2D0\uAE4C \uC2F6\uC2B5\uB2C8\uB2E4.",
+    "id" : 12076116835,
+    "created_at" : "2010-04-13 00:51:54 +0000",
+    "user" : {
+      "name" : "Sang-Kil Park",
+      "screen_name" : "likejazz",
+      "protected" : false,
+      "id_str" : "1540111",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3088727087\/58525ea463a9c990ad86cc8b15ae9d2f_normal.jpeg",
+      "id" : 1540111,
+      "verified" : false
+    }
+  },
+  "id" : 12090959252,
+  "created_at" : "2010-04-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Opera",
+      "screen_name" : "opera",
+      "indices" : [ 3, 9 ],
+      "id_str" : "1541461",
+      "id" : 1541461
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12090996200",
+  "text" : "RT @opera: For everyone who has waited so patiently, great news! In a word: approved. http:\/\/bit.ly\/OperaMiniforiPhone",
+  "retweeted_status" : {
+    "source" : "web",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "12073238801",
+    "text" : "For everyone who has waited so patiently, great news! In a word: approved. http:\/\/bit.ly\/OperaMiniforiPhone",
+    "id" : 12073238801,
+    "created_at" : "2010-04-12 23:53:16 +0000",
+    "user" : {
+      "name" : "Opera",
+      "screen_name" : "opera",
+      "protected" : false,
+      "id_str" : "1541461",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000575970807\/aae3f386ed16c1106146735a385afaf4_normal.png",
+      "id" : 1541461,
+      "verified" : true
+    }
+  },
+  "id" : 12090996200,
+  "created_at" : "2010-04-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "s. won",
       "screen_name" : "dudubebe",
@@ -4174,152 +4232,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12090902942",
-  "text" : "http:\/\/nyti.ms\/9E0HGd \"[...] plans to show promoted posts in the stream of Twitter posts [...]\" I would rather pay than see ads.",
-  "id" : 12090902942,
-  "created_at" : "2010-04-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sang-Kil Park",
-      "screen_name" : "likejazz",
-      "indices" : [ 3, 12 ],
-      "id_str" : "1540111",
-      "id" : 1540111
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12090959252",
-  "text" : "RT @likejazz: \uB514\uC9C0\uD0C8 \uAE30\uAE30\uB97C \uC774\uC6A9\uD55C \uC88B\uC740 \uC544\uBE60 \uB418\uAE30 http:\/\/bit.ly\/9vYrca \uAE30\uC220\uC774 \uC6B0\uB9AC \uC0B6\uC744 \uD48D\uC694\uB86D\uAC8C \uD558\uB294 \uAC83. \uC774\uAC83\uC774\uC57C \uB9D0\uB85C \uAE30\uC220\uC758 \uCD5C\uACE0 \uAC00\uCE58\uAC00 \uC544\uB2D0\uAE4C \uC2F6\uC2B5\uB2C8\uB2E4.",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12076116835",
-    "text" : "\uB514\uC9C0\uD0C8 \uAE30\uAE30\uB97C \uC774\uC6A9\uD55C \uC88B\uC740 \uC544\uBE60 \uB418\uAE30 http:\/\/bit.ly\/9vYrca \uAE30\uC220\uC774 \uC6B0\uB9AC \uC0B6\uC744 \uD48D\uC694\uB86D\uAC8C \uD558\uB294 \uAC83. \uC774\uAC83\uC774\uC57C \uB9D0\uB85C \uAE30\uC220\uC758 \uCD5C\uACE0 \uAC00\uCE58\uAC00 \uC544\uB2D0\uAE4C \uC2F6\uC2B5\uB2C8\uB2E4.",
-    "id" : 12076116835,
-    "created_at" : "2010-04-13 00:51:54 +0000",
-    "user" : {
-      "name" : "Sang-Kil Park",
-      "screen_name" : "likejazz",
-      "protected" : false,
-      "id_str" : "1540111",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3088727087\/58525ea463a9c990ad86cc8b15ae9d2f_normal.jpeg",
-      "id" : 1540111,
-      "verified" : false
-    }
-  },
-  "id" : 12090959252,
-  "created_at" : "2010-04-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Opera",
-      "screen_name" : "opera",
-      "indices" : [ 3, 9 ],
-      "id_str" : "1541461",
-      "id" : 1541461
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12090996200",
-  "text" : "RT @opera: For everyone who has waited so patiently, great news! In a word: approved. http:\/\/bit.ly\/OperaMiniforiPhone",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "12073238801",
-    "text" : "For everyone who has waited so patiently, great news! In a word: approved. http:\/\/bit.ly\/OperaMiniforiPhone",
-    "id" : 12073238801,
-    "created_at" : "2010-04-12 23:53:16 +0000",
-    "user" : {
-      "name" : "Opera",
-      "screen_name" : "opera",
-      "protected" : false,
-      "id_str" : "1541461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000575970807\/aae3f386ed16c1106146735a385afaf4_normal.png",
-      "id" : 1541461,
-      "verified" : true
-    }
-  },
-  "id" : 12090996200,
-  "created_at" : "2010-04-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12025174815",
-  "text" : "Flying back to Korea soon. \u2014 at Terminal 4 at JFK http:\/\/gowal.la\/s\/FjJ",
-  "id" : 12025174815,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -4557,28 +4469,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12061308871",
-  "text" : "Arrived :) \u2014 at Incheon International Airport - Arrivals http:\/\/gowal.la\/s\/5Lgc",
-  "id" : 12061308871,
-  "created_at" : "2010-04-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
@@ -4787,28 +4677,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12007038413",
-  "text" : "I'm at Fruity Yogurt in Princeton, NJ http:\/\/gowal.la\/s\/57Jy",
-  "id" : 12007038413,
-  "created_at" : "2010-04-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4831,54 +4699,10 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12011265294",
-  "text" : "Before leaving the campus :) \u2014 at Computer Science Building Princeton University http:\/\/gowal.la\/s\/2GdD",
-  "id" : 12011265294,
-  "created_at" : "2010-04-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11913293477",
-  "text" : "Birthday dinner :) Exotic exciting food! \u2014 at Restaurant Underground http:\/\/gowal.la\/s\/5DXn",
-  "id" : 11913293477,
-  "created_at" : "2010-04-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
+      "name" : "\uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -5343,28 +5167,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11834169187",
-  "text" : "I'm at Halo Pub in Princeton, NJ http:\/\/gowal.la\/s\/4T2s",
-  "id" : 11834169187,
-  "created_at" : "2010-04-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5380,166 +5182,6 @@ Grailbird.data.tweets_2010_04 =
   "text" : "OMG they let you change the background in #OS4?! This is groundbreaking. Thank God.",
   "id" : 11837901244,
   "created_at" : "2010-04-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joongi Kim",
-      "screen_name" : "achimnol",
-      "indices" : [ 0, 9 ],
-      "id_str" : "26445061",
-      "id" : 26445061
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "11763268380",
-  "geo" : { },
-  "id_str" : "11765673180",
-  "in_reply_to_user_id" : 26445061,
-  "text" : "@achimnol \uADF8\uB7F4 \uAC00\uB2A5\uC131\uB3C4 \uC788\uC744 \uC218 \uC788\uACA0\uB124\uC694 :p",
-  "id" : 11765673180,
-  "in_reply_to_status_id" : 11763268380,
-  "created_at" : "2010-04-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "achimnol",
-  "in_reply_to_user_id_str" : "26445061",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "graphittie in space",
-      "screen_name" : "graphittie",
-      "indices" : [ 0, 11 ],
-      "id_str" : "5135041",
-      "id" : 5135041
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "11764000555",
-  "geo" : { },
-  "id_str" : "11765718789",
-  "in_reply_to_user_id" : 5135041,
-  "text" : "@graphittie \uCCB4\uAE09\uC774 \uB2EC\uB77C\uB3C4 \uB108\uBB34 \uB2E4\uB974\uC9C0 \uC54A\uB098\uC694 \u314B\u314B",
-  "id" : 11765718789,
-  "in_reply_to_status_id" : 11764000555,
-  "created_at" : "2010-04-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "graphittie",
-  "in_reply_to_user_id_str" : "5135041",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11766362979",
-  "text" : "I'm at Small World Coffee in Princeton, NJ http:\/\/gowal.la\/s\/aUU",
-  "id" : 11766362979,
-  "created_at" : "2010-04-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11781183688",
-  "text" : "Don't be chased by deadlines. Chase them. Just a thought.",
-  "id" : 11781183688,
-  "created_at" : "2010-04-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11729403877",
-  "text" : "I'm at Tiger Noodles in Princeton, NJ http:\/\/gowal.la\/s\/5xLk",
-  "id" : 11729403877,
-  "created_at" : "2010-04-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gowalla",
-      "screen_name" : "gowalla",
-      "indices" : [ 27, 35 ],
-      "id_str" : "18695316",
-      "id" : 18695316
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11729546809",
-  "text" : "Just created a new spot on @gowalla. Wondering what will happen if I tried to create the same spot again :)",
-  "id" : 11729546809,
-  "created_at" : "2010-04-07 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -5682,7 +5324,73 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joongi Kim",
+      "screen_name" : "achimnol",
+      "indices" : [ 0, 9 ],
+      "id_str" : "26445061",
+      "id" : 26445061
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "11763268380",
+  "geo" : { },
+  "id_str" : "11765673180",
+  "in_reply_to_user_id" : 26445061,
+  "text" : "@achimnol \uADF8\uB7F4 \uAC00\uB2A5\uC131\uB3C4 \uC788\uC744 \uC218 \uC788\uACA0\uB124\uC694 :p",
+  "id" : 11765673180,
+  "in_reply_to_status_id" : 11763268380,
+  "created_at" : "2010-04-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "achimnol",
+  "in_reply_to_user_id_str" : "26445061",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "graphittie in space",
+      "screen_name" : "graphittie",
+      "indices" : [ 0, 11 ],
+      "id_str" : "5135041",
+      "id" : 5135041
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "11764000555",
+  "geo" : { },
+  "id_str" : "11765718789",
+  "in_reply_to_user_id" : 5135041,
+  "text" : "@graphittie \uCCB4\uAE09\uC774 \uB2EC\uB77C\uB3C4 \uB108\uBB34 \uB2E4\uB974\uC9C0 \uC54A\uB098\uC694 \u314B\u314B",
+  "id" : 11765718789,
+  "in_reply_to_status_id" : 11764000555,
+  "created_at" : "2010-04-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "graphittie",
+  "in_reply_to_user_id_str" : "5135041",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5690,10 +5398,10 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "11672212943",
-  "text" : "I'm at Panera Bread in Princeton, NJ http:\/\/gowal.la\/s\/BmL",
-  "id" : 11672212943,
-  "created_at" : "2010-04-06 00:00:00 +0000",
+  "id_str" : "11781183688",
+  "text" : "Don't be chased by deadlines. Chase them. Just a thought.",
+  "id" : 11781183688,
+  "created_at" : "2010-04-07 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -5793,6 +5501,39 @@ Grailbird.data.tweets_2010_04 =
   "text" : "I'm at Tomo Sushi (236 Nassau St, at Chestnut St, Princeton). http:\/\/4sq.com\/6k0XFO",
   "id" : 11705513339,
   "created_at" : "2010-04-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "graphittie in space",
+      "screen_name" : "graphittie",
+      "indices" : [ 0, 11 ],
+      "id_str" : "5135041",
+      "id" : 5135041
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "11657117845",
+  "geo" : { },
+  "id_str" : "11657669404",
+  "in_reply_to_user_id" : 5135041,
+  "text" : "@graphittie \uD559\uAD50 \uBBF8\uC220\uAD00\uB3C4 \uC788\uC73C\uB2C8\uAE4C\uC694 :) \uC804 \uC218\uC5C5\uC5D0 \uD544\uC694\uD560 \uB54C\uB97C \uC81C\uC678\uD558\uACE4 \uAC00\uBCF4\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4\uB9CC(...)",
+  "id" : 11657669404,
+  "in_reply_to_status_id" : 11657117845,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "in_reply_to_screen_name" : "graphittie",
+  "in_reply_to_user_id_str" : "5135041",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -6035,28 +5776,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11650083486",
-  "text" : "I'm at Sakura Express in Princeton, NJ http:\/\/gowal.la\/s\/3tnF",
-  "id" : 11650083486,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -6141,39 +5860,6 @@ Grailbird.data.tweets_2010_04 =
   "text" : "Spring is here :) http:\/\/flic.kr\/p\/7R9Zx1",
   "id" : 11653817995,
   "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "graphittie in space",
-      "screen_name" : "graphittie",
-      "indices" : [ 0, 11 ],
-      "id_str" : "5135041",
-      "id" : 5135041
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "11657117845",
-  "geo" : { },
-  "id_str" : "11657669404",
-  "in_reply_to_user_id" : 5135041,
-  "text" : "@graphittie \uD559\uAD50 \uBBF8\uC220\uAD00\uB3C4 \uC788\uC73C\uB2C8\uAE4C\uC694 :) \uC804 \uC218\uC5C5\uC5D0 \uD544\uC694\uD560 \uB54C\uB97C \uC81C\uC678\uD558\uACE4 \uAC00\uBCF4\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4\uB9CC(...)",
-  "id" : 11657669404,
-  "in_reply_to_status_id" : 11657117845,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "graphittie",
-  "in_reply_to_user_id_str" : "5135041",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -6604,28 +6290,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11444117266",
   "text" : "Sunny April Fool's day. Everyone's energetic and lively. I'm left alone feeling tired and burnt out. From when things had gone wrong? :(",
   "id" : 11444117266,
-  "created_at" : "2010-04-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11448401694",
-  "text" : "I'm at Tomo Sushi in Princeton, NJ http:\/\/gowal.la\/s\/3e3j",
-  "id" : 11448401694,
   "created_at" : "2010-04-01 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",

@@ -1165,6 +1165,28 @@ Grailbird.data.tweets_2009_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "4972142670",
+  "text" : "Visited PU art museum for the second time. First visit was to take a photo, and this one was to watch a painting for a paper assignment.",
+  "id" : 4972142670,
+  "created_at" : "2009-10-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "4965876476",
   "text" : "Heater is still off. Cold, cold, it's too cold.",
   "id" : 4965876476,
@@ -1202,28 +1224,6 @@ Grailbird.data.tweets_2009_10 =
   "created_at" : "2009-10-18 00:00:00 +0000",
   "in_reply_to_screen_name" : "GreedyMin",
   "in_reply_to_user_id_str" : "81772819",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4972142670",
-  "text" : "Visited PU art museum for the second time. First visit was to take a photo, and this one was to watch a painting for a paper assignment.",
-  "id" : 4972142670,
-  "created_at" : "2009-10-18 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -1953,93 +1953,6 @@ Grailbird.data.tweets_2009_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "s. won",
-      "screen_name" : "dudubebe",
-      "indices" : [ 0, 9 ],
-      "id_str" : "24140786",
-      "id" : 24140786
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4707048305",
-  "geo" : { },
-  "id_str" : "4708873494",
-  "in_reply_to_user_id" : 24140786,
-  "text" : "@dudubebe Because it is an English word LOL",
-  "id" : 4708873494,
-  "in_reply_to_status_id" : 4707048305,
-  "created_at" : "2009-10-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dudubebe",
-  "in_reply_to_user_id_str" : "24140786",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4708028108",
-  "geo" : { },
-  "id_str" : "4709250423",
-  "in_reply_to_user_id" : 20353211,
-  "text" : "@ktw9068 that happens all the time",
-  "id" : 4709250423,
-  "in_reply_to_status_id" : 4708028108,
-  "created_at" : "2009-10-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Taewoo_",
-  "in_reply_to_user_id_str" : "20353211",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4715061737",
-  "geo" : { },
-  "id_str" : "4715366634",
-  "in_reply_to_user_id" : 20353211,
-  "text" : "@ktw9068 lol so you hate it all the time ;p",
-  "id" : 4715366634,
-  "in_reply_to_status_id" : 4715061737,
-  "created_at" : "2009-10-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Taewoo_",
-  "in_reply_to_user_id_str" : "20353211",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -2122,6 +2035,93 @@ Grailbird.data.tweets_2009_10 =
   "text" : "I should get rid of this habit of unconsciously turning off all alarm clocks when I hear the first one and going back to sleep again.",
   "id" : 4708845006,
   "created_at" : "2009-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "s. won",
+      "screen_name" : "dudubebe",
+      "indices" : [ 0, 9 ],
+      "id_str" : "24140786",
+      "id" : 24140786
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "4707048305",
+  "geo" : { },
+  "id_str" : "4708873494",
+  "in_reply_to_user_id" : 24140786,
+  "text" : "@dudubebe Because it is an English word LOL",
+  "id" : 4708873494,
+  "in_reply_to_status_id" : 4707048305,
+  "created_at" : "2009-10-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "dudubebe",
+  "in_reply_to_user_id_str" : "24140786",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "4708028108",
+  "geo" : { },
+  "id_str" : "4709250423",
+  "in_reply_to_user_id" : 20353211,
+  "text" : "@ktw9068 that happens all the time",
+  "id" : 4709250423,
+  "in_reply_to_status_id" : 4708028108,
+  "created_at" : "2009-10-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Taewoo_",
+  "in_reply_to_user_id_str" : "20353211",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "4715061737",
+  "geo" : { },
+  "id_str" : "4715366634",
+  "in_reply_to_user_id" : 20353211,
+  "text" : "@ktw9068 lol so you hate it all the time ;p",
+  "id" : 4715366634,
+  "in_reply_to_status_id" : 4715061737,
+  "created_at" : "2009-10-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Taewoo_",
+  "in_reply_to_user_id_str" : "20353211",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -2368,6 +2368,58 @@ Grailbird.data.tweets_2009_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Windows7",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4634574587",
+  "text" : "#Windows7 won't allow me to uninstall McAfee either. Then can I assume McAfee is working fine, W7?",
+  "id" : 4634574587,
+  "created_at" : "2009-10-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "4635484537",
+  "geo" : { },
+  "id_str" : "4635599416",
+  "in_reply_to_user_id" : 20353211,
+  "text" : "@ktw9068 Good. That's reassuring.",
+  "id" : 4635599416,
+  "in_reply_to_status_id" : 4635484537,
+  "created_at" : "2009-10-05 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Taewoo_",
+  "in_reply_to_user_id_str" : "20353211",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -2584,58 +2636,6 @@ Grailbird.data.tweets_2009_10 =
   "text" : "Got a problem: McAfee does not work on #Windows7. W7 complains it can't find antivirus software after I installed McAfee.",
   "id" : 4634484804,
   "created_at" : "2009-10-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Windows7",
-      "indices" : [ 0, 9 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4634574587",
-  "text" : "#Windows7 won't allow me to uninstall McAfee either. Then can I assume McAfee is working fine, W7?",
-  "id" : 4634574587,
-  "created_at" : "2009-10-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4635484537",
-  "geo" : { },
-  "id_str" : "4635599416",
-  "in_reply_to_user_id" : 20353211,
-  "text" : "@ktw9068 Good. That's reassuring.",
-  "id" : 4635599416,
-  "in_reply_to_status_id" : 4635484537,
-  "created_at" : "2009-10-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Taewoo_",
-  "in_reply_to_user_id_str" : "20353211",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

@@ -226,7 +226,10 @@ Grailbird.data.tweets_2011_12 =
       "id" : 443016117
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "eurekaao",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ {
       "indices" : [ 109, 129 ],
       "url" : "http:\/\/t.co\/5YehM8fs",
@@ -721,6 +724,12 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 3, 7 ],
       "id_str" : "10079052",
       "id" : 10079052
+    }, {
+      "name" : "Taylor Weibley",
+      "screen_name" : "themcgruff",
+      "indices" : [ 139, 140 ],
+      "id_str" : "13984262",
+      "id" : 13984262
     } ],
     "media" : [ ],
     "hashtags" : [ ],

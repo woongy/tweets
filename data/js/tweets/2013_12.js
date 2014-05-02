@@ -1,5 +1,5 @@
 Grailbird.data.tweets_2013_12 = 
-[ {
+ [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "coderoshi",
       "protected" : false,
       "id_str" : "134567015",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000615077425\/dfc3d801039961e48ff71f7aa37f6057_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455773186525634560\/eINYEufx_normal.jpeg",
       "id" : 134567015,
       "verified" : false
     }
@@ -949,7 +949,37 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "333568300",
       "id" : 333568300
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/thejensie\/status\/411961876621565952\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/7oQFO1iySb",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BbeVJNzIIAArEJ4.jpg",
+      "id_str" : "411961876483153920",
+      "id" : 411961876483153920,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbeVJNzIIAArEJ4.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 582,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 582,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 582,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 330,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/7oQFO1iySb"
+    } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -1082,7 +1112,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "so_picky",
       "protected" : false,
       "id_str" : "14100332",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000759153911\/f58c83868016116cdd002cdd6074aae3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431966477936111616\/Rxhmtk4c_normal.jpeg",
       "id" : 14100332,
       "verified" : false
     }
@@ -1199,7 +1229,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "eune113",
       "protected" : false,
       "id_str" : "802328552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417333182397046784\/68ISvbw0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459715986787033089\/6DK8hnSh_normal.jpeg",
       "id" : 802328552,
       "verified" : false
     }
@@ -1904,12 +1934,6 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 3, 12 ],
       "id_str" : "103898160",
       "id" : 103898160
-    }, {
-      "name" : "Janko Marohni\u0107",
-      "screen_name" : "m_janko",
-      "indices" : [ 71, 79 ],
-      "id_str" : "376656297",
-      "id" : 376656297
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1932,13 +1956,7 @@ Grailbird.data.tweets_2013_12 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/vine.co\" rel=\"nofollow\"\u003EVine - Make a Scene\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Janko Marohni\u0107",
-        "screen_name" : "m_janko",
-        "indices" : [ 57, 65 ],
-        "id_str" : "376656297",
-        "id" : 376656297
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ {
         "text" : "Programming",

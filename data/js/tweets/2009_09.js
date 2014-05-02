@@ -99,50 +99,6 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4476198885",
-  "text" : "Got Apple wireless keyboard. Exactly same layout and size with MacBook keyboard, but I don't feel the same.",
-  "id" : 4476198885,
-  "created_at" : "2009-09-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4478296888",
-  "text" : "Now I don't have to burn my lap while working on the bed with MacBook. I love you wireless technology :D",
-  "id" : 4478296888,
-  "created_at" : "2009-09-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "4456953157",
   "text" : "Had three cups of coffee today. Seriously considering buying a coffee maker.",
   "id" : 4456953157,
@@ -256,6 +212,50 @@ Grailbird.data.tweets_2009_09 =
   "id_str" : "4473286196",
   "text" : "Proving the obvious is the way to learn that there's nothing much so obvious as one might have thought.",
   "id" : 4473286196,
+  "created_at" : "2009-09-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4476198885",
+  "text" : "Got Apple wireless keyboard. Exactly same layout and size with MacBook keyboard, but I don't feel the same.",
+  "id" : 4476198885,
+  "created_at" : "2009-09-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4478296888",
+  "text" : "Now I don't have to burn my lap while working on the bed with MacBook. I love you wireless technology :D",
+  "id" : 4478296888,
   "created_at" : "2009-09-29 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -426,7 +426,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uCABC\uB819 \uC6B0\uC9C4\uBB35",
+      "name" : "\uC6B0\uC9C4\uBB35",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -508,9 +508,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4400839474",
-  "text" : "Django way of MVC (or MTV as they call it) quite differs from Catalyst one. Or it's just a word play, but still gives a better perspective.",
-  "id" : 4400839474,
+  "id_str" : "4401152058",
+  "text" : "Another word play of mine: C in MVC may stand for Carrier that carries data from model to view in appropriate Container (-:",
+  "id" : 4401152058,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -530,9 +530,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4401152058",
-  "text" : "Another word play of mine: C in MVC may stand for Carrier that carries data from model to view in appropriate Container (-:",
-  "id" : 4401152058,
+  "id_str" : "4400839474",
+  "text" : "Django way of MVC (or MTV as they call it) quite differs from Catalyst one. Or it's just a word play, but still gives a better perspective.",
+  "id" : 4400839474,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",

@@ -525,7 +525,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000485385696\/a5b72dc6709b259e9a7e95724991877e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459097928024350720\/C9DcT1Wb_normal.png",
       "id" : 6503412,
       "verified" : false
     }
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "oisoo",
       "protected" : false,
       "id_str" : "48661131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3326928712\/3ca0c54e461dcdb1b7caa969797a750e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458848853886656513\/gRDMm5mw_normal.jpeg",
       "id" : 48661131,
       "verified" : false
     }
@@ -1854,13 +1854,7 @@ Grailbird.data.tweets_2013_11 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Who Knows",
-      "screen_name" : "mike_ftw",
-      "indices" : [ 3, 12 ],
-      "id_str" : "2228978804",
-      "id" : 2228978804
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1928,7 +1922,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uB8E8\uB9AC",
+      "name" : "\u314E\u314E",
       "screen_name" : "LLLuly",
       "indices" : [ 3, 10 ],
       "id_str" : "143737697",
@@ -2015,11 +2009,11 @@ Grailbird.data.tweets_2013_11 =
     "id" : 397934137404694528,
     "created_at" : "2013-11-06 03:51:06 +0000",
     "user" : {
-      "name" : "\uB8E8\uB9AC",
+      "name" : "\u314E\u314E",
       "screen_name" : "LLLuly",
       "protected" : false,
       "id_str" : "143737697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000753091830\/3645936e8f1cef81262a4d868cb96075_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459541991898902528\/xlEUXDta_normal.jpeg",
       "id" : 143737697,
       "verified" : false
     }
@@ -2152,7 +2146,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "cailia",
       "protected" : false,
       "id_str" : "19104463",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417256864015855617\/K2mDVpor_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449089232649211904\/mvRQou9d_normal.jpeg",
       "id" : 19104463,
       "verified" : false
     }
@@ -2406,7 +2400,12 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/DfUPUp49i6",
+      "expanded_url" : "http:\/\/www.theguardian.com\/world\/interactive\/2013\/nov\/01\/snowden-nsa-files-surveillance-revelations-decoded",
+      "display_url" : "theguardian.com\/world\/interact\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "396444035906166784",
@@ -2434,7 +2433,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "stop",
       "protected" : false,
       "id_str" : "949521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000050553766\/d18e33bd67fe73fe78cee3c38c1f527c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441691596375863296\/H7LzEpDT_normal.jpeg",
       "id" : 949521,
       "verified" : false
     }

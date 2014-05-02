@@ -359,7 +359,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/93079724\/PU_twitter_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461507317096120322\/MAQ7J9nR_normal.jpeg",
       "id" : 5694822,
       "verified" : true
     }
@@ -1095,7 +1095,12 @@ Grailbird.data.tweets_2010_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/f4KSLbH",
+      "expanded_url" : "http:\/\/isaa.ch\/39",
+      "display_url" : "isaa.ch\/39"
+    } ]
   },
   "geo" : { },
   "id_str" : "28384132826",
@@ -1123,7 +1128,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "isaach",
       "protected" : false,
       "id_str" : "7852612",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000565950530\/3c36bd084bf19c44e74cc7ed15c2e092_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430605387117494272\/lmplHwca_normal.png",
       "id" : 7852612,
       "verified" : false
     }
@@ -2097,7 +2102,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "snoble",
       "protected" : false,
       "id_str" : "755779",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3450614418\/4abac6e94355e8aae0da433fc6dac269_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459491240317173760\/hfDq38j3_normal.jpeg",
       "id" : 755779,
       "verified" : false
     }
@@ -3236,6 +3241,12 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 3, 15 ],
       "id_str" : "12196",
       "id" : 12196
+    }, {
+      "name" : "Cameron Moll",
+      "screen_name" : "cameronmoll",
+      "indices" : [ 139, 140 ],
+      "id_str" : "33923",
+      "id" : 33923
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3658,7 +3669,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/93079724\/PU_twitter_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461507317096120322\/MAQ7J9nR_normal.jpeg",
       "id" : 5694822,
       "verified" : true
     }
@@ -4034,7 +4045,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "9943672",
       "id" : 9943672
     }, {
-      "name" : "Support",
+      "name" : "Twitter Support",
       "screen_name" : "Support",
       "indices" : [ 88, 96 ],
       "id_str" : "17874544",

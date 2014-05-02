@@ -390,7 +390,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "imqwerty2",
       "protected" : false,
       "id_str" : "100659116",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1650166795\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427433762431827968\/OgamWwH__normal.jpeg",
       "id" : 100659116,
       "verified" : false
     }
@@ -772,13 +772,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aza Raskin",
-      "screen_name" : "azaaza",
-      "indices" : [ 3, 10 ],
-      "id_str" : "534677003",
-      "id" : 534677003
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -964,7 +958,7 @@ Grailbird.data.tweets_2010_05 =
     "user" : {
       "name" : "graphittie in space",
       "screen_name" : "graphittie",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "5135041",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1426297605\/image_normal.jpg",
       "id" : 5135041,
@@ -1269,13 +1263,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aza Raskin",
-      "screen_name" : "azaaza",
-      "indices" : [ 3, 10 ],
-      "id_str" : "534677003",
-      "id" : 534677003
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1475,7 +1463,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "jankowarpspeed",
       "protected" : false,
       "id_str" : "16965145",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000011911528\/d653fc7c70d8af6ef7337119eb3a0246_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453940206249340929\/Zw0_dWS8_normal.png",
       "id" : 16965145,
       "verified" : false
     }
@@ -1667,12 +1655,6 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aza Raskin",
-      "screen_name" : "azaaza",
-      "indices" : [ 3, 10 ],
-      "id_str" : "534677003",
-      "id" : 534677003
-    }, {
       "name" : "Laurian Gridinoc",
       "screen_name" : "gridinoc",
       "indices" : [ 107, 116 ],
@@ -1916,7 +1898,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "creativeapps",
       "protected" : false,
       "id_str" : "16709304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000440370801\/02fecd1daea7ecef663ae8bbaaab4ffb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458920285354205184\/5jmm_yYh_normal.png",
       "id" : 16709304,
       "verified" : false
     }
@@ -3170,13 +3152,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aza Raskin",
-      "screen_name" : "azaaza",
-      "indices" : [ 3, 10 ],
-      "id_str" : "534677003",
-      "id" : 534677003
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3741,12 +3717,6 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aza Raskin",
-      "screen_name" : "azaaza",
-      "indices" : [ 3, 10 ],
-      "id_str" : "534677003",
-      "id" : 534677003
-    }, {
       "name" : "iA Inc.",
       "screen_name" : "iA",
       "indices" : [ 87, 90 ],
@@ -4069,7 +4039,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/93079724\/PU_twitter_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461507317096120322\/MAQ7J9nR_normal.jpeg",
       "id" : 5694822,
       "verified" : true
     }
@@ -4712,7 +4682,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "lsegal",
       "protected" : false,
       "id_str" : "5186831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000556230163\/b7bc07dfce9d5220a9cb1102bb7e103a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436041233090097152\/39xVjub6_normal.jpeg",
       "id" : 5186831,
       "verified" : false
     }

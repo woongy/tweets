@@ -894,7 +894,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "dharmesh",
       "protected" : false,
       "id_str" : "14260608",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1880865086\/dharmesh-headshot_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455208954880983040\/a8nhLblD_normal.jpeg",
       "id" : 14260608,
       "verified" : true
     }

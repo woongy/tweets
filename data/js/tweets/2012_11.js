@@ -267,7 +267,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "jackcheng",
       "protected" : false,
       "id_str" : "146703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000679544656\/6a6c7460a520b0e15c95ee928c88e7da_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458831651422752768\/Wlcvn5ZW_normal.jpeg",
       "id" : 146703,
       "verified" : false
     }

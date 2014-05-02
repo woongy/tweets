@@ -273,7 +273,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "maxvoltar",
       "protected" : false,
       "id_str" : "2727051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413315498558767104\/78xOqo7e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456937608094822400\/11QF6TAZ_normal.jpeg",
       "id" : 2727051,
       "verified" : false
     }

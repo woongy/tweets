@@ -168,7 +168,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "tyler_thompson",
       "protected" : false,
       "id_str" : "10263002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/355847651\/ty-general_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461218968775045120\/gbrOIgSR_normal.png",
       "id" : 10263002,
       "verified" : false
     }
@@ -1660,13 +1660,7 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aza Raskin",
-      "screen_name" : "azaaza",
-      "indices" : [ 3, 10 ],
-      "id_str" : "534677003",
-      "id" : 534677003
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
