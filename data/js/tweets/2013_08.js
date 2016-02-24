@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2013_08 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -22,7 +22,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -49,7 +49,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -76,7 +76,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -98,7 +98,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -120,17 +120,17 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Youssef",
-      "screen_name" : "ys",
+      "name" : "Youssef Sarhan",
+      "screen_name" : "YS",
       "indices" : [ 3, 6 ],
       "id_str" : "19010677",
       "id" : 19010677
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ys\/status\/370591771102674944\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/YS\/status\/370591771102674944\/photo\/1",
       "indices" : [ 115, 137 ],
       "url" : "http:\/\/t.co\/NNhLt2gSnI",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BSSbQJnCAAEprbU.png",
@@ -138,13 +138,9 @@ Grailbird.data.tweets_2013_08 =
       "id" : 370591771111063553,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BSSbQJnCAAEprbU.png",
       "sizes" : [ {
-        "h" : 559,
+        "h" : 339,
         "resize" : "fit",
-        "w" : 561
-      }, {
-        "h" : 559,
-        "resize" : "fit",
-        "w" : 561
+        "w" : 340
       }, {
         "h" : 559,
         "resize" : "fit",
@@ -154,9 +150,13 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 339,
+        "h" : 559,
         "resize" : "fit",
-        "w" : 340
+        "w" : 561
+      }, {
+        "h" : 559,
+        "resize" : "fit",
+        "w" : 561
       } ],
       "display_url" : "pic.twitter.com\/NNhLt2gSnI"
     } ],
@@ -167,11 +167,11 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "370730968744603648",
   "text" : "RT @ys: The best innovations aren't typically better in one or two ways, but fundamentally better by every metric. http:\/\/t.co\/NNhLt2gSnI",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ys\/status\/370591771102674944\/photo\/1",
+        "expanded_url" : "http:\/\/twitter.com\/YS\/status\/370591771102674944\/photo\/1",
         "indices" : [ 107, 129 ],
         "url" : "http:\/\/t.co\/NNhLt2gSnI",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BSSbQJnCAAEprbU.png",
@@ -179,13 +179,9 @@ Grailbird.data.tweets_2013_08 =
         "id" : 370591771111063553,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BSSbQJnCAAEprbU.png",
         "sizes" : [ {
-          "h" : 559,
+          "h" : 339,
           "resize" : "fit",
-          "w" : 561
-        }, {
-          "h" : 559,
-          "resize" : "fit",
-          "w" : 561
+          "w" : 340
         }, {
           "h" : 559,
           "resize" : "fit",
@@ -195,9 +191,13 @@ Grailbird.data.tweets_2013_08 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 339,
+          "h" : 559,
           "resize" : "fit",
-          "w" : 340
+          "w" : 561
+        }, {
+          "h" : 559,
+          "resize" : "fit",
+          "w" : 561
         } ],
         "display_url" : "pic.twitter.com\/NNhLt2gSnI"
       } ],
@@ -210,11 +210,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 370591771102674944,
     "created_at" : "2013-08-22 17:02:18 +0000",
     "user" : {
-      "name" : "Youssef",
-      "screen_name" : "ys",
+      "name" : "Youssef Sarhan",
+      "screen_name" : "YS",
       "protected" : false,
       "id_str" : "19010677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459064684071497728\/fq6OniXu_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/693169384555167745\/K8ABcn-7_normal.jpg",
       "id" : 19010677,
       "verified" : false
     }
@@ -231,7 +231,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -258,11 +258,11 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Youssef",
-      "screen_name" : "ys",
+      "name" : "Youssef Sarhan",
+      "screen_name" : "YS",
       "indices" : [ 3, 6 ],
       "id_str" : "19010677",
       "id" : 19010677
@@ -275,7 +275,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "370361379019968512",
   "text" : "RT @ys: I wish there was a \"Copy to global clipboard\" option on all Apple properties. Copy on the Mac, paste on the iPhone.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -288,11 +288,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 370358814781870082,
     "created_at" : "2013-08-22 01:36:37 +0000",
     "user" : {
-      "name" : "Youssef",
-      "screen_name" : "ys",
+      "name" : "Youssef Sarhan",
+      "screen_name" : "YS",
       "protected" : false,
       "id_str" : "19010677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459064684071497728\/fq6OniXu_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/693169384555167745\/K8ABcn-7_normal.jpg",
       "id" : 19010677,
       "verified" : false
     }
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -336,7 +336,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -363,7 +363,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -390,7 +390,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -417,7 +417,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -444,7 +444,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -471,7 +471,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -515,7 +515,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -537,7 +537,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\uCD5C\uC2B9\uD638",
@@ -549,7 +549,7 @@ Grailbird.data.tweets_2013_08 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 139, 140 ],
+      "indices" : [ 122, 140 ],
       "url" : "http:\/\/t.co\/gvaaJCDGg4",
       "expanded_url" : "http:\/\/youtu.be\/fGu_YJoqEyc",
       "display_url" : "youtu.be\/fGu_YJoqEyc"
@@ -559,7 +559,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "368248040114511872",
   "text" : "RT @MBC_PDChoi: \"\uB2E4 \uC8FD\uB294 \uAC70\uC57C. \uADF8\uAC74 \uC9C4\uC9DC \uB2E4 \uC8FD\uB294 \uAC70\uC57C\" \uACBD\uCC30 CCTV\uAC00 \uBCF4\uC5EC\uC8FC\uB294 \uAD6D\uC815\uC6D0 \uC0AC\uAC74\uC758 \uC740\uD3D0\uC9C4\uC0C1, 4\uB300\uAC15 \uB179\uC870\uC758 \uC9C4\uC2E4\uC744 \uC740\uD3D0\uD574\uC628 \uD658\uACBD\uBD80. \uC774\uBC88 \uC8FC \uB274\uC2A4\uD0C0\uD30C\uB294 \uAC70\uC9D3\uB9D0\uACFC \uC740\uD3D0\uB4E4\uC5D0 \uB300\uD55C \uACE0\uBC1C\uC785\uB2C8\uB2E4. http:\/\/t.co\/gvaaJ\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -598,7 +598,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -620,7 +620,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -647,7 +647,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -674,7 +674,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -723,7 +723,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -750,7 +750,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\uC54C\uB77C\uB518 \uC778\uD130\uB137\uC11C\uC810",
@@ -772,7 +772,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "365100486627573760",
   "text" : "RT @aladinbook: ActiveX \uC5C6\uC774 \uACB0\uC81C \uAC00\uB2A5\uD55C \uC54C\uB77C\uB518 \uAC04\uD3B8 \uACB0\uC81C\uC758 \uB9CC\uC871\uB3C4\uB294 85.8%\uB85C \uBB34\uCC99 \uB192\uC558\uC2B5\uB2C8\uB2E4. \uD558\uC9C0\uB9CC \uD604\uC7AC\uB294 \uC815\uC0C1\uC801\uC778 \uC11C\uBE44\uC2A4 \uC774\uC6A9\uC774 \uB2E4\uC18C \uC5B4\uB824\uC6B4 \uC0C1\uD0DC\uC785\uB2C8\uB2E4. \uAD00\uB828\uD574 \uC800\uD76C \uC785\uC7A5\uC774 \uB2F4\uAE34 \uBCF4\uB3C4\uC790\uB8CC \uACF5\uC720\uD569\uB2C8\uB2E4. http:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -811,7 +811,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -838,7 +838,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -872,6 +872,10 @@ Grailbird.data.tweets_2013_08 =
       "id" : 364339964558860288,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQ5lRHUCYAAWmyd.jpg",
       "sizes" : [ {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 360,
         "resize" : "fit",
         "w" : 480
@@ -883,10 +887,6 @@ Grailbird.data.tweets_2013_08 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 360,
         "resize" : "fit",
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -934,7 +934,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -956,7 +956,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -983,7 +983,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
