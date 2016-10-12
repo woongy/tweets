@@ -100,7 +100,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "BarackObama",
       "protected" : false,
       "id_str" : "813286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451007105391022080\/iu1f7brY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738744285101580288\/OUoCVEXG_normal.jpg",
       "id" : 813286,
       "verified" : true
     }
@@ -161,7 +161,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "nytimes",
       "protected" : false,
       "id_str" : "807095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2044921128\/finals_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758384037589348352\/KB3RFwFm_normal.jpg",
       "id" : 807095,
       "verified" : true
     }
@@ -188,10 +188,7 @@ Grailbird.data.tweets_2015_06 =
       "id" : 1536791610
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "LoveWins",
-      "indices" : [ 137, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -225,111 +222,6 @@ Grailbird.data.tweets_2015_06 =
   },
   "id" : 614446351481376768,
   "created_at" : "2015-06-26 14:53:20 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Oplose\/status\/613263796065296384\/photo\/1",
-      "indices" : [ 28, 50 ],
-      "url" : "http:\/\/t.co\/3nadSP4ZRl",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CILALCbVEAAJbKU.png",
-      "id_str" : "613263795138400256",
-      "id" : 613263795138400256,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CILALCbVEAAJbKU.png",
-      "sizes" : [ {
-        "h" : 55,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 89,
-        "resize" : "fit",
-        "w" : 546
-      }, {
-        "h" : 89,
-        "resize" : "fit",
-        "w" : 546
-      }, {
-        "h" : 89,
-        "resize" : "crop",
-        "w" : 89
-      }, {
-        "h" : 89,
-        "resize" : "fit",
-        "w" : 546
-      } ],
-      "display_url" : "pic.twitter.com\/3nadSP4ZRl"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "613337271832416256",
-  "text" : "RT @The_Sealer_: \uB514\uC2DC\uC704\uD0A4)\uC9C0\uC801 \uC124\uACC4 http:\/\/t.co\/3nadSP4ZRl",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Oplose\/status\/613263796065296384\/photo\/1",
-        "indices" : [ 11, 33 ],
-        "url" : "http:\/\/t.co\/3nadSP4ZRl",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CILALCbVEAAJbKU.png",
-        "id_str" : "613263795138400256",
-        "id" : 613263795138400256,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CILALCbVEAAJbKU.png",
-        "sizes" : [ {
-          "h" : 55,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 89,
-          "resize" : "fit",
-          "w" : 546
-        }, {
-          "h" : 89,
-          "resize" : "fit",
-          "w" : 546
-        }, {
-          "h" : 89,
-          "resize" : "crop",
-          "w" : 89
-        }, {
-          "h" : 89,
-          "resize" : "fit",
-          "w" : 546
-        } ],
-        "display_url" : "pic.twitter.com\/3nadSP4ZRl"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "613263796065296384",
-    "text" : "\uB514\uC2DC\uC704\uD0A4)\uC9C0\uC801 \uC124\uACC4 http:\/\/t.co\/3nadSP4ZRl",
-    "id" : 613263796065296384,
-    "created_at" : "2015-06-23 08:34:17 +0000",
-    "user" : {
-      "name" : "Oplose",
-      "screen_name" : "Oplose",
-      "protected" : false,
-      "id_str" : "2491572332",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694350317991759876\/sTfau0y__normal.jpg",
-      "id" : 2491572332,
-      "verified" : false
-    }
-  },
-  "id" : 613337271832416256,
-  "created_at" : "2015-06-23 13:26:15 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

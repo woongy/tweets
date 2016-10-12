@@ -109,7 +109,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PPaPPer",
+      "name" : "PPaPPeR",
       "screen_name" : "PPaPPer",
       "indices" : [ 3, 11 ],
       "id_str" : "103576160",
@@ -136,11 +136,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 588546132873060352,
     "created_at" : "2015-04-16 03:35:07 +0000",
     "user" : {
-      "name" : "PPaPPer",
+      "name" : "PPaPPeR",
       "screen_name" : "PPaPPer",
       "protected" : false,
       "id_str" : "103576160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604536523359322113\/NsAizFGl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748879813247578112\/CwtuZsmW_normal.jpg",
       "id" : 103576160,
       "verified" : false
     }
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "164726768",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550804324977086464\/rvNSCyf0_normal.jpeg",
       "id" : 164726768,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 588208175830192128,

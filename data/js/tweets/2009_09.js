@@ -426,7 +426,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC9C4\u2756\uBB35",
+      "name" : "\u23F9",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -508,9 +508,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4401152058",
-  "text" : "Another word play of mine: C in MVC may stand for Carrier that carries data from model to view in appropriate Container (-:",
-  "id" : 4401152058,
+  "id_str" : "4400839474",
+  "text" : "Django way of MVC (or MTV as they call it) quite differs from Catalyst one. Or it's just a word play, but still gives a better perspective.",
+  "id" : 4400839474,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -530,9 +530,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4400839474",
-  "text" : "Django way of MVC (or MTV as they call it) quite differs from Catalyst one. Or it's just a word play, but still gives a better perspective.",
-  "id" : 4400839474,
+  "id_str" : "4401152058",
+  "text" : "Another word play of mine: C in MVC may stand for Carrier that carries data from model to view in appropriate Container (-:",
+  "id" : 4401152058,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -700,13 +700,7 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "foog",
-      "screen_name" : "ifoog",
-      "indices" : [ 0, 6 ],
-      "id_str" : "149355773",
-      "id" : 149355773
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -225,7 +225,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "88996186",
       "id" : 88996186
     }, {
-      "name" : "Arjun",
+      "name" : "arjun",
       "screen_name" : "mrmahanti",
       "indices" : [ 66, 76 ],
       "id_str" : "201918774",
@@ -250,7 +250,7 @@ Grailbird.data.tweets_2012_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arjun",
+        "name" : "arjun",
         "screen_name" : "mrmahanti",
         "indices" : [ 49, 59 ],
         "id_str" : "201918774",

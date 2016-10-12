@@ -76,11 +76,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -94,7 +94,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9706388184,
   "in_reply_to_status_id" : 9705558905,
   "created_at" : "2010-02-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -283,11 +283,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -301,7 +301,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9665219667,
   "in_reply_to_status_id" : 9660267735,
   "created_at" : "2010-02-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -388,11 +388,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -406,7 +406,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9606058335,
   "in_reply_to_status_id" : 9604904882,
   "created_at" : "2010-02-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -498,11 +498,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -516,7 +516,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9616937190,
   "in_reply_to_status_id" : 9616844968,
   "created_at" : "2010-02-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -531,11 +531,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -549,7 +549,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9617569617,
   "in_reply_to_status_id" : 9617022393,
   "created_at" : "2010-02-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -1004,7 +1004,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "tqbf",
       "protected" : false,
       "id_str" : "9395312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590576802193629185\/nEV0wB-0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763466249107939328\/No7KoyMS_normal.jpg",
       "id" : 9395312,
       "verified" : false
     }
@@ -1024,7 +1024,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Civilization",
+      "name" : "Civilization VI",
       "screen_name" : "CivGame",
       "indices" : [ 3, 11 ],
       "id_str" : "38705128",
@@ -1051,11 +1051,11 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9289562669,
     "created_at" : "2010-02-18 16:10:04 +0000",
     "user" : {
-      "name" : "Civilization",
+      "name" : "Civilization VI",
       "screen_name" : "CivGame",
       "protected" : false,
       "id_str" : "38705128",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455012981651161089\/gdGCEHEI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730414539880038400\/inAlJehx_normal.jpg",
       "id" : 38705128,
       "verified" : true
     }
@@ -1427,6 +1427,107 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Web Explorer",
+      "screen_name" : "Web2Discover",
+      "indices" : [ 3, 16 ],
+      "id_str" : "33139096",
+      "id" : 33139096
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9342091860",
+  "text" : "RT @Web2Discover: Designing for the Future with HTML5+CSS3 : Tutorials and Best Practices | DevSnippets: http:\/\/bit.ly\/dAYajY",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "9335411609",
+    "text" : "Designing for the Future with HTML5+CSS3 : Tutorials and Best Practices | DevSnippets: http:\/\/bit.ly\/dAYajY",
+    "id" : 9335411609,
+    "created_at" : "2010-02-19 13:59:07 +0000",
+    "user" : {
+      "name" : "Web Explorer",
+      "screen_name" : "Web2Discover",
+      "protected" : false,
+      "id_str" : "33139096",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/146406726\/webdiscover_normal.jpg",
+      "id" : 33139096,
+      "verified" : false
+    }
+  },
+  "id" : 9342091860,
+  "created_at" : "2010-02-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9344236710",
+  "text" : "Nice photos from The Big Picture, as always. http:\/\/www.boston.com\/bigpicture\/2010\/02\/vancouver_2010_part_1_of_2.html",
+  "id" : 9344236710,
+  "created_at" : "2010-02-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Django Advent",
+      "screen_name" : "djangoadvent",
+      "indices" : [ 114, 127 ],
+      "id_str" : "97031243",
+      "id" : 97031243
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9345646422",
+  "text" : "A series of articles about upcoming releases of the Django web framework http:\/\/djangoadvent.com\/ and its twitter @djangoadvent",
+  "id" : 9345646422,
+  "created_at" : "2010-02-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1484,7 +1585,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666407537084796928\/YBGgi9BO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -1759,112 +1860,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Web Explorer",
-      "screen_name" : "Web2Discover",
-      "indices" : [ 3, 16 ],
-      "id_str" : "33139096",
-      "id" : 33139096
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9342091860",
-  "text" : "RT @Web2Discover: Designing for the Future with HTML5+CSS3 : Tutorials and Best Practices | DevSnippets: http:\/\/bit.ly\/dAYajY",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "9335411609",
-    "text" : "Designing for the Future with HTML5+CSS3 : Tutorials and Best Practices | DevSnippets: http:\/\/bit.ly\/dAYajY",
-    "id" : 9335411609,
-    "created_at" : "2010-02-19 13:59:07 +0000",
-    "user" : {
-      "name" : "Web Explorer",
-      "screen_name" : "Web2Discover",
-      "protected" : false,
-      "id_str" : "33139096",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/146406726\/webdiscover_normal.jpg",
-      "id" : 33139096,
-      "verified" : false
-    }
-  },
-  "id" : 9342091860,
-  "created_at" : "2010-02-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9344236710",
-  "text" : "Nice photos from The Big Picture, as always. http:\/\/www.boston.com\/bigpicture\/2010\/02\/vancouver_2010_part_1_of_2.html",
-  "id" : 9344236710,
-  "created_at" : "2010-02-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Django Advent",
-      "screen_name" : "djangoadvent",
-      "indices" : [ 114, 127 ],
-      "id_str" : "97031243",
-      "id" : 97031243
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9345646422",
-  "text" : "A series of articles about upcoming releases of the Django web framework http:\/\/djangoadvent.com\/ and its twitter @djangoadvent",
-  "id" : 9345646422,
-  "created_at" : "2010-02-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1878,7 +1878,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9265854741,
   "in_reply_to_status_id" : 9264336511,
   "created_at" : "2010-02-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "RWW",
       "protected" : false,
       "id_str" : "4641021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2750899250\/294d9c7b13ba263c7c3f634a487d468d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712827058662019072\/szE7-EaY_normal.jpg",
       "id" : 4641021,
       "verified" : true
     }
@@ -2193,7 +2193,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "RWW",
       "protected" : false,
       "id_str" : "4641021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2750899250\/294d9c7b13ba263c7c3f634a487d468d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712827058662019072\/szE7-EaY_normal.jpg",
       "id" : 4641021,
       "verified" : true
     }
@@ -2756,6 +2756,83 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "8966144002",
+  "text" : "Just updated iPhone OS to the latest version and it removed some apps. What happened?",
+  "id" : 8966144002,
+  "created_at" : "2010-02-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joongi Kim",
+      "screen_name" : "achimnol",
+      "indices" : [ 0, 9 ],
+      "id_str" : "26445061",
+      "id" : 26445061
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "8966307937",
+  "geo" : { },
+  "id_str" : "8966465030",
+  "in_reply_to_user_id" : 26445061,
+  "text" : "@achimnol \uD5C9 \uADF8\uB807\uAD70\uC694. \uB9C8\uC9C0\uB9C9 \uB3D9\uAE30\uD654 \uC774\uD6C4\uC5D0 \uC124\uCE58\uD55C \uC571\uB4E4\uB9CC \uACE8\uB77C\uC11C \uC0AC\uB77C\uC9C4 \uAC83 \uAC19\uC2B5\uB2C8\uB2E4 \uADF8\uB7EC\uACE0\uBCF4\uB2C8. \uBA87 \uAC1C \uC5C6\uC5B4\uC11C \uAE30\uC5B5\uD558\uB294 \uAC74 \uBB38\uC81C\uAC00 \uC544\uB2CC\uB370, \uAC8C\uC784 \uC571\uC5D0\uC11C \uC138\uC774\uBE0C \uB370\uC774\uD130\uAC00 \uB0A0\uC544\uAC14\uC744 \uAC78 \uC0DD\uAC01\uD558\uB2C8 \uC2AC\uD504\uAD70\uC694 \u3160\u3160",
+  "id" : 8966465030,
+  "in_reply_to_status_id" : 8966307937,
+  "created_at" : "2010-02-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "achimnol",
+  "in_reply_to_user_id_str" : "26445061",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8966501185",
+  "text" : "The entire campus is covered with snow. With various snow sculptures here and there it almost looks like some snow festival.",
+  "id" : 8966501185,
+  "created_at" : "2010-02-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "8986223572",
   "text" : "The problem I was painfully working on magically got solved with the help of two hours of nap :)",
   "id" : 8986223572,
@@ -2839,11 +2916,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2857,7 +2934,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8995137548,
   "in_reply_to_status_id" : 8993461884,
   "created_at" : "2010-02-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -2872,7 +2949,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC9C4\u2756\uBB35",
+      "name" : "\u23F9",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -3019,7 +3096,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC9C4\u2756\uBB35",
+      "name" : "\u23F9",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -3274,83 +3351,6 @@ Grailbird.data.tweets_2010_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8966144002",
-  "text" : "Just updated iPhone OS to the latest version and it removed some apps. What happened?",
-  "id" : 8966144002,
-  "created_at" : "2010-02-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joongi Kim",
-      "screen_name" : "achimnol",
-      "indices" : [ 0, 9 ],
-      "id_str" : "26445061",
-      "id" : 26445061
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8966307937",
-  "geo" : { },
-  "id_str" : "8966465030",
-  "in_reply_to_user_id" : 26445061,
-  "text" : "@achimnol \uD5C9 \uADF8\uB807\uAD70\uC694. \uB9C8\uC9C0\uB9C9 \uB3D9\uAE30\uD654 \uC774\uD6C4\uC5D0 \uC124\uCE58\uD55C \uC571\uB4E4\uB9CC \uACE8\uB77C\uC11C \uC0AC\uB77C\uC9C4 \uAC83 \uAC19\uC2B5\uB2C8\uB2E4 \uADF8\uB7EC\uACE0\uBCF4\uB2C8. \uBA87 \uAC1C \uC5C6\uC5B4\uC11C \uAE30\uC5B5\uD558\uB294 \uAC74 \uBB38\uC81C\uAC00 \uC544\uB2CC\uB370, \uAC8C\uC784 \uC571\uC5D0\uC11C \uC138\uC774\uBE0C \uB370\uC774\uD130\uAC00 \uB0A0\uC544\uAC14\uC744 \uAC78 \uC0DD\uAC01\uD558\uB2C8 \uC2AC\uD504\uAD70\uC694 \u3160\u3160",
-  "id" : 8966465030,
-  "in_reply_to_status_id" : 8966307937,
-  "created_at" : "2010-02-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "achimnol",
-  "in_reply_to_user_id_str" : "26445061",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8966501185",
-  "text" : "The entire campus is covered with snow. With various snow sculptures here and there it almost looks like some snow festival.",
-  "id" : 8966501185,
-  "created_at" : "2010-02-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
     "hashtags" : [ {
       "text" : "Ruby",
       "indices" : [ 37, 42 ]
@@ -3562,11 +3562,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3580,7 +3580,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8923648945,
   "in_reply_to_status_id" : 8909735281,
   "created_at" : "2010-02-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -3854,7 +3854,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603913307758710784\/kiuLzCqq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709572878585434112\/OlidnMaV_normal.jpg",
       "id" : 5694822,
       "verified" : true
     }
@@ -4005,27 +4005,16 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "jinho choi",
-      "screen_name" : "slang1998",
-      "indices" : [ 0, 10 ],
-      "id_str" : "56626309",
-      "id" : 56626309
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "8680823035",
   "geo" : { },
   "id_str" : "8683456993",
-  "in_reply_to_user_id" : 56626309,
   "text" : "@slang1998 \uBA85\uC791\uC774\uC8E0 \uC5D0\uC2A4\uCE74\uD50C\uB85C\uB124. \uC74C\uC545\uB3C4 \uC88B\uAD6C\uC694 :)",
   "id" : 8683456993,
-  "in_reply_to_status_id" : 8680823035,
   "created_at" : "2010-02-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "slang1998",
-  "in_reply_to_user_id_str" : "56626309",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -4373,7 +4362,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "14109167",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585826994526355456\/R3tYT5Kj_normal.png",
       "id" : 14109167,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 8603754231,
@@ -4391,11 +4380,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4409,8 +4398,30 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8607788692,
   "in_reply_to_status_id" : 8607550480,
   "created_at" : "2010-02-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8530201120",
+  "text" : "miniature city 2 - featuring vividblaze \"tight rope (floor mix)\" http:\/\/www.youtube.com\/v\/NK357O9mZPI Awesome music & video.",
+  "id" : 8530201120,
+  "created_at" : "2010-02-02 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -4533,16 +4544,49 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Teddy Choi",
+      "screen_name" : "pudidic",
+      "indices" : [ 0, 8 ],
+      "id_str" : "13285972",
+      "id" : 13285972
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "8501916017",
+  "geo" : { },
+  "id_str" : "8510613549",
+  "in_reply_to_user_id" : 13285972,
+  "text" : "@pudidic \"\uBC18\uC9DD\uBC18\uC9DD \uB208\uC774\uBD80\uC154 \uB178\uB178\uB178\uB178\uB178\" \uD558\uB294 \uBD80\uBD84\uC774\uC694 ;D",
+  "id" : 8510613549,
+  "in_reply_to_status_id" : 8501916017,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "pudidic",
+  "in_reply_to_user_id_str" : "13285972",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "8530201120",
-  "text" : "miniature city 2 - featuring vividblaze \"tight rope (floor mix)\" http:\/\/www.youtube.com\/v\/NK357O9mZPI Awesome music & video.",
-  "id" : 8530201120,
-  "created_at" : "2010-02-02 00:00:00 +0000",
+  "id_str" : "8515352107",
+  "text" : "Didn't expect to see Bessel (as in Bessel function) in Astronomy lecture.",
+  "id" : 8515352107,
+  "created_at" : "2010-02-01 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -4806,61 +4850,6 @@ Grailbird.data.tweets_2010_02 =
   "created_at" : "2010-02-01 00:00:00 +0000",
   "in_reply_to_screen_name" : "pudidic",
   "in_reply_to_user_id_str" : "13285972",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Teddy Choi",
-      "screen_name" : "pudidic",
-      "indices" : [ 0, 8 ],
-      "id_str" : "13285972",
-      "id" : 13285972
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8501916017",
-  "geo" : { },
-  "id_str" : "8510613549",
-  "in_reply_to_user_id" : 13285972,
-  "text" : "@pudidic \"\uBC18\uC9DD\uBC18\uC9DD \uB208\uC774\uBD80\uC154 \uB178\uB178\uB178\uB178\uB178\" \uD558\uB294 \uBD80\uBD84\uC774\uC694 ;D",
-  "id" : 8510613549,
-  "in_reply_to_status_id" : 8501916017,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "pudidic",
-  "in_reply_to_user_id_str" : "13285972",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8515352107",
-  "text" : "Didn't expect to see Bessel (as in Bessel function) in Astronomy lecture.",
-  "id" : 8515352107,
-  "created_at" : "2010-02-01 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

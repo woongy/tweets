@@ -53,11 +53,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -71,7 +71,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 8350715521,
   "in_reply_to_status_id" : 8348071657,
   "created_at" : "2010-01-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -210,11 +210,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     }, {
       "name" : "Teddy Choi",
       "screen_name" : "pudidic",
@@ -234,7 +234,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 8355811422,
   "in_reply_to_status_id" : 8355008923,
   "created_at" : "2010-01-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -303,27 +303,16 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "jinho choi",
-      "screen_name" : "slang1998",
-      "indices" : [ 0, 10 ],
-      "id_str" : "56626309",
-      "id" : 56626309
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "8356609292",
   "geo" : { },
   "id_str" : "8357094934",
-  "in_reply_to_user_id" : 56626309,
   "text" : "@slang1998 \uAC00\uB054 \uADF8\uB7F0 \uC624\uB958\uAC00 \uBC1C\uC0DD\uD558\uB294 \uB4EF \uD569\uB2C8\uB2E4. \uD574\uB2F9 \uC568\uBC94\uC744 \uC9C0\uC6B0\uACE0 \uB2E4\uC2DC \uC2F1\uD06C\uD558\uBA74 \uC81C\uB300\uB85C \uBCF4\uC774\uB354\uB77C\uAD6C\uC694.",
   "id" : 8357094934,
-  "in_reply_to_status_id" : 8356609292,
   "created_at" : "2010-01-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "slang1998",
-  "in_reply_to_user_id_str" : "56626309",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -527,7 +516,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC9C4\u2756\uBB35",
+      "name" : "\u23F9",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -715,12 +704,6 @@ Grailbird.data.tweets_2010_01 =
       "indices" : [ 3, 9 ],
       "id_str" : "2284681",
       "id" : 2284681
-    }, {
-      "name" : "Louis Kim",
-      "screen_name" : "louiskim",
-      "indices" : [ 139, 140 ],
-      "id_str" : "45154187",
-      "id" : 45154187
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1021,6 +1004,103 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Teddy Choi",
+      "screen_name" : "pudidic",
+      "indices" : [ 0, 8 ],
+      "id_str" : "13285972",
+      "id" : 13285972
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "8184287821",
+  "geo" : { },
+  "id_str" : "8184394199",
+  "in_reply_to_user_id" : 13285972,
+  "text" : "@pudidic \uC544\uBB34\uB9AC \uAE30\uC220\uC774 \uBC1C\uB2EC\uD574\uB3C4 \uBB54\uAC00 \uC548\uB418\uBA74 \uC77C\uB2E8 \uC7AC\uBD80\uD305\uBD80\uD130\uC8E0 :)",
+  "id" : 8184394199,
+  "in_reply_to_status_id" : 8184287821,
+  "created_at" : "2010-01-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "pudidic",
+  "in_reply_to_user_id_str" : "13285972",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3141\u3141\u3141",
+      "screen_name" : "neoocean",
+      "indices" : [ 0, 9 ],
+      "id_str" : "45482413",
+      "id" : 45482413
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "8184055791",
+  "geo" : { },
+  "id_str" : "8184574498",
+  "in_reply_to_user_id" : 45482413,
+  "text" : "@neoocean \uD558\uC9C0\uB9CC \uB610 \uB4E3\uB2E4\uBCF4\uBA74 \uB1CC\uC5D0\uC11C \uBE59\uAE00\uBE59\uAE00 \uB3CC\uC544\uAC00\uAC8C \uB418\uC9C0 \uC54A\uC744\uAE4C\uC694(...)",
+  "id" : 8184574498,
+  "in_reply_to_status_id" : 8184055791,
+  "created_at" : "2010-01-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neoocean",
+  "in_reply_to_user_id_str" : "45482413",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "thesixtyone",
+      "screen_name" : "thesixtyone",
+      "indices" : [ 0, 12 ],
+      "id_str" : "18114779",
+      "id" : 18114779
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8184763335",
+  "in_reply_to_user_id" : 18114779,
+  "text" : "@thesixtyone is very interesting. Listening to music is nicely transformed into playing a (social) game.",
+  "id" : 8184763335,
+  "created_at" : "2010-01-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "thesixtyone",
+  "in_reply_to_user_id_str" : "18114779",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "thesixtyone",
       "screen_name" : "thesixtyone",
       "indices" : [ 39, 51 ],
@@ -1082,11 +1162,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1100,7 +1180,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 8193502446,
   "in_reply_to_status_id" : 8193228070,
   "created_at" : "2010-01-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -1310,103 +1390,6 @@ Grailbird.data.tweets_2010_01 =
   "text" : "My high school art teacher used to tell me to keep a collection of some sort. Think I found something to start collecting piece by piece.",
   "id" : 8181446199,
   "created_at" : "2010-01-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Teddy Choi",
-      "screen_name" : "pudidic",
-      "indices" : [ 0, 8 ],
-      "id_str" : "13285972",
-      "id" : 13285972
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8184287821",
-  "geo" : { },
-  "id_str" : "8184394199",
-  "in_reply_to_user_id" : 13285972,
-  "text" : "@pudidic \uC544\uBB34\uB9AC \uAE30\uC220\uC774 \uBC1C\uB2EC\uD574\uB3C4 \uBB54\uAC00 \uC548\uB418\uBA74 \uC77C\uB2E8 \uC7AC\uBD80\uD305\uBD80\uD130\uC8E0 :)",
-  "id" : 8184394199,
-  "in_reply_to_status_id" : 8184287821,
-  "created_at" : "2010-01-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "pudidic",
-  "in_reply_to_user_id_str" : "13285972",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
-      "screen_name" : "neoocean",
-      "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8184055791",
-  "geo" : { },
-  "id_str" : "8184574498",
-  "in_reply_to_user_id" : 45482413,
-  "text" : "@neoocean \uD558\uC9C0\uB9CC \uB610 \uB4E3\uB2E4\uBCF4\uBA74 \uB1CC\uC5D0\uC11C \uBE59\uAE00\uBE59\uAE00 \uB3CC\uC544\uAC00\uAC8C \uB418\uC9C0 \uC54A\uC744\uAE4C\uC694(...)",
-  "id" : 8184574498,
-  "in_reply_to_status_id" : 8184055791,
-  "created_at" : "2010-01-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
-  "in_reply_to_user_id_str" : "45482413",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "thesixtyone",
-      "screen_name" : "thesixtyone",
-      "indices" : [ 0, 12 ],
-      "id_str" : "18114779",
-      "id" : 18114779
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8184763335",
-  "in_reply_to_user_id" : 18114779,
-  "text" : "@thesixtyone is very interesting. Listening to music is nicely transformed into playing a (social) game.",
-  "id" : 8184763335,
-  "created_at" : "2010-01-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "thesixtyone",
-  "in_reply_to_user_id_str" : "18114779",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -2068,7 +2051,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "abhishektiwari",
       "protected" : false,
       "id_str" : "19114465",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696303468923891712\/OTrx1a5M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739446263473524736\/F0xXhtUy_normal.jpg",
       "id" : 19114465,
       "verified" : false
     }
@@ -2627,6 +2610,84 @@ Grailbird.data.tweets_2010_01 =
     "media" : [ ],
     "hashtags" : [ {
       "text" : "django",
+      "indices" : [ 30, 37 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7773220502",
+  "text" : "Only if I had known all these #django features from the beginning :(",
+  "id" : 7773220502,
+  "created_at" : "2010-01-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Batthew Wolfman",
+      "screen_name" : "Oatmeal",
+      "indices" : [ 107, 115 ],
+      "id_str" : "4519121",
+      "id" : 4519121
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7775391618",
+  "text" : "Why I Believe Printers Were Sent From Hell To Make Us Miserable http:\/\/theoatmeal.com\/comics\/printers from @oatmeal",
+  "id" : 7775391618,
+  "created_at" : "2010-01-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "django\uB97C",
+      "indices" : [ 0, 8 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7776106108",
+  "text" : "#django\uB97C \uD55C\uAE00 \uC790\uD310\uC73C\uB85C \uD0C0\uC774\uD551\uD558\uBA74 \"\uC5B4\uBB34\uD574\"\uAC00 \uB418\uB294\uAD6C\uB098(...)",
+  "id" : 7776106108,
+  "created_at" : "2010-01-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "django",
       "indices" : [ 20, 27 ]
     } ],
     "urls" : [ ]
@@ -2768,7 +2829,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "14109167",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585826994526355456\/R3tYT5Kj_normal.png",
       "id" : 14109167,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 7791863180,
@@ -2813,84 +2874,6 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "django",
-      "indices" : [ 30, 37 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7773220502",
-  "text" : "Only if I had known all these #django features from the beginning :(",
-  "id" : 7773220502,
-  "created_at" : "2010-01-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matthew Inman",
-      "screen_name" : "Oatmeal",
-      "indices" : [ 107, 115 ],
-      "id_str" : "4519121",
-      "id" : 4519121
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7775391618",
-  "text" : "Why I Believe Printers Were Sent From Hell To Make Us Miserable http:\/\/theoatmeal.com\/comics\/printers from @oatmeal",
-  "id" : 7775391618,
-  "created_at" : "2010-01-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "django\uB97C",
-      "indices" : [ 0, 8 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7776106108",
-  "text" : "#django\uB97C \uD55C\uAE00 \uC790\uD310\uC73C\uB85C \uD0C0\uC774\uD551\uD558\uBA74 \"\uC5B4\uBB34\uD574\"\uAC00 \uB418\uB294\uAD6C\uB098(...)",
-  "id" : 7776106108,
-  "created_at" : "2010-01-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "jj",
       "screen_name" : "all2one",
@@ -2917,10 +2900,7 @@ Grailbird.data.tweets_2010_01 =
       "id" : 18959257
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "dev",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -3412,9 +3392,6 @@ Grailbird.data.tweets_2010_01 =
     "hashtags" : [ {
       "text" : "opensource",
       "indices" : [ 90, 101 ]
-    }, {
-      "text" : "django",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -3453,7 +3430,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "4598",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524368255620612096\/4Q3630c3_normal.jpeg",
       "id" : 4598,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 7619868553,
@@ -3910,7 +3887,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "5633002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462877204355878912\/U9EqNDvk_normal.png",
       "id" : 5633002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 7555559161,
@@ -3978,11 +3955,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3996,7 +3973,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7505189430,
   "in_reply_to_status_id" : 7504027125,
   "created_at" : "2010-01-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4190,7 +4167,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "14109167",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585826994526355456\/R3tYT5Kj_normal.png",
       "id" : 14109167,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 7462834650,
@@ -4284,10 +4261,7 @@ Grailbird.data.tweets_2010_01 =
       "id" : 64520972
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "dev",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4361,6 +4335,84 @@ Grailbird.data.tweets_2010_01 =
   "text" : "I ran 9058m before  falling to my death on my iPod touch. http:\/\/www.canabalt.com\/",
   "id" : 7495779349,
   "created_at" : "2010-01-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "TechCrunch",
+      "screen_name" : "TechCrunch",
+      "indices" : [ 38, 49 ],
+      "id_str" : "816653",
+      "id" : 816653
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7424270726",
+  "text" : "Nice comparison in a single chart. RT @TechCrunch: 24 Month Ownership Cost of iPhone Nearly 50% Higher Than Nexus One http:\/\/ff.im\/-dQT6P",
+  "id" : 7424270726,
+  "created_at" : "2010-01-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3141\u3141\u3141",
+      "screen_name" : "neoocean",
+      "indices" : [ 46, 55 ],
+      "id_str" : "45482413",
+      "id" : 45482413
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7424332836",
+  "text" : "TV \uBE44\uC720\uAC00 \uBA4B\uC9C0\uB124\uC694. \uC65C\uACE1\uB41C \uD55C\uAD6D \uD1B5\uC2E0\uC2DC\uC7A5\uC5D0 \uC5B4\uC11C \uBCC0\uD654\uAC00 \uC624\uAE30\uB97C \uBC14\uB78D\uB2C8\uB2E4. RT @neoocean TV\uB97C \uBC29\uC1A1\uAD6D \uAC00\uC11C \uC0AC\uB294\uAC74 \uC774\uC0C1\uD558\uB2E4. \uC11C\uBE44\uC2A4\uAC00 \uD544\uC694\uD558\uBA74 \uD1B5\uC2E0\uC0AC\uB294 \uC5B8\uC81C\uB4E0\uC9C0 \uBC14\uAFC0 \uC218 \uC788\uC5B4\uC57C \uD558\uB294 \uAC83\uC774 \uC815\uC0C1\uC774\uB2E4.",
+  "id" : 7424332836,
+  "created_at" : "2010-01-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7424410609",
+  "text" : "I'm retweeting more and more as I don't have enough time to tweet by myself nowadays :p",
+  "id" : 7424410609,
+  "created_at" : "2010-01-06 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -4450,12 +4502,6 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jinho choi",
-      "screen_name" : "slang1998",
-      "indices" : [ 24, 34 ],
-      "id_str" : "56626309",
-      "id" : 56626309
-    }, {
       "name" : "Zoran Praja",
       "screen_name" : "fishop",
       "indices" : [ 38, 45 ],
@@ -4527,84 +4573,6 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "TechCrunch",
-      "screen_name" : "TechCrunch",
-      "indices" : [ 38, 49 ],
-      "id_str" : "816653",
-      "id" : 816653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7424270726",
-  "text" : "Nice comparison in a single chart. RT @TechCrunch: 24 Month Ownership Cost of iPhone Nearly 50% Higher Than Nexus One http:\/\/ff.im\/-dQT6P",
-  "id" : 7424270726,
-  "created_at" : "2010-01-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
-      "screen_name" : "neoocean",
-      "indices" : [ 46, 55 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7424332836",
-  "text" : "TV \uBE44\uC720\uAC00 \uBA4B\uC9C0\uB124\uC694. \uC65C\uACE1\uB41C \uD55C\uAD6D \uD1B5\uC2E0\uC2DC\uC7A5\uC5D0 \uC5B4\uC11C \uBCC0\uD654\uAC00 \uC624\uAE30\uB97C \uBC14\uB78D\uB2C8\uB2E4. RT @neoocean TV\uB97C \uBC29\uC1A1\uAD6D \uAC00\uC11C \uC0AC\uB294\uAC74 \uC774\uC0C1\uD558\uB2E4. \uC11C\uBE44\uC2A4\uAC00 \uD544\uC694\uD558\uBA74 \uD1B5\uC2E0\uC0AC\uB294 \uC5B8\uC81C\uB4E0\uC9C0 \uBC14\uAFC0 \uC218 \uC788\uC5B4\uC57C \uD558\uB294 \uAC83\uC774 \uC815\uC0C1\uC774\uB2E4.",
-  "id" : 7424332836,
-  "created_at" : "2010-01-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7424410609",
-  "text" : "I'm retweeting more and more as I don't have enough time to tweet by myself nowadays :p",
-  "id" : 7424410609,
-  "created_at" : "2010-01-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4614,6 +4582,57 @@ Grailbird.data.tweets_2010_01 =
   "id_str" : "7403439976",
   "text" : "Twitter Territory: A Different Twitter Map http:\/\/www.coolinfographics.com\/blog\/2010\/1\/5\/twitter-territory-a-different-twitter-map.html",
   "id" : 7403439976,
+  "created_at" : "2010-01-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Susan",
+      "screen_name" : "scisu",
+      "indices" : [ 3, 9 ],
+      "id_str" : "100721587",
+      "id" : 100721587
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7403594911",
+  "text" : "RT @scisu: Science has never looked this delicious! Not So Humble Pie: Science Cookie Round Up #1 http:\/\/bit.ly\/8bsR32",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "7400135788",
+    "text" : "Science has never looked this delicious! Not So Humble Pie: Science Cookie Round Up #1 http:\/\/bit.ly\/8bsR32",
+    "id" : 7400135788,
+    "created_at" : "2010-01-05 10:58:03 +0000",
+    "user" : {
+      "name" : "Susan",
+      "screen_name" : "scisu",
+      "protected" : false,
+      "id_str" : "100721587",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602054815\/ss_normal.png",
+      "id" : 100721587,
+      "verified" : false
+    }
+  },
+  "id" : 7403594911,
   "created_at" : "2010-01-05 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4955,74 +4974,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jinho choi",
-      "screen_name" : "slang1998",
-      "indices" : [ 3, 13 ],
-      "id_str" : "56626309",
-      "id" : 56626309
-    }, {
-      "name" : "johnlee",
-      "screen_name" : "loymin",
-      "indices" : [ 41, 48 ],
-      "id_str" : "47266056",
-      "id" : 47266056
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7356669262",
-  "text" : "RT @slang1998: \u314B\u314B\u314B\uC774\uAC70 \uC6C3\uC5B4\uC120 \uC548\uB3FC\uACA0\uC9C0\uB9CC \uC6C3\uAE30\uB124\uC694 \u314E\u314ERT @loymin \uB180\uB77C\uC6B4 \uADE0\uD615\uAC10\uAC01, \uAC00\uB4DC\uB808\uC77C \uC704\uC5D0 \uC62C\uB77C\uC549\uC740 \uC790\uB3D9\uCC28 http:\/\/twitpic.com\/wlnaq",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "johnlee",
-        "screen_name" : "loymin",
-        "indices" : [ 26, 33 ],
-        "id_str" : "47266056",
-        "id" : 47266056
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "7355939796",
-    "text" : "\u314B\u314B\u314B\uC774\uAC70 \uC6C3\uC5B4\uC120 \uC548\uB3FC\uACA0\uC9C0\uB9CC \uC6C3\uAE30\uB124\uC694 \u314E\u314ERT @loymin \uB180\uB77C\uC6B4 \uADE0\uD615\uAC10\uAC01, \uAC00\uB4DC\uB808\uC77C \uC704\uC5D0 \uC62C\uB77C\uC549\uC740 \uC790\uB3D9\uCC28 http:\/\/twitpic.com\/wlnaq",
-    "id" : 7355939796,
-    "created_at" : "2010-01-04 04:30:33 +0000",
-    "user" : {
-      "name" : "jinho choi",
-      "screen_name" : "slang1998",
-      "protected" : false,
-      "id_str" : "56626309",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000666330318\/8bf053f44e5bda2ce6966c35c5f15f8e_normal.jpeg",
-      "id" : 56626309,
-      "verified" : false
-    }
-  },
-  "id" : 7356669262,
-  "created_at" : "2010-01-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 3, 12 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     }, {
       "name" : "DESIGN LOG",
       "screen_name" : "hyunwook",
@@ -5413,7 +5369,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "5988062",
       "id" : 5988062
     }, {
-      "name" : "Jack",
+      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
       "screen_name" : "jack",
       "indices" : [ 123, 128 ],
       "id_str" : "12",
@@ -5517,11 +5473,149 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "Guido van Rossum",
+      "screen_name" : "gvanrossum",
+      "indices" : [ 3, 14 ],
+      "id_str" : "15804774",
+      "id" : 15804774
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "20yearsago",
+      "indices" : [ 16, 27 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7252994902",
+  "text" : "RT @gvanrossum: #20yearsago I created Python.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "20yearsago",
+        "indices" : [ 0, 11 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "7245136611",
+    "text" : "#20yearsago I created Python.",
+    "id" : 7245136611,
+    "created_at" : "2009-12-31 19:37:52 +0000",
+    "user" : {
+      "name" : "Guido van Rossum",
+      "screen_name" : "gvanrossum",
+      "protected" : false,
+      "id_str" : "15804774",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424495004\/GuidoAvatar_normal.jpg",
+      "id" : 15804774,
+      "verified" : true
+    }
+  },
+  "id" : 7252994902,
+  "created_at" : "2010-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "10yearsago",
+      "indices" : [ 0, 11 ]
+    }, {
+      "text" : "Diablo2",
+      "indices" : [ 26, 34 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7253119885",
+  "text" : "#10yearsago I was playing #Diablo2! I remember it!",
+  "id" : 7253119885,
+  "created_at" : "2010-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "10yearsago",
+      "indices" : [ 0, 11 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7253432376",
+  "text" : "#10yearsago I got my first MP3 player which could barely hold up to less than a dozen songs. Now I'm tweeting from an iPod Touch.",
+  "id" : 7253432376,
+  "created_at" : "2010-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Donggi Jung",
+      "screen_name" : "Donggi",
+      "indices" : [ 85, 92 ],
+      "id_str" : "8376022",
+      "id" : 8376022
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7257389708",
+  "text" : "This is what 'customization' or 'personalization' should be. Absolutely stunning. RT @Donggi Flavors.me http:\/\/vimeo.com\/7105366",
+  "id" : 7257389708,
+  "created_at" : "2010-01-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5535,7 +5629,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7257509272,
   "in_reply_to_status_id" : 7256531142,
   "created_at" : "2010-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -5577,27 +5671,16 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "jinho choi",
-      "screen_name" : "slang1998",
-      "indices" : [ 0, 10 ],
-      "id_str" : "56626309",
-      "id" : 56626309
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "7258091185",
   "geo" : { },
   "id_str" : "7258248454",
-  "in_reply_to_user_id" : 56626309,
   "text" : "@slang1998 \uC544.. \uC0B4\uC544\uC6C0\uC9C1\uC774\uB294 \uAC00\uC4F0\uC624\uBD80\uC2DC\uAC00 \uCC38 \uB9DB\uC788\uC5B4 \uBCF4\uC785\uB2C8\uB2E4 -\u3160-",
   "id" : 7258248454,
-  "in_reply_to_status_id" : 7258091185,
   "created_at" : "2010-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "slang1998",
-  "in_reply_to_user_id_str" : "56626309",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -5633,11 +5716,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5651,7 +5734,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7258476142,
   "in_reply_to_status_id" : 7258408397,
   "created_at" : "2010-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -5724,11 +5807,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5742,7 +5825,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7258804571,
   "in_reply_to_status_id" : 7258769835,
   "created_at" : "2010-01-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -6198,144 +6281,6 @@ Grailbird.data.tweets_2010_01 =
   "id_str" : "7252887698",
   "text" : "#10yearsago I was thinking about becoming a physicist. Now my major is Computer Science, which is a bit far from Physics.",
   "id" : 7252887698,
-  "created_at" : "2010-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Guido van Rossum",
-      "screen_name" : "gvanrossum",
-      "indices" : [ 3, 14 ],
-      "id_str" : "15804774",
-      "id" : 15804774
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "20yearsago",
-      "indices" : [ 16, 27 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7252994902",
-  "text" : "RT @gvanrossum: #20yearsago I created Python.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "20yearsago",
-        "indices" : [ 0, 11 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "7245136611",
-    "text" : "#20yearsago I created Python.",
-    "id" : 7245136611,
-    "created_at" : "2009-12-31 19:37:52 +0000",
-    "user" : {
-      "name" : "Guido van Rossum",
-      "screen_name" : "gvanrossum",
-      "protected" : false,
-      "id_str" : "15804774",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424495004\/GuidoAvatar_normal.jpg",
-      "id" : 15804774,
-      "verified" : true
-    }
-  },
-  "id" : 7252994902,
-  "created_at" : "2010-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "10yearsago",
-      "indices" : [ 0, 11 ]
-    }, {
-      "text" : "Diablo2",
-      "indices" : [ 26, 34 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7253119885",
-  "text" : "#10yearsago I was playing #Diablo2! I remember it!",
-  "id" : 7253119885,
-  "created_at" : "2010-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "10yearsago",
-      "indices" : [ 0, 11 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7253432376",
-  "text" : "#10yearsago I got my first MP3 player which could barely hold up to less than a dozen songs. Now I'm tweeting from an iPod Touch.",
-  "id" : 7253432376,
-  "created_at" : "2010-01-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Donggi Jung",
-      "screen_name" : "Donggi",
-      "indices" : [ 85, 92 ],
-      "id_str" : "8376022",
-      "id" : 8376022
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7257389708",
-  "text" : "This is what 'customization' or 'personalization' should be. Absolutely stunning. RT @Donggi Flavors.me http:\/\/vimeo.com\/7105366",
-  "id" : 7257389708,
   "created_at" : "2010-01-01 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",

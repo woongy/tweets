@@ -116,7 +116,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "kris",
       "protected" : false,
       "id_str" : "115734106",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687580576207867904\/Sj8f2oTY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783380466279776257\/sxurb6Jo_normal.jpg",
       "id" : 115734106,
       "verified" : false
     }

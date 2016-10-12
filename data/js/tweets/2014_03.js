@@ -30,7 +30,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Asher Vollmer",
+      "name" : "Autumnal Vollmer \uD83C\uDF42",
       "screen_name" : "AsherVo",
       "indices" : [ 0, 8 ],
       "id_str" : "16741826",
@@ -143,12 +143,7 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/YHGUt5zNUT",
-      "expanded_url" : "http:\/\/asherv.com\/threes\/threemails\/",
-      "display_url" : "asherv.com\/threes\/threema\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "449514058568314880",
@@ -320,7 +315,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "PhilipsShiu",
       "protected" : false,
       "id_str" : "30035884",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648514042659639296\/-Hr5XOmg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782574645337665536\/iR5N32TB_normal.jpg",
       "id" : 30035884,
       "verified" : false
     }
@@ -502,7 +497,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC544\uBAA8\uB77C\uC784\/\uB3D9\uAE1C",
+      "name" : "\uC544\uBAA8\uB77C\uC784",
       "screen_name" : "AmoLime",
       "indices" : [ 3, 11 ],
       "id_str" : "1958594738",
@@ -589,11 +584,11 @@ Grailbird.data.tweets_2014_03 =
     "id" : 444305872429150208,
     "created_at" : "2014-03-14 02:55:49 +0000",
     "user" : {
-      "name" : "\uC544\uBAA8\uB77C\uC784\/\uB3D9\uAE1C",
+      "name" : "\uC544\uBAA8\uB77C\uC784",
       "screen_name" : "AmoLime",
       "protected" : false,
       "id_str" : "1958594738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687875136586780673\/3z7ZAaJS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717319661604319233\/GYb8QjZN_normal.jpg",
       "id" : 1958594738,
       "verified" : false
     }

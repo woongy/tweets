@@ -948,7 +948,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC9C4\u2756\uBB35",
+      "name" : "\u23F9",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -1003,7 +1003,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC9C4\u2756\uBB35",
+      "name" : "\u23F9",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -1156,6 +1156,39 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uB450\uB450",
+      "screen_name" : "dudubebe",
+      "indices" : [ 0, 9 ],
+      "id_str" : "24140786",
+      "id" : 24140786
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "5804781713",
+  "geo" : { },
+  "id_str" : "5805048867",
+  "in_reply_to_user_id" : 24140786,
+  "text" : "@dudubebe well it seems like fire alarms at Frist enjoy going off during lunchtime too. btw, what are you doing at 5am?!",
+  "id" : 5805048867,
+  "in_reply_to_status_id" : 5804781713,
+  "created_at" : "2009-11-17 00:00:00 +0000",
+  "in_reply_to_screen_name" : "dudubebe",
+  "in_reply_to_user_id_str" : "24140786",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1238,39 +1271,6 @@ Grailbird.data.tweets_2009_11 =
   "text" : "Fire alarm went off during the class, so we had 20 minutes of extra break :)",
   "id" : 5801805309,
   "created_at" : "2009-11-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uB450\uB450",
-      "screen_name" : "dudubebe",
-      "indices" : [ 0, 9 ],
-      "id_str" : "24140786",
-      "id" : 24140786
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "5804781713",
-  "geo" : { },
-  "id_str" : "5805048867",
-  "in_reply_to_user_id" : 24140786,
-  "text" : "@dudubebe well it seems like fire alarms at Frist enjoy going off during lunchtime too. btw, what are you doing at 5am?!",
-  "id" : 5805048867,
-  "in_reply_to_status_id" : 5804781713,
-  "created_at" : "2009-11-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dudubebe",
-  "in_reply_to_user_id_str" : "24140786",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "731253",
       "id" : 731253
     }, {
-      "name" : "Imperator Theoriosa",
+      "name" : "David E. Wheeler",
       "screen_name" : "theory",
       "indices" : [ 16, 23 ],
       "id_str" : "656233",
@@ -2366,6 +2366,39 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "JoonHyuk Kwon",
+      "screen_name" : "JHyukK",
+      "indices" : [ 0, 7 ],
+      "id_str" : "80514698",
+      "id" : 80514698
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "5417011741",
+  "geo" : { },
+  "id_str" : "5419614175",
+  "in_reply_to_user_id" : 80514698,
+  "text" : "@JHyukK \uCD95\uD558\uCD95\uD558 :D",
+  "id" : 5419614175,
+  "in_reply_to_status_id" : 5417011741,
+  "created_at" : "2009-11-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "JHyukK",
+  "in_reply_to_user_id_str" : "80514698",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2404,39 +2437,6 @@ Grailbird.data.tweets_2009_11 =
   "text" : "@hgmega \uC544.. \uC804 \uC774\uAC70 \uC911\uD559\uAD50 \uB54C\uC600\uB098 \uC544\uB9C8 \uB458\uB9AC\uAC00 \uB098\uC624\uB294 \uC601\uC5B4 \uD559\uC2B5 \uBE44\uB514\uC624\uC5D0\uC11C \uBD24\uB358 \uAE30\uC5B5\uC774 \uB0A9\uB2C8\uB2E4 :)",
   "id" : 5431598505,
   "created_at" : "2009-11-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "JoonHyuk Kwon",
-      "screen_name" : "JHyukK",
-      "indices" : [ 0, 7 ],
-      "id_str" : "80514698",
-      "id" : 80514698
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "5417011741",
-  "geo" : { },
-  "id_str" : "5419614175",
-  "in_reply_to_user_id" : 80514698,
-  "text" : "@JHyukK \uCD95\uD558\uCD95\uD558 :D",
-  "id" : 5419614175,
-  "in_reply_to_status_id" : 5417011741,
-  "created_at" : "2009-11-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "JHyukK",
-  "in_reply_to_user_id_str" : "80514698",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

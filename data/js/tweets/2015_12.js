@@ -69,7 +69,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Saltsman",
+      "name" : "adam",
       "screen_name" : "ADAMATOMIC",
       "indices" : [ 3, 14 ],
       "id_str" : "70587360",
@@ -96,11 +96,11 @@ Grailbird.data.tweets_2015_12 =
     "id" : 682383295091503105,
     "created_at" : "2015-12-31 02:10:30 +0000",
     "user" : {
-      "name" : "Adam Saltsman",
+      "name" : "adam",
       "screen_name" : "ADAMATOMIC",
       "protected" : false,
       "id_str" : "70587360",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/690617291638108160\/CXMF3B2x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743846092547076096\/ONUXsuql_normal.jpg",
       "id" : 70587360,
       "verified" : false
     }
@@ -151,7 +151,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "ryanchris",
       "protected" : false,
       "id_str" : "13349",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593111692898279424\/Z5Jrve13_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780772901939281921\/KxzS5WZe_normal.jpg",
       "id" : 13349,
       "verified" : false
     }
@@ -430,7 +430,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "5603992",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511782150736080896\/FrRjHSN4_normal.png",
       "id" : 5603992,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 675737964387819520,
@@ -525,37 +525,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "19169495",
       "id" : 19169495
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SlackHQ\/status\/675050736758206464\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/jtvt7yzV6N",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CV5DEUVWcAEPieh.jpg",
-      "id_str" : "675050735608950785",
-      "id" : 675050735608950785,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CV5DEUVWcAEPieh.jpg",
-      "sizes" : [ {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/jtvt7yzV6N"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },

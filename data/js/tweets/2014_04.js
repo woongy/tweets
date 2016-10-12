@@ -478,7 +478,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Asher Vollmer",
+      "name" : "Autumnal Vollmer \uD83C\uDF42",
       "screen_name" : "AsherVo",
       "indices" : [ 3, 11 ],
       "id_str" : "16741826",
@@ -577,13 +577,13 @@ Grailbird.data.tweets_2014_04 =
     "id" : 451399425835798528,
     "created_at" : "2014-04-02 16:43:04 +0000",
     "user" : {
-      "name" : "Asher Vollmer",
+      "name" : "Autumnal Vollmer \uD83C\uDF42",
       "screen_name" : "AsherVo",
       "protected" : false,
       "id_str" : "16741826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651054132590178304\/WRs3PUPp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782441139697651712\/28JNLD6N_normal.jpg",
       "id" : 16741826,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 451417597402042368,
@@ -601,7 +601,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Asher Vollmer",
+      "name" : "Autumnal Vollmer \uD83C\uDF42",
       "screen_name" : "AsherVo",
       "indices" : [ 3, 11 ],
       "id_str" : "16741826",
@@ -628,13 +628,13 @@ Grailbird.data.tweets_2014_04 =
     "id" : 451206131772182528,
     "created_at" : "2014-04-02 03:54:59 +0000",
     "user" : {
-      "name" : "Asher Vollmer",
+      "name" : "Autumnal Vollmer \uD83C\uDF42",
       "screen_name" : "AsherVo",
       "protected" : false,
       "id_str" : "16741826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651054132590178304\/WRs3PUPp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782441139697651712\/28JNLD6N_normal.jpg",
       "id" : 16741826,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 451220258246774784,

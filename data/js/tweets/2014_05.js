@@ -427,7 +427,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uB300\uCE58\uB3D9 \uB098\uD314",
+      "name" : "\uD83C\uDF97\uB300\uCE58\uB3D9 \uB098\uD314",
       "screen_name" : "Schalom1004",
       "indices" : [ 3, 15 ],
       "id_str" : "2377087291",
@@ -514,11 +514,11 @@ Grailbird.data.tweets_2014_05 =
     "id" : 469951823852228608,
     "created_at" : "2014-05-23 21:23:40 +0000",
     "user" : {
-      "name" : "\uB300\uCE58\uB3D9 \uB098\uD314",
+      "name" : "\uD83C\uDF97\uB300\uCE58\uB3D9 \uB098\uD314",
       "screen_name" : "Schalom1004",
       "protected" : false,
       "id_str" : "2377087291",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680392410099134468\/k4h5bzmh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779826928358334464\/tWdvbkts_normal.jpg",
       "id" : 2377087291,
       "verified" : false
     }
@@ -662,7 +662,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "DepressedDarth",
       "protected" : false,
       "id_str" : "125122481",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1125323984\/darthvader_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913907658620929\/IL4qQdOj_normal.jpg",
       "id" : 125122481,
       "verified" : false
     }
@@ -756,7 +756,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "ElineMuijres",
       "protected" : false,
       "id_str" : "35068127",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/565518569371234304\/r7Ly_UPn_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771443072345448448\/g9AcGK7V_normal.jpg",
       "id" : 35068127,
       "verified" : false
     }

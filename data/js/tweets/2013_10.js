@@ -79,7 +79,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ningu (\uC11C\uD504\uB77C\uC774\uC2DC\uC544 \uB9AC\uD2B8\uC717 \uBD07)",
+      "name" : "Ningu",
       "screen_name" : "Ningu83",
       "indices" : [ 3, 11 ],
       "id_str" : "155908255",
@@ -166,11 +166,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 395409996709515264,
     "created_at" : "2013-10-30 04:41:04 +0000",
     "user" : {
-      "name" : "Ningu (\uC11C\uD504\uB77C\uC774\uC2DC\uC544 \uB9AC\uD2B8\uC717 \uBD07)",
+      "name" : "Ningu",
       "screen_name" : "Ningu83",
       "protected" : false,
       "id_str" : "155908255",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451030530419482625\/UJsFwu6U_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717363779994931200\/Kju9jPPH_normal.jpg",
       "id" : 155908255,
       "verified" : false
     }
@@ -308,7 +308,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "robertcupisz",
       "protected" : false,
       "id_str" : "41205824",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608562671575789568\/kjbWpG4b_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778558671076884480\/rMDFliwJ_normal.jpg",
       "id" : 41205824,
       "verified" : false
     }
@@ -1571,7 +1571,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "pschiller",
       "protected" : false,
       "id_str" : "17104751",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671339432738361344\/oTuh9zls_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755268949017698304\/TDhoXK3l_normal.jpg",
       "id" : 17104751,
       "verified" : true
     }

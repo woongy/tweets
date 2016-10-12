@@ -226,10 +226,7 @@ Grailbird.data.tweets_2011_12 =
       "id" : 443016117
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "eurekaao",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 109, 129 ],
       "url" : "http:\/\/t.co\/5YehM8fs",
@@ -724,12 +721,6 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 3, 7 ],
       "id_str" : "10079052",
       "id" : 10079052
-    }, {
-      "name" : "Taylor Weibley",
-      "screen_name" : "themcgruff",
-      "indices" : [ 139, 140 ],
-      "id_str" : "13984262",
-      "id" : 13984262
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1039,7 +1030,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "10545",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602900681050169345\/IzexW5Sy_normal.jpg",
       "id" : 10545,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 145308746174832641,

@@ -147,37 +147,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "765548",
       "id" : 765548
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/hmason\/status\/520367337925390337\/photo\/1",
-      "indices" : [ 126, 140 ],
-      "url" : "http:\/\/t.co\/v8iVq6Hjar",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bzi3VbvCUAEy7vF.jpg",
-      "id_str" : "520367335811469313",
-      "id" : 520367335811469313,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bzi3VbvCUAEy7vF.jpg",
-      "sizes" : [ {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1536
-      }, {
-        "h" : 1365,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/v8iVq6Hjar"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -234,7 +204,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "765548",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1290564266\/me_square_normal.jpg",
       "id" : 765548,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 525626571889967104,
@@ -459,7 +429,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "PlayHearthstone",
       "protected" : false,
       "id_str" : "1209608880",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/663932885045350400\/88fMFd-M_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760047301360517120\/JNF9peNL_normal.jpg",
       "id" : 1209608880,
       "verified" : true
     }
@@ -802,7 +772,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "36457353",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643846519557328896\/zEKudWLO_normal.png",
       "id" : 36457353,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 522594658782695424,
@@ -965,7 +935,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "sstephenson",
       "protected" : false,
       "id_str" : "6707392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434450913151840257\/VySz8SQS_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736761202181689345\/vdVKW0Gw_normal.jpg",
       "id" : 6707392,
       "verified" : false
     }
@@ -1074,37 +1044,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "11322372",
       "id" : 11322372
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/holman\/status\/521558453211246592\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/aiGElCprP8",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BzzypiBCIAAIQpC.jpg",
-      "id_str" : "521558452187832320",
-      "id" : 521558452187832320,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BzzypiBCIAAIQpC.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 771,
-        "resize" : "fit",
-        "w" : 925
-      }, {
-        "h" : 771,
-        "resize" : "fit",
-        "w" : 925
-      }, {
-        "h" : 283,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 500,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/aiGElCprP8"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -1159,7 +1099,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "holman",
       "protected" : false,
       "id_str" : "11322372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550019686230794240\/gWlpdYw2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734856320872906752\/u-ixPB48_normal.jpg",
       "id" : 11322372,
       "verified" : false
     }

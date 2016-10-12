@@ -211,7 +211,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 127058075306823680,
@@ -485,7 +485,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "naval",
       "protected" : false,
       "id_str" : "745273",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3696617328\/667874c5936764d93d56ccc76a2bcc13_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749155852683055104\/0StT9uYS_normal.jpg",
       "id" : 745273,
       "verified" : false
     }
@@ -1352,7 +1352,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "18196758",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000831312104\/04894f7501603ce8eaebe608f28760a9_normal.jpeg",
       "id" : 18196758,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 119937139189366784,

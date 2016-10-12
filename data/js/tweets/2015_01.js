@@ -94,7 +94,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "kinduff",
       "protected" : false,
       "id_str" : "7319272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593484276856967168\/h7eZ08Iw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763570485850415104\/mkCXs7Z4_normal.jpg",
       "id" : 7319272,
       "verified" : false
     }
@@ -136,7 +136,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cute Emergency",
+      "name" : "Cute Emergency\uD83C\uDF83",
       "screen_name" : "CuteEmergency",
       "indices" : [ 3, 17 ],
       "id_str" : "568825492",
@@ -223,13 +223,13 @@ Grailbird.data.tweets_2015_01 =
     "id" : 555913593422897153,
     "created_at" : "2015-01-16 02:25:03 +0000",
     "user" : {
-      "name" : "Cute Emergency",
+      "name" : "Cute Emergency\uD83C\uDF83",
       "screen_name" : "CuteEmergency",
       "protected" : false,
       "id_str" : "568825492",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551428167760486404\/DMyfmQDA_normal.jpeg",
       "id" : 568825492,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 555948239510188033,

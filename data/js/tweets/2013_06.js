@@ -854,7 +854,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "oscarberg",
       "protected" : false,
       "id_str" : "9011012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672053925256650752\/vrX7tpiT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/781782621974036481\/eqivueZ6_normal.jpg",
       "id" : 9011012,
       "verified" : false
     }

@@ -156,7 +156,7 @@ Grailbird.data.tweets_2014_01 =
   "id_str" : "426724360968077312",
   "text" : "RT @MSHelpsKorea: #\uC815\uBCF4\uACF5\uC720 \"\uD14D\uC2A4\uD2B8\" \uBB38\uC11C\uB97C \"Excel\"\uB85C \uAC00\uC838\uC624\uB294 \uBC29\uBC95 http:\/\/t.co\/y7hFb7yLnV",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -463,7 +463,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "TYPE4GRAPHIC",
       "protected" : false,
       "id_str" : "69320336",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583294881151389696\/Kf2uoB2-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715939852282437632\/E6Loe6yf_normal.jpg",
       "id" : 69320336,
       "verified" : true
     }
@@ -483,7 +483,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uBC15\uC791\uAC00@\uC5ED\uC2DC \uB77C\uB77C\uD3A0\uC740 \uCD5C\uACE0\uB2E4\uC81C",
+      "name" : "\uBC15\uC791\uAC00@\uC5ED\uC2DC \uB77C\uB77C\uD3A0\uC740 \uCD5C\uACE0\uC57C",
       "screen_name" : "Writer_Park",
       "indices" : [ 3, 15 ],
       "id_str" : "254592592",
@@ -510,11 +510,11 @@ Grailbird.data.tweets_2014_01 =
     "id" : 425121434424180736,
     "created_at" : "2014-01-20 04:23:43 +0000",
     "user" : {
-      "name" : "\uBC15\uC791\uAC00@\uC5ED\uC2DC \uB77C\uB77C\uD3A0\uC740 \uCD5C\uACE0\uB2E4\uC81C",
+      "name" : "\uBC15\uC791\uAC00@\uC5ED\uC2DC \uB77C\uB77C\uD3A0\uC740 \uCD5C\uACE0\uC57C",
       "screen_name" : "Writer_Park",
       "protected" : false,
       "id_str" : "254592592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701449425063817216\/Q6PtkzcS_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775903258636410880\/IaYX-AQ6_normal.jpg",
       "id" : 254592592,
       "verified" : false
     }
@@ -1172,7 +1172,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SciencePorn",
+      "name" : "SciencePorn \uD83D\uDE80",
       "screen_name" : "SciencePorn",
       "indices" : [ 3, 15 ],
       "id_str" : "572225652",
@@ -1259,11 +1259,11 @@ Grailbird.data.tweets_2014_01 =
     "id" : 418414002390446080,
     "created_at" : "2014-01-01 16:10:46 +0000",
     "user" : {
-      "name" : "SciencePorn",
+      "name" : "SciencePorn \uD83D\uDE80",
       "screen_name" : "SciencePorn",
       "protected" : false,
       "id_str" : "572225652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665846358432071680\/-X_F61JC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779655933991481344\/40fIH7LV_normal.jpg",
       "id" : 572225652,
       "verified" : false
     }

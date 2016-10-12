@@ -61,37 +61,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "333568300",
       "id" : 333568300
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/thejensie\/status\/493618957564518400\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/xg5EE3ceoW",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Btmv00bIIAA5MLY.jpg",
-      "id_str" : "493618956134260736",
-      "id" : 493618956134260736,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Btmv00bIIAA5MLY.jpg",
-      "sizes" : [ {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 745
-      }, {
-        "h" : 365,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 745
-      }, {
-        "h" : 644,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/xg5EE3ceoW"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -240,9 +210,6 @@ Grailbird.data.tweets_2014_07 =
     }, {
       "text" : "AIDS2014",
       "indices" : [ 130, 139 ]
-    }, {
-      "text" : "Melbourne",
-      "indices" : [ 143, 144 ]
     } ],
     "urls" : [ ]
   },
@@ -996,7 +963,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "deadcatssociety",
       "protected" : false,
       "id_str" : "209173806",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/690338703127007232\/erSYshSf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/781910660863012864\/9ebdg-Tl_normal.jpg",
       "id" : 209173806,
       "verified" : false
     }

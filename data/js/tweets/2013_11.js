@@ -527,122 +527,11 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "6503412",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615416134846709760\/AySGnpwP_normal.png",
       "id" : 6503412,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 405333742761156608,
   "created_at" : "2013-11-26 13:54:29 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "jungkwon chin",
-      "screen_name" : "unheim",
-      "indices" : [ 3, 10 ],
-      "id_str" : "114979757",
-      "id" : 114979757
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ilhostyle\/status\/405251384611590144\/photo\/1",
-      "indices" : [ 116, 138 ],
-      "url" : "http:\/\/t.co\/BVhg3jvsGX",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BZ-9_LkCUAAKd9i.jpg",
-      "id_str" : "405251384619978752",
-      "id" : 405251384619978752,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BZ-9_LkCUAAKd9i.jpg",
-      "sizes" : [ {
-        "h" : 371,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 252,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 371,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 371,
-        "resize" : "fit",
-        "w" : 500
-      } ],
-      "display_url" : "pic.twitter.com\/BVhg3jvsGX"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "405333260042907649",
-  "text" : "RT @unheim: \"\uB178\uB3D93\uAD8C \uBCF4\uC7A5\uD558\uBA74 \uD30C\uC5C5\uB9CC \uBC8C\uC77C \uAC83\"\uC774\uB77C\uB294 \uAE40\uD0DC\uD760 \uC758\uC6D0\uC5D0\uAC8C \uAD6D\uD68C \uCCAD\uC18C\uB178\uB3D9\uC790\uAC00 \uC778\uC0AC. \uC774 \uC0AC\uC9C4\uC744 \uBCF4\uBA74 \uD654\uAC00 \uB098\uB2E4\uAC00 \uC2AC\uD37C\uC9D1\uB2C8\uB2E4. \uD55C\uAD6D\uC774\uB77C\uB294 \uC0AC\uD68C\uAC00 \uC774 \uD55C \uC7A5\uC758 \uC0AC\uC9C4 \uC548\uC5D0 \uC555\uCD95\uB418\uC5B4 \uC788\uB294 \uB4EF. http:\/\/t.co\/BVhg3jvsGX",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ilhostyle\/status\/405251384611590144\/photo\/1",
-        "indices" : [ 104, 126 ],
-        "url" : "http:\/\/t.co\/BVhg3jvsGX",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BZ-9_LkCUAAKd9i.jpg",
-        "id_str" : "405251384619978752",
-        "id" : 405251384619978752,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BZ-9_LkCUAAKd9i.jpg",
-        "sizes" : [ {
-          "h" : 371,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 252,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 371,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 371,
-          "resize" : "fit",
-          "w" : 500
-        } ],
-        "display_url" : "pic.twitter.com\/BVhg3jvsGX"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "405313835281551360",
-    "text" : "\"\uB178\uB3D93\uAD8C \uBCF4\uC7A5\uD558\uBA74 \uD30C\uC5C5\uB9CC \uBC8C\uC77C \uAC83\"\uC774\uB77C\uB294 \uAE40\uD0DC\uD760 \uC758\uC6D0\uC5D0\uAC8C \uAD6D\uD68C \uCCAD\uC18C\uB178\uB3D9\uC790\uAC00 \uC778\uC0AC. \uC774 \uC0AC\uC9C4\uC744 \uBCF4\uBA74 \uD654\uAC00 \uB098\uB2E4\uAC00 \uC2AC\uD37C\uC9D1\uB2C8\uB2E4. \uD55C\uAD6D\uC774\uB77C\uB294 \uC0AC\uD68C\uAC00 \uC774 \uD55C \uC7A5\uC758 \uC0AC\uC9C4 \uC548\uC5D0 \uC555\uCD95\uB418\uC5B4 \uC788\uB294 \uB4EF. http:\/\/t.co\/BVhg3jvsGX",
-    "id" : 405313835281551360,
-    "created_at" : "2013-11-26 12:35:23 +0000",
-    "user" : {
-      "name" : "jungkwon chin",
-      "screen_name" : "unheim",
-      "protected" : false,
-      "id_str" : "114979757",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000768595657\/01e2553f69989fa3be1d1828df2979a0_normal.jpeg",
-      "id" : 114979757,
-      "verified" : false
-    }
-  },
-  "id" : 405333260042907649,
-  "created_at" : "2013-11-26 13:52:34 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -743,7 +632,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "48661131",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614384568485842944\/pRgwMfU3_normal.jpg",
       "id" : 48661131,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 404417403741671424,
@@ -819,7 +708,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "DepressedDarth",
       "protected" : false,
       "id_str" : "125122481",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1125323984\/darthvader_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777913907658620929\/IL4qQdOj_normal.jpg",
       "id" : 125122481,
       "verified" : false
     }
@@ -1206,7 +1095,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "OneManLeft",
       "protected" : false,
       "id_str" : "52451265",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618123006947123200\/vpmMZiiO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725368859620839424\/JWgCmcV4_normal.jpg",
       "id" : 52451265,
       "verified" : false
     }
@@ -1602,7 +1491,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "MarcusRomer",
       "protected" : false,
       "id_str" : "14974187",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697158264975392768\/tUFvIf3Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761504955618435073\/AqSn9X3H_normal.jpg",
       "id" : 14974187,
       "verified" : false
     }
@@ -1888,7 +1777,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "2426",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677921117592416256\/jHcRg-6u_normal.jpg",
       "id" : 2426,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 398334727758704640,
@@ -2406,12 +2295,7 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 122, 140 ],
-      "url" : "http:\/\/t.co\/DfUPUp49i6",
-      "expanded_url" : "http:\/\/www.theguardian.com\/world\/interactive\/2013\/nov\/01\/snowden-nsa-files-surveillance-revelations-decoded",
-      "display_url" : "theguardian.com\/world\/interact\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "396444035906166784",
@@ -2441,7 +2325,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "949521",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/537483244468318208\/H1ArNbIw_normal.jpeg",
       "id" : 949521,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 396444035906166784,

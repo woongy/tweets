@@ -36,37 +36,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "3092629269",
       "id" : 3092629269
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/IAmOxfordComma\/status\/684411628943626240\/photo\/1",
-      "indices" : [ 119, 140 ],
-      "url" : "https:\/\/t.co\/nAKm8dX5SH",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CX8ljroWwAAvwz7.jpg",
-      "id_str" : "684306963321241600",
-      "id" : 684306963321241600,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CX8ljroWwAAvwz7.jpg",
-      "sizes" : [ {
-        "h" : 654,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 654,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 445,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 654,
-        "resize" : "fit",
-        "w" : 500
-      } ],
-      "display_url" : "pic.twitter.com\/nAKm8dX5SH"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },

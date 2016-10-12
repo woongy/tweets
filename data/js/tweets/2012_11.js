@@ -225,67 +225,6 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jack Cheng",
-      "screen_name" : "jackcheng",
-      "indices" : [ 3, 13 ],
-      "id_str" : "146703",
-      "id" : 146703
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 32, 53 ],
-      "url" : "https:\/\/t.co\/ZhGoaPSG",
-      "expanded_url" : "https:\/\/www.everlane.com\/black-friday",
-      "display_url" : "everlane.com\/black-friday"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "272045180444614656",
-  "text" : "RT @jackcheng: Bravo, Everlane: https:\/\/t.co\/ZhGoaPSG",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 17, 38 ],
-        "url" : "https:\/\/t.co\/ZhGoaPSG",
-        "expanded_url" : "https:\/\/www.everlane.com\/black-friday",
-        "display_url" : "everlane.com\/black-friday"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "271998105128419329",
-    "text" : "Bravo, Everlane: https:\/\/t.co\/ZhGoaPSG",
-    "id" : 271998105128419329,
-    "created_at" : "2012-11-23 15:26:16 +0000",
-    "user" : {
-      "name" : "Jack Cheng",
-      "screen_name" : "jackcheng",
-      "protected" : false,
-      "id_str" : "146703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520003001532960768\/kSeTQWV6_normal.jpeg",
-      "id" : 146703,
-      "verified" : false
-    }
-  },
-  "id" : 272045180444614656,
-  "created_at" : "2012-11-23 18:33:20 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],

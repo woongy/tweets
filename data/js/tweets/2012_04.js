@@ -510,7 +510,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "ivanhzhao",
       "protected" : false,
       "id_str" : "17482791",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3200452560\/6c030bd839c3993ef0c8525dcda8896e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763175971650310144\/eNEk2boD_normal.jpg",
       "id" : 17482791,
       "verified" : false
     }

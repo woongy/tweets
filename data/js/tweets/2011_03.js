@@ -123,7 +123,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 52615213933019136,
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 51468224587509760,
@@ -668,7 +668,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "ivanhzhao",
       "protected" : false,
       "id_str" : "17482791",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3200452560\/6c030bd839c3993ef0c8525dcda8896e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763175971650310144\/eNEk2boD_normal.jpg",
       "id" : 17482791,
       "verified" : false
     }
@@ -896,7 +896,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "chanian",
       "protected" : false,
       "id_str" : "22891211",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2467844172\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755591515565494272\/ugfxjY2J_normal.jpg",
       "id" : 22891211,
       "verified" : false
     }
@@ -2028,7 +2028,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 45315469753856000,
@@ -2859,7 +2859,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "6503412",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615416134846709760\/AySGnpwP_normal.png",
       "id" : 6503412,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 42265628064747520,

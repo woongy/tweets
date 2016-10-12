@@ -442,7 +442,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "kelvindonghokim",
       "protected" : false,
       "id_str" : "49897254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667020430448791552\/Qpy494uD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756117481752662017\/QJknIVPr_normal.jpg",
       "id" : 49897254,
       "verified" : false
     }
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "OneManLeft",
       "protected" : false,
       "id_str" : "52451265",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618123006947123200\/vpmMZiiO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725368859620839424\/JWgCmcV4_normal.jpg",
       "id" : 52451265,
       "verified" : false
     }
@@ -721,7 +721,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 17038918008442882,
@@ -1509,7 +1509,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "simple",
       "protected" : false,
       "id_str" : "71165241",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615616288648400896\/zhJCqVOq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763046576050757632\/1KdfLvwt_normal.jpg",
       "id" : 71165241,
       "verified" : true
     }
@@ -1644,7 +1644,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nitric\/656083465",
+      "name" : "Nitric@dkdk\u3067\u304D\u306A\u3044",
       "screen_name" : "nitricacid1",
       "indices" : [ 3, 15 ],
       "id_str" : "95571010",
@@ -1671,7 +1671,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 4574640340992000,
     "created_at" : "2010-11-16 16:40:53 +0000",
     "user" : {
-      "name" : "Nitric\/656083465",
+      "name" : "Nitric@dkdk\u3067\u304D\u306A\u3044",
       "screen_name" : "nitricacid1",
       "protected" : false,
       "id_str" : "95571010",
@@ -3040,7 +3040,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "alisonclement",
       "protected" : false,
       "id_str" : "17765068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614621073527566336\/Gs-oWOeo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720760672934449154\/av4JZrRZ_normal.jpg",
       "id" : 17765068,
       "verified" : false
     }

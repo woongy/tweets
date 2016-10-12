@@ -1620,7 +1620,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "10545",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602900681050169345\/IzexW5Sy_normal.jpg",
       "id" : 10545,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 21697337650,
@@ -1978,57 +1978,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "21617188454",
   "text" : "\uC54C\uB78C \uBABB \uB4E3\uACE0 \uC815\uC2E0\uC5C6\uC774 \uC790\uB2E4\uAC00 \uCC98\uC74C\uC73C\uB85C \uC9C0\uAC01 \uD560 \uBED4\uD588\uB2E4. \uC544\uC2AC\uC544\uC2AC\uD558\uAC8C \uC138\uC774\uD504-",
   "id" : 21617188454,
-  "created_at" : "2010-08-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Doug Bowman",
-      "screen_name" : "stop",
-      "indices" : [ 3, 8 ],
-      "id_str" : "949521",
-      "id" : 949521
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21617904177",
-  "text" : "RT @stop: Seriously, Facebook? A 4 in a square, with a pin on top? That's the best you can do? http:\/\/tweetphoto.com\/40022624",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "21595769836",
-    "text" : "Seriously, Facebook? A 4 in a square, with a pin on top? That's the best you can do? http:\/\/tweetphoto.com\/40022624",
-    "id" : 21595769836,
-    "created_at" : "2010-08-19 17:43:36 +0000",
-    "user" : {
-      "name" : "Doug Bowman",
-      "screen_name" : "stop",
-      "protected" : false,
-      "id_str" : "949521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/537483244468318208\/H1ArNbIw_normal.jpeg",
-      "id" : 949521,
-      "verified" : false
-    }
-  },
-  "id" : 21617904177,
   "created_at" : "2010-08-19 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -2527,6 +2476,28 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21159768201",
+  "text" : "\uD68C\uC0AC\uC5D0\uC11C\uB3C4 \uB204\uC6CC\uC11C \uD504\uB85C\uADF8\uB798\uBC0D \uD560 \uC218 \uC788\uC73C\uBA74 \uC88B\uACA0\uB2E4 :(",
+  "id" : 21159768201,
+  "created_at" : "2010-08-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2594,7 +2565,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "jeresig",
       "protected" : false,
       "id_str" : "752673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628273703587975168\/YorO7ort_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709460796259041281\/TE5YLrp6_normal.jpg",
       "id" : 752673,
       "verified" : true
     }
@@ -2666,28 +2637,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "21146146134",
   "text" : "\uB2E4\uC74C\uC5D0\uC11C \uB274\uC2A4 \uBCF4\uB2E4\uAC00 \uC0AC\uC774\uB4DC\uBC14\uC5D0 \uB9CC\uD654 \uB9C1\uD06C \uD074\uB9AD\uD588\uC744 \uB54C \uD574\uB2F9 \uB9CC\uD654 \uD398\uC774\uC9C0\uB85C \uBC14\uB85C \uC548 \uBCF4\uB0B4\uACE0 \"\uB2E4\uC74C\uC6F9\uD230\"\uC73C\uB85C \uAC80\uC0C9\uD55C \uAC80\uC0C9 \uD398\uC774\uC9C0\uB85C \uBCF4\uB0B4\uB294 \uAC74 \uAC80\uC0C9\uC5D4\uC9C4 PV\uB97C \uB298\uB9AC\uAE30 \uC704\uD55C \uCC0C\uC9C8\uD55C \uBC29\uD3B8\uC778\uAC00?",
   "id" : 21146146134,
-  "created_at" : "2010-08-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21159768201",
-  "text" : "\uD68C\uC0AC\uC5D0\uC11C\uB3C4 \uB204\uC6CC\uC11C \uD504\uB85C\uADF8\uB798\uBC0D \uD560 \uC218 \uC788\uC73C\uBA74 \uC88B\uACA0\uB2E4 :(",
-  "id" : 21159768201,
   "created_at" : "2010-08-14 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -3990,6 +3939,28 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "20312970721",
+  "text" : "Happy Git Commits http:\/\/collectiveidea.com\/blog\/archives\/2010\/08\/03\/happy-git-commits\/",
+  "id" : 20312970721,
+  "created_at" : "2010-08-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "20342799836",
   "text" : "A visual diary documenting a flight from New York to Berlin (with a layover in London). http:\/\/nyti.ms\/aMqhy1",
   "id" : 20342799836,
@@ -4164,28 +4135,6 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20312970721",
-  "text" : "Happy Git Commits http:\/\/collectiveidea.com\/blog\/archives\/2010\/08\/03\/happy-git-commits\/",
-  "id" : 20312970721,
-  "created_at" : "2010-08-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4244,7 +4193,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "15105000",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619395524395843584\/QGKuPKxo_normal.jpg",
       "id" : 15105000,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 20180118459,
@@ -4262,11 +4211,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uAE40\uB178\uC778",
+      "name" : "\u3141\u3141\u3141",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "1022203526",
-      "id" : 1022203526
+      "id_str" : "45482413",
+      "id" : 45482413
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4280,7 +4229,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20180266063,
   "in_reply_to_status_id" : 20176663913,
   "created_at" : "2010-08-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "157680000s",
+  "in_reply_to_screen_name" : "neoocean",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4328,7 +4277,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 20180500927,
@@ -4379,7 +4328,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 20180514393,

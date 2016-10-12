@@ -1341,6 +1341,28 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "14669537167",
+  "text" : "This is bad. http:\/\/www.boston.com\/bigpicture\/2010\/05\/oil_reaches_louisiana_shores.html",
+  "id" : 14669537167,
+  "created_at" : "2010-05-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Janko Jovanovic",
       "screen_name" : "jankowarpspeed",
@@ -1833,28 +1855,6 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14669537167",
-  "text" : "This is bad. http:\/\/www.boston.com\/bigpicture\/2010\/05\/oil_reaches_louisiana_shores.html",
-  "id" : 14669537167,
-  "created_at" : "2010-05-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Hanseok Ryu (\uB958\uD55C\uC11D)",
       "screen_name" : "BobbyRyu",
@@ -2285,7 +2285,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "behoff",
       "protected" : false,
       "id_str" : "15396961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638731027150675968\/YlrC2GJi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750710572824616960\/qBEFYc7t_normal.jpg",
       "id" : 15396961,
       "verified" : false
     }
@@ -2641,7 +2641,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "bcardarella",
       "protected" : false,
       "id_str" : "18787589",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000553511645\/21a9348ff9f9ff11f9278695b8afa76d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748996347202797568\/w3iNRx6P_normal.jpg",
       "id" : 18787589,
       "verified" : false
     }
@@ -2911,6 +2911,34 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Diaspora",
+      "screen_name" : "joindiaspora",
+      "indices" : [ 12, 25 ],
+      "id_str" : "136879221",
+      "id" : 136879221
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "14145341872",
+  "text" : "I'm backing @joindiaspora. It's such an awesome idea in itself, even without taking FB into consideration. http:\/\/kck.st\/9QC2zk",
+  "id" : 14145341872,
+  "created_at" : "2010-05-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "graphittie in space",
       "screen_name" : "graphittie",
       "indices" : [ 0, 11 ],
@@ -3005,34 +3033,6 @@ Grailbird.data.tweets_2010_05 =
   "id_str" : "14175520887",
   "text" : "Any better way to do what \"f.ceil == f.floor\" does? #ruby",
   "id" : 14175520887,
-  "created_at" : "2010-05-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Diaspora",
-      "screen_name" : "joindiaspora",
-      "indices" : [ 12, 25 ],
-      "id_str" : "136879221",
-      "id" : 136879221
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14145341872",
-  "text" : "I'm backing @joindiaspora. It's such an awesome idea in itself, even without taking FB into consideration. http:\/\/kck.st\/9QC2zk",
-  "id" : 14145341872,
   "created_at" : "2010-05-17 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -3967,7 +3967,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603913307758710784\/kiuLzCqq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709572878585434112\/OlidnMaV_normal.jpg",
       "id" : 5694822,
       "verified" : true
     }
@@ -4540,9 +4540,9 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "13473565947",
-  "text" : "Fell in love with http:\/\/www.onemilliongiraffes.com\/",
-  "id" : 13473565947,
+  "id_str" : "13465702073",
+  "text" : "One of my best friends just said that my tweet timeline is becoming boring. Yes, I see the followers count is going down as well :p",
+  "id" : 13465702073,
   "created_at" : "2010-05-06 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4562,9 +4562,9 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "13465702073",
-  "text" : "One of my best friends just said that my tweet timeline is becoming boring. Yes, I see the followers count is going down as well :p",
-  "id" : 13465702073,
+  "id_str" : "13473565947",
+  "text" : "Fell in love with http:\/\/www.onemilliongiraffes.com\/",
+  "id" : 13473565947,
   "created_at" : "2010-05-06 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4610,7 +4610,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "lsegal",
       "protected" : false,
       "id_str" : "5186831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695343761975414784\/xEgQy0G6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755916153612972032\/4hhNtIIU_normal.jpg",
       "id" : 5186831,
       "verified" : false
     }

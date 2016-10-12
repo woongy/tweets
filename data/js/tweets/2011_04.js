@@ -168,7 +168,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "tyler_thompson",
       "protected" : false,
       "id_str" : "10263002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461218968775045120\/gbrOIgSR_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724655223453569024\/Mbzq1y9Z_normal.jpg",
       "id" : 10263002,
       "verified" : false
     }

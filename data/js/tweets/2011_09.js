@@ -83,7 +83,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "733813",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838378818\/avatar_normal.png",
       "id" : 733813,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 118879639304290304,
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "6503412",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615416134846709760\/AySGnpwP_normal.png",
       "id" : 6503412,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 117410444859289600,
@@ -1316,7 +1316,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "30923",
       "id" : 30923
     }, {
-      "name" : "reddit",
+      "name" : "Reddit",
       "screen_name" : "reddit",
       "indices" : [ 59, 66 ],
       "id_str" : "811377",
@@ -1338,7 +1338,7 @@ Grailbird.data.tweets_2011_09 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "reddit",
+        "name" : "Reddit",
         "screen_name" : "reddit",
         "indices" : [ 48, 55 ],
         "id_str" : "811377",
@@ -1365,7 +1365,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "30923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
       "id" : 30923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 111634651138899968,

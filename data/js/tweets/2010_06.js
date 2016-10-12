@@ -982,7 +982,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kolpanic",
       "protected" : false,
       "id_str" : "14934420",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639273225806065665\/7uavjGyJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753069078223486976\/rqSUACsY_normal.jpg",
       "id" : 14934420,
       "verified" : false
     }
@@ -1791,6 +1791,57 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Hacker News Bot",
+      "screen_name" : "hackernewsbot",
+      "indices" : [ 3, 17 ],
+      "id_str" : "19575586",
+      "id" : 19575586
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16472945694",
+  "text" : "RT @hackernewsbot: How I \"hacked\" Dustin Curtis' Posterous.... http:\/\/news.ycombinator.com\/item?id=1441997",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "16470988615",
+    "text" : "How I \"hacked\" Dustin Curtis' Posterous.... http:\/\/news.ycombinator.com\/item?id=1441997",
+    "id" : 16470988615,
+    "created_at" : "2010-06-18 13:42:04 +0000",
+    "user" : {
+      "name" : "Hacker News Bot",
+      "screen_name" : "hackernewsbot",
+      "protected" : false,
+      "id_str" : "19575586",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/73596050\/yc500_normal.jpg",
+      "id" : 19575586,
+      "verified" : false
+    }
+  },
+  "id" : 16472945694,
+  "created_at" : "2010-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2003,57 +2054,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16469404191",
   "text" : "(\uC5EC\uAE30\uB294 \uB0A8\uC544\uACF5) \uCC28\uB450\uB9AC \"USB\uB85C \uCDA9\uC804 \uC911\uC774\uC5C8\uB2E4\" http:\/\/durl.me\/yna7 \uCC28\uB450\uB9AC \uC88B\uB2E4 \u314B\u314B",
   "id" : 16469404191,
-  "created_at" : "2010-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Hacker News Bot",
-      "screen_name" : "hackernewsbot",
-      "indices" : [ 3, 17 ],
-      "id_str" : "19575586",
-      "id" : 19575586
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16472945694",
-  "text" : "RT @hackernewsbot: How I \"hacked\" Dustin Curtis' Posterous.... http:\/\/news.ycombinator.com\/item?id=1441997",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "16470988615",
-    "text" : "How I \"hacked\" Dustin Curtis' Posterous.... http:\/\/news.ycombinator.com\/item?id=1441997",
-    "id" : 16470988615,
-    "created_at" : "2010-06-18 13:42:04 +0000",
-    "user" : {
-      "name" : "Hacker News Bot",
-      "screen_name" : "hackernewsbot",
-      "protected" : false,
-      "id_str" : "19575586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/73596050\/yc500_normal.jpg",
-      "id" : 19575586,
-      "verified" : false
-    }
-  },
-  "id" : 16472945694,
   "created_at" : "2010-06-18 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -2887,7 +2887,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "behoff",
       "protected" : false,
       "id_str" : "15396961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638731027150675968\/YlrC2GJi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750710572824616960\/qBEFYc7t_normal.jpg",
       "id" : 15396961,
       "verified" : false
     }
@@ -3142,7 +3142,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u795E\u5C3E\u307D\u307D\u307F",
+      "name" : "\u795E\u5C3E",
       "screen_name" : "aksrnk",
       "indices" : [ 3, 10 ],
       "id_str" : "112658326",
@@ -3169,11 +3169,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16073163882,
     "created_at" : "2010-06-13 14:01:15 +0000",
     "user" : {
-      "name" : "\u795E\u5C3E\u307D\u307D\u307F",
+      "name" : "\u795E\u5C3E",
       "screen_name" : "aksrnk",
       "protected" : false,
       "id_str" : "112658326",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682883165627658240\/cVMFdxbA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773551721217871872\/Hg1VX5Po_normal.png",
       "id" : 112658326,
       "verified" : false
     }
@@ -3193,7 +3193,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Civilization",
+      "name" : "Civilization VI",
       "screen_name" : "CivGame",
       "indices" : [ 3, 11 ],
       "id_str" : "38705128",
@@ -3220,11 +3220,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15946946656,
     "created_at" : "2010-06-11 18:17:44 +0000",
     "user" : {
-      "name" : "Civilization",
+      "name" : "Civilization VI",
       "screen_name" : "CivGame",
       "protected" : false,
       "id_str" : "38705128",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455012981651161089\/gdGCEHEI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730414539880038400\/inAlJehx_normal.jpg",
       "id" : 38705128,
       "verified" : true
     }
@@ -3361,6 +3361,28 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15841452716",
+  "text" : "Rest in peace, 2A and 2B. ;-;",
+  "id" : 15841452716,
+  "created_at" : "2010-06-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "graphittie in space",
       "screen_name" : "graphittie",
@@ -3426,7 +3448,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "geekycyberdad",
       "protected" : false,
       "id_str" : "2345021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577093130677190656\/TUFOWFx6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750854275484364800\/Qe4BkATn_normal.jpg",
       "id" : 2345021,
       "verified" : false
     }
@@ -3619,28 +3641,6 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "15841452716",
-  "text" : "Rest in peace, 2A and 2B. ;-;",
-  "id" : 15841452716,
-  "created_at" : "2010-06-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "15748366930",
   "text" : "Have been taking too much coffee recently knowing that it won't save me from falling asleep. Need to look for an alternative.",
   "id" : 15748366930,
@@ -3689,7 +3689,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666407537084796928\/YBGgi9BO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -3776,7 +3776,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "10545",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602900681050169345\/IzexW5Sy_normal.jpg",
       "id" : 10545,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 15810206010,
@@ -4714,12 +4714,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 3, 16 ],
       "id_str" : "1615410564",
       "id" : 1615410564
-    }, {
-      "name" : "The Kitchn",
-      "screen_name" : "thekitchn",
-      "indices" : [ 139, 140 ],
-      "id_str" : "16422358",
-      "id" : 16422358
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5020,7 +5014,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Damn Daniel Nguyen",
+      "name" : "Dan Nguyen (\u2310\u25A0_\u25A0)\u30CE\u266A",
       "screen_name" : "dancow",
       "indices" : [ 3, 10 ],
       "id_str" : "14335332",
@@ -5053,13 +5047,13 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15247669479,
     "created_at" : "2010-06-02 12:26:38 +0000",
     "user" : {
-      "name" : "Damn Daniel Nguyen",
+      "name" : "Dan Nguyen (\u2310\u25A0_\u25A0)\u30CE\u266A",
       "screen_name" : "dancow",
       "protected" : false,
       "id_str" : "14335332",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3134267999\/54b1603856efb494c0fb6095089b769a_normal.jpeg",
       "id" : 14335332,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 15255748823,

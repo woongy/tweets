@@ -9,37 +9,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "11348282",
       "id" : 11348282
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/NASA\/status\/648527086299316224\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/JNksawz2iN",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CQAH8uSW8AA9gSU.jpg",
-      "id_str" : "648527086139928576",
-      "id" : 648527086139928576,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CQAH8uSW8AA9gSU.jpg",
-      "sizes" : [ {
-        "h" : 532,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 532,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 312,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 177,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/JNksawz2iN"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "MarsAnnouncement",
       "indices" : [ 110, 127 ]
@@ -55,7 +25,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "648564946544934912",
   "text" : "RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http:\/\/t.co\/0MW11SANwL #MarsAnnouncement http:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -139,57 +109,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Good code reveals how it works. Great code reveals why it was written in a certain way.",
   "id" : 648058487902109697,
   "created_at" : "2015-09-27 08:55:58 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jesse A. Myerson",
-      "screen_name" : "JAMyerson",
-      "indices" : [ 3, 13 ],
-      "id_str" : "18199228",
-      "id" : 18199228
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "644214346499780608",
-  "text" : "RT @JAMyerson: Saying \"We mistook the clock for a bomb\" is a real greasy way of side-stepping the truth: \"We mistook the kid for a bomb-mak\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "644157557137899520",
-    "text" : "Saying \"We mistook the clock for a bomb\" is a real greasy way of side-stepping the truth: \"We mistook the kid for a bomb-maker.\"",
-    "id" : 644157557137899520,
-    "created_at" : "2015-09-16 14:35:04 +0000",
-    "user" : {
-      "name" : "Jesse A. Myerson",
-      "screen_name" : "JAMyerson",
-      "protected" : false,
-      "id_str" : "18199228",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699324547670138881\/N_s28q_m_normal.jpg",
-      "id" : 18199228,
-      "verified" : false
-    }
-  },
-  "id" : 644214346499780608,
-  "created_at" : "2015-09-16 18:20:43 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -285,7 +204,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "radiofun8",
       "protected" : false,
       "id_str" : "34139208",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/693430849014878208\/XxldQAYc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723975557713514496\/HveCu2bi_normal.jpg",
       "id" : 34139208,
       "verified" : false
     }

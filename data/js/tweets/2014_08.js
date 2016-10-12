@@ -25,7 +25,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SciencePorn",
+      "name" : "SciencePorn \uD83D\uDE80",
       "screen_name" : "SciencePorn",
       "indices" : [ 3, 15 ],
       "id_str" : "572225652",
@@ -37,14 +37,39 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "188761522",
       "id" : 188761522
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/mitchellmoffit\/status\/502078970008182784\/photo\/1",
       "indices" : [ 100, 122 ],
       "url" : "http:\/\/t.co\/7vx2gVcKhd",
-      "expanded_url" : "http:\/\/twitter.com\/mitchellmoffit\/status\/502078970008182784\/photo\/1",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
+      "id_str" : "502078969274175488",
+      "id" : 502078969274175488,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
+      "sizes" : [ {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 640
+      } ],
       "display_url" : "pic.twitter.com\/7vx2gVcKhd"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "502286479901478912",
@@ -59,14 +84,39 @@ Grailbird.data.tweets_2014_08 =
         "id_str" : "188761522",
         "id" : 188761522
       } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/mitchellmoffit\/status\/502078970008182784\/photo\/1",
         "indices" : [ 83, 105 ],
         "url" : "http:\/\/t.co\/7vx2gVcKhd",
-        "expanded_url" : "http:\/\/twitter.com\/mitchellmoffit\/status\/502078970008182784\/photo\/1",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
+        "id_str" : "502078969274175488",
+        "id" : 502078969274175488,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
+        "sizes" : [ {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 640
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 255,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 640
+        } ],
         "display_url" : "pic.twitter.com\/7vx2gVcKhd"
-      } ]
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
     },
     "geo" : { },
     "id_str" : "502136493365010432",
@@ -74,11 +124,11 @@ Grailbird.data.tweets_2014_08 =
     "id" : 502136493365010432,
     "created_at" : "2014-08-20 16:54:03 +0000",
     "user" : {
-      "name" : "SciencePorn",
+      "name" : "SciencePorn \uD83D\uDE80",
       "screen_name" : "SciencePorn",
       "protected" : false,
       "id_str" : "572225652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665846358432071680\/-X_F61JC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779655933991481344\/40fIH7LV_normal.jpg",
       "id" : 572225652,
       "verified" : false
     }
@@ -126,37 +176,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "53586544",
       "id" : 53586544
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/YKLeeAP\/status\/500509832718192640\/photo\/1",
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/C4FpXdB2wc",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BvIrCX_CQAAZc59.jpg",
-      "id_str" : "500509828389683200",
-      "id" : 500509828389683200,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BvIrCX_CQAAZc59.jpg",
-      "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/C4FpXdB2wc"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -434,117 +454,6 @@ Grailbird.data.tweets_2014_08 =
   "text" : "In Ferry Deaths, a South Korean Tycoon\u2019s Downfall http:\/\/t.co\/5ATphsae8h",
   "id" : 497363756989444097,
   "created_at" : "2014-08-07 12:48:54 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "jungkwon chin",
-      "screen_name" : "unheim",
-      "indices" : [ 3, 10 ],
-      "id_str" : "114979757",
-      "id" : 114979757
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/unheim\/status\/496252955939450880\/photo\/1",
-      "indices" : [ 75, 97 ],
-      "url" : "http:\/\/t.co\/ePxY7UBKYk",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BuMLbr7CQAAx8gM.png",
-      "id_str" : "496252954215596032",
-      "id" : 496252954215596032,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BuMLbr7CQAAx8gM.png",
-      "sizes" : [ {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 338,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      } ],
-      "display_url" : "pic.twitter.com\/ePxY7UBKYk"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "496333285094477824",
-  "text" : "RT @unheim: \uCFC4\uD1A0\uC5D0 \uC788\uC2B5\uB2C8\uB2E4. \uD0A8\uAC00\uCFE0\uC9C0, \uAE34\uAC00\uCFE0\uC9C0, \uB8CC\uC548\uC9C0, \uB3C4\uD6C4\uCFE0\uC9C0, \uAE30\uC624\uBBF8\uC988\uB370\uB77C.... \uC808\uB9CC  \uBD24\uB354\uB2C8 \uC880 \uC9C8\uB9AC\uB124\uC694. \u3160\u3160 http:\/\/t.co\/ePxY7UBKYk",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/unheim\/status\/496252955939450880\/photo\/1",
-        "indices" : [ 63, 85 ],
-        "url" : "http:\/\/t.co\/ePxY7UBKYk",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BuMLbr7CQAAx8gM.png",
-        "id_str" : "496252954215596032",
-        "id" : 496252954215596032,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BuMLbr7CQAAx8gM.png",
-        "sizes" : [ {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 191,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 338,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        } ],
-        "display_url" : "pic.twitter.com\/ePxY7UBKYk"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "496252955939450880",
-    "text" : "\uCFC4\uD1A0\uC5D0 \uC788\uC2B5\uB2C8\uB2E4. \uD0A8\uAC00\uCFE0\uC9C0, \uAE34\uAC00\uCFE0\uC9C0, \uB8CC\uC548\uC9C0, \uB3C4\uD6C4\uCFE0\uC9C0, \uAE30\uC624\uBBF8\uC988\uB370\uB77C.... \uC808\uB9CC  \uBD24\uB354\uB2C8 \uC880 \uC9C8\uB9AC\uB124\uC694. \u3160\u3160 http:\/\/t.co\/ePxY7UBKYk",
-    "id" : 496252955939450880,
-    "created_at" : "2014-08-04 11:14:59 +0000",
-    "user" : {
-      "name" : "jungkwon chin",
-      "screen_name" : "unheim",
-      "protected" : false,
-      "id_str" : "114979757",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000768595657\/01e2553f69989fa3be1d1828df2979a0_normal.jpeg",
-      "id" : 114979757,
-      "verified" : false
-    }
-  },
-  "id" : 496333285094477824,
-  "created_at" : "2014-08-04 16:34:11 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

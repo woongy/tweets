@@ -371,7 +371,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603913307758710784\/kiuLzCqq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709572878585434112\/OlidnMaV_normal.jpg",
       "id" : 5694822,
       "verified" : true
     }
@@ -1107,12 +1107,7 @@ Grailbird.data.tweets_2010_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/f4KSLbH",
-      "expanded_url" : "http:\/\/isaa.ch\/39",
-      "display_url" : "isaa.ch\/39"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "28384132826",
@@ -1140,7 +1135,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "isaach",
       "protected" : false,
       "id_str" : "7852612",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701310706981810176\/hbFc5rya_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737160582999232512\/LHH7Yl8L_normal.jpg",
       "id" : 7852612,
       "verified" : false
     }
@@ -1408,7 +1403,7 @@ Grailbird.data.tweets_2010_10 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Foursquare",
-      "screen_name" : "foursquare",
+      "screen_name" : "Foursquare",
       "indices" : [ 23, 34 ],
       "id_str" : "14120151",
       "id" : 14120151
@@ -2098,7 +2093,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven H. Noble",
+      "name" : "Steven Klaiber Noble",
       "screen_name" : "snoble",
       "indices" : [ 3, 10 ],
       "id_str" : "755779",
@@ -2128,11 +2123,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27523010848,
     "created_at" : "2010-10-16 08:09:21 +0000",
     "user" : {
-      "name" : "Steven H. Noble",
+      "name" : "Steven Klaiber Noble",
       "screen_name" : "snoble",
       "protected" : false,
       "id_str" : "755779",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621052573315796992\/f3y3fKTy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742375727211773953\/6aWITGlw_normal.jpg",
       "id" : 755779,
       "verified" : false
     }
@@ -3277,12 +3272,6 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 3, 15 ],
       "id_str" : "12196",
       "id" : 12196
-    }, {
-      "name" : "Cameron Moll",
-      "screen_name" : "cameronmoll",
-      "indices" : [ 139, 140 ],
-      "id_str" : "33923",
-      "id" : 33923
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3315,7 +3304,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "wilsonminer",
       "protected" : false,
       "id_str" : "12196",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552630695399395329\/Brfp1Ypg_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765600833522192384\/JNMvGUEX_normal.jpg",
       "id" : 12196,
       "verified" : false
     }
@@ -3705,7 +3694,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603913307758710784\/kiuLzCqq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709572878585434112\/OlidnMaV_normal.jpg",
       "id" : 5694822,
       "verified" : true
     }
