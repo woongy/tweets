@@ -3,7 +3,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -63,7 +63,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -667,7 +667,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -694,7 +694,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 30070387840647168,
     "created_at" : "2011-01-26 01:11:53 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -1418,7 +1418,7 @@ Grailbird.data.tweets_2011_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 3, 11 ],
       "id_str" : "783214",
       "id" : 783214
@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ {
       "indices" : [ 20, 39 ],
       "url" : "http:\/\/t.co\/pv9EhPT",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2011\/01\/blog-post.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2011\/01\/blog-post.html",
       "display_url" : "blog.twitter.com\/2011\/01\/blog-p\u2026"
     } ]
   },
@@ -1444,7 +1444,7 @@ Grailbird.data.tweets_2011_01 =
       "urls" : [ {
         "indices" : [ 7, 26 ],
         "url" : "http:\/\/t.co\/pv9EhPT",
-        "expanded_url" : "http:\/\/blog.twitter.com\/2011\/01\/blog-post.html",
+        "expanded_url" : "https:\/\/blog.twitter.com\/2011\/01\/blog-post.html",
         "display_url" : "blog.twitter.com\/2011\/01\/blog-p\u2026"
       } ]
     },
@@ -1455,10 +1455,10 @@ Grailbird.data.tweets_2011_01 =
     "created_at" : "2011-01-19 01:18:02 +0000",
     "user" : {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -2115,7 +2115,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "719239404733251584",
       "id" : 719239404733251584
     }, {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 12, 18 ],
       "id_str" : "61715546",
@@ -2777,57 +2777,6 @@ Grailbird.data.tweets_2011_01 =
   "text" : "\uC73C\uC545 \uC5B4\uC81C \uD55C \uC791\uC5C5 \uC77C\uBD80 \uB0A0\uB838\uB2E4 \uC774\uAC83\uC774 svn branch \uAD00\uB9AC\uB97C \uC798\uBABB\uD55C \uC790\uC758 \uB9D0\uB85C\uC778\uAC00...",
   "id" : 23210776823074817,
   "created_at" : "2011-01-07 02:54:15 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "BE NICER,BEN",
-      "screen_name" : "b6n",
-      "indices" : [ 3, 7 ],
-      "id_str" : "16031975",
-      "id" : 16031975
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "23197911441481728",
-  "text" : "RT @b6n: Visually distinctive icons assist the user in quickly identifying the desired application http:\/\/bit.ly\/gi1nqf",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "19259671206428672",
-    "text" : "Visually distinctive icons assist the user in quickly identifying the desired application http:\/\/bit.ly\/gi1nqf",
-    "id" : 19259671206428672,
-    "created_at" : "2010-12-27 05:13:58 +0000",
-    "user" : {
-      "name" : "BE NICER,BEN",
-      "screen_name" : "b6n",
-      "protected" : false,
-      "id_str" : "16031975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743197627718635520\/3wBAwvyC_normal.jpg",
-      "id" : 16031975,
-      "verified" : false
-    }
-  },
-  "id" : 23197911441481728,
-  "created_at" : "2011-01-07 02:03:07 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -3680,7 +3629,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -3752,7 +3701,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "119333627",
       "id" : 119333627
     }, {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 9, 15 ],
       "id_str" : "61715546",

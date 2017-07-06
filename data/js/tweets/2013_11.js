@@ -29,117 +29,6 @@ Grailbird.data.tweets_2013_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott Bixby",
-      "screen_name" : "scottbix",
-      "indices" : [ 3, 12 ],
-      "id_str" : "148116121",
-      "id" : 148116121
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/scottbix\/status\/406427001554087936\/photo\/1",
-      "indices" : [ 83, 105 ],
-      "url" : "http:\/\/t.co\/r8H7KxMOe1",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BaPrNF-CMAAp9AT.png",
-      "id_str" : "406427001566670848",
-      "id" : 406427001566670848,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BaPrNF-CMAAp9AT.png",
-      "sizes" : [ {
-        "h" : 203,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 438,
-        "resize" : "fit",
-        "w" : 735
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 438,
-        "resize" : "fit",
-        "w" : 735
-      }, {
-        "h" : 358,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/r8H7KxMOe1"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "406602490977595392",
-  "text" : "RT @scottbix: Cards Against Humanity has the best Black Friday sale I've ever seen http:\/\/t.co\/r8H7KxMOe1",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/scottbix\/status\/406427001554087936\/photo\/1",
-        "indices" : [ 69, 91 ],
-        "url" : "http:\/\/t.co\/r8H7KxMOe1",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BaPrNF-CMAAp9AT.png",
-        "id_str" : "406427001566670848",
-        "id" : 406427001566670848,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BaPrNF-CMAAp9AT.png",
-        "sizes" : [ {
-          "h" : 203,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 438,
-          "resize" : "fit",
-          "w" : 735
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 438,
-          "resize" : "fit",
-          "w" : 735
-        }, {
-          "h" : 358,
-          "resize" : "fit",
-          "w" : 600
-        } ],
-        "display_url" : "pic.twitter.com\/r8H7KxMOe1"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "406427001554087936",
-    "text" : "Cards Against Humanity has the best Black Friday sale I've ever seen http:\/\/t.co\/r8H7KxMOe1",
-    "id" : 406427001554087936,
-    "created_at" : "2013-11-29 14:18:43 +0000",
-    "user" : {
-      "name" : "Scott Bixby",
-      "screen_name" : "scottbix",
-      "protected" : false,
-      "id_str" : "148116121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671504247746260992\/8NcwPFLx_normal.jpg",
-      "id" : 148116121,
-      "verified" : true
-    }
-  },
-  "id" : 406602490977595392,
-  "created_at" : "2013-11-30 01:56:02 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -170,7 +59,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 11962722
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/DonnieClapp\/status\/405794595680034816\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/DonnieClapp\/status\/405794595680034816\/photo\/1",
       "indices" : [ 94, 116 ],
       "url" : "http:\/\/t.co\/yTy35etCVA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BaGsCNvIYAEMdFj.jpg",
@@ -211,7 +100,7 @@ Grailbird.data.tweets_2013_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/DonnieClapp\/status\/405794595680034816\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/DonnieClapp\/status\/405794595680034816\/photo\/1",
         "indices" : [ 77, 99 ],
         "url" : "http:\/\/t.co\/yTy35etCVA",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BaGsCNvIYAEMdFj.jpg",
@@ -330,7 +219,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 1689419970
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/FacesPics\/status\/405052628134297600\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/FacesPics\/status\/405052628134297600\/photo\/1",
       "indices" : [ 89, 111 ],
       "url" : "http:\/\/t.co\/zIkUSs00x4",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BZ8JOBPIAAAo5rK.jpg",
@@ -371,7 +260,7 @@ Grailbird.data.tweets_2013_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/FacesPics\/status\/405052628134297600\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/FacesPics\/status\/405052628134297600\/photo\/1",
         "indices" : [ 74, 96 ],
         "url" : "http:\/\/t.co\/zIkUSs00x4",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BZ8JOBPIAAAo5rK.jpg",
@@ -441,7 +330,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 6503412
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/sdw\/status\/405056587477184512\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/sdw\/status\/405056587477184512\/photo\/1",
       "indices" : [ 34, 56 ],
       "url" : "http:\/\/t.co\/tW93apmYBc",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BZ8M0fPCYAAHDiY.png",
@@ -482,7 +371,7 @@ Grailbird.data.tweets_2013_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/sdw\/status\/405056587477184512\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/sdw\/status\/405056587477184512\/photo\/1",
         "indices" : [ 25, 47 ],
         "url" : "http:\/\/t.co\/tW93apmYBc",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BZ8M0fPCYAAHDiY.png",
@@ -630,7 +519,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "oisoo",
       "protected" : false,
       "id_str" : "48661131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614384568485842944\/pRgwMfU3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812045747604459520\/S0d6X5Dg_normal.jpg",
       "id" : 48661131,
       "verified" : true
     }
@@ -729,7 +618,7 @@ Grailbird.data.tweets_2013_11 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/403904510654828544\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/403904510654828544\/photo\/1",
       "indices" : [ 24, 46 ],
       "url" : "http:\/\/t.co\/MaBwJOM8gJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BZr1AzECUAE35U6.png",
@@ -794,57 +683,6 @@ Grailbird.data.tweets_2013_11 =
   "text" : "A great story about the fragility of our memory by Ted Chiang: http:\/\/t.co\/JxKWDuE2UJ",
   "id" : 403829263788294144,
   "created_at" : "2013-11-22 10:16:13 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Adam Michela",
-      "screen_name" : "soopa",
-      "indices" : [ 3, 9 ],
-      "id_str" : "638773",
-      "id" : 638773
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "403321255647903745",
-  "text" : "RT @soopa: Steps in mastery of a programming skill:\n\n1 Can I do this?\n2 Can I do this more easily?\n3 Can I do this more elegantly?\n4 Can I \u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "403209186273923072",
-    "text" : "Steps in mastery of a programming skill:\n\n1 Can I do this?\n2 Can I do this more easily?\n3 Can I do this more elegantly?\n4 Can I not do this?",
-    "id" : 403209186273923072,
-    "created_at" : "2013-11-20 17:12:15 +0000",
-    "user" : {
-      "name" : "Adam Michela",
-      "screen_name" : "soopa",
-      "protected" : false,
-      "id_str" : "638773",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843901390\/2aca724cfb46350aa37a9307abc53ff7_normal.jpeg",
-      "id" : 638773,
-      "verified" : false
-    }
-  },
-  "id" : 403321255647903745,
-  "created_at" : "2013-11-21 00:37:35 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -1491,7 +1329,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "MarcusRomer",
       "protected" : false,
       "id_str" : "14974187",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761504955618435073\/AqSn9X3H_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843382284648615936\/Ybt8jmV7_normal.jpg",
       "id" : 14974187,
       "verified" : false
     }
@@ -1567,7 +1405,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 564686965
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Brilliant_Ads\/status\/398646303976345600\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Brilliant_Ads\/status\/398646303976345600\/photo\/1",
       "indices" : [ 50, 72 ],
       "url" : "http:\/\/t.co\/m98dXVVTpJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BYhGs4YIUAAq6NH.jpg",
@@ -1608,7 +1446,7 @@ Grailbird.data.tweets_2013_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Brilliant_Ads\/status\/398646303976345600\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Brilliant_Ads\/status\/398646303976345600\/photo\/1",
         "indices" : [ 31, 53 ],
         "url" : "http:\/\/t.co\/m98dXVVTpJ",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BYhGs4YIUAAq6NH.jpg",
@@ -1775,7 +1613,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677921117592416256\/jHcRg-6u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803718083864989696\/HmANkE-1_normal.jpg",
       "id" : 2426,
       "verified" : true
     }
@@ -1824,7 +1662,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 143737697
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/LLLuly\/status\/397934137404694528\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/LLLuly\/status\/397934137404694528\/photo\/1",
       "indices" : [ 42, 64 ],
       "url" : "http:\/\/t.co\/fpnKRi6SP9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BYW-_U8CQAA26uf.jpg",
@@ -1865,7 +1703,7 @@ Grailbird.data.tweets_2013_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/LLLuly\/status\/397934137404694528\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/LLLuly\/status\/397934137404694528\/photo\/1",
         "indices" : [ 30, 52 ],
         "url" : "http:\/\/t.co\/fpnKRi6SP9",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BYW-_U8CQAA26uf.jpg",
@@ -1957,7 +1795,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 19104463
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/cailia\/status\/397348393078366208\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/cailia\/status\/397348393078366208\/photo\/1",
       "indices" : [ 35, 57 ],
       "url" : "http:\/\/t.co\/FVIQ8XAmR4",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BYOqQgbCIAAGMIT.jpg",
@@ -1998,7 +1836,7 @@ Grailbird.data.tweets_2013_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/cailia\/status\/397348393078366208\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/cailia\/status\/397348393078366208\/photo\/1",
         "indices" : [ 23, 45 ],
         "url" : "http:\/\/t.co\/FVIQ8XAmR4",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BYOqQgbCIAAGMIT.jpg",
@@ -2041,7 +1879,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "cailia",
       "protected" : false,
       "id_str" : "19104463",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/645733763297611776\/5n8kuTfH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875556476604915712\/qU3otXbf_normal.jpg",
       "id" : 19104463,
       "verified" : false
     }
@@ -2061,7 +1899,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -2097,7 +1935,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",

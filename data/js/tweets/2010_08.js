@@ -1340,7 +1340,7 @@ Grailbird.data.tweets_2010_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 18, 26 ],
       "id_str" : "783214",
       "id" : 783214
@@ -1672,7 +1672,7 @@ Grailbird.data.tweets_2010_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 29, 37 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2010_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 119, 127 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2784,7 +2784,7 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ {
       "indices" : [ 95, 114 ],
       "url" : "http:\/\/t.co\/MVzgSt0",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2010\/08\/pushing-our-tweet-button.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2010\/08\/pushing-our-tweet-button.html",
       "display_url" : "blog.twitter.com\/2010\/08\/pushin\u2026"
     } ]
   },
@@ -2807,7 +2807,7 @@ Grailbird.data.tweets_2010_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 0, 8 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2822,7 +2822,7 @@ Grailbird.data.tweets_2010_08 =
   "text" : "@twitter's http:\/\/t.co, will remind many Koreans of Tico http:\/\/bit.ly\/169XxM which has become synonymous with \"being tiny\" :)",
   "id" : 21016241251,
   "created_at" : "2010-08-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "twitter",
+  "in_reply_to_screen_name" : "Twitter",
   "in_reply_to_user_id_str" : "783214",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4211,11 +4211,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3141\u3141\u3141",
+      "name" : "Woojin Kim",
       "screen_name" : "neoocean",
       "indices" : [ 0, 9 ],
-      "id_str" : "45482413",
-      "id" : 45482413
+      "id_str" : "825917429918294016",
+      "id" : 825917429918294016
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4229,7 +4229,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20180266063,
   "in_reply_to_status_id" : 20176663913,
   "created_at" : "2010-08-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neoocean",
+  "in_reply_to_screen_name" : "neoocean1",
   "in_reply_to_user_id_str" : "45482413",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4275,7 +4275,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "rands",
       "protected" : false,
       "id_str" : "30923",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879352807228399621\/qtcNEE0n_normal.jpg",
       "id" : 30923,
       "verified" : true
     }
@@ -4326,7 +4326,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "rands",
       "protected" : false,
       "id_str" : "30923",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879352807228399621\/qtcNEE0n_normal.jpg",
       "id" : 30923,
       "verified" : true
     }

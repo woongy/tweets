@@ -274,7 +274,7 @@ Grailbird.data.tweets_2014_04 =
       "id" : 730554710
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/hibapictures\/status\/451916800431640577\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/hibapictures\/status\/451916800431640577\/photo\/1",
       "indices" : [ 32, 54 ],
       "url" : "http:\/\/t.co\/IGaZ6C7vp8",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BkWH73lCYAI8CFB.jpg",
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2014_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/hibapictures\/status\/451916800431640577\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/hibapictures\/status\/451916800431640577\/photo\/1",
         "indices" : [ 14, 36 ],
         "url" : "http:\/\/t.co\/IGaZ6C7vp8",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BkWH73lCYAI8CFB.jpg",
@@ -478,7 +478,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Autumnal Vollmer \uD83C\uDF42",
+      "name" : "Asher Vollmer",
       "screen_name" : "AsherVo",
       "indices" : [ 3, 11 ],
       "id_str" : "16741826",
@@ -491,7 +491,7 @@ Grailbird.data.tweets_2014_04 =
       "id" : 74594552
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/AsherVo\/status\/451399425835798528\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/AsherVo\/status\/451399425835798528\/photo\/1",
       "indices" : [ 45, 67 ],
       "url" : "http:\/\/t.co\/RUvlrR8PWj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BkOxYt0CEAEOfeC.jpg",
@@ -538,7 +538,7 @@ Grailbird.data.tweets_2014_04 =
         "id" : 74594552
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/AsherVo\/status\/451399425835798528\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/AsherVo\/status\/451399425835798528\/photo\/1",
         "indices" : [ 32, 54 ],
         "url" : "http:\/\/t.co\/RUvlrR8PWj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BkOxYt0CEAEOfeC.jpg",
@@ -577,11 +577,11 @@ Grailbird.data.tweets_2014_04 =
     "id" : 451399425835798528,
     "created_at" : "2014-04-02 16:43:04 +0000",
     "user" : {
-      "name" : "Autumnal Vollmer \uD83C\uDF42",
+      "name" : "Asher Vollmer",
       "screen_name" : "AsherVo",
       "protected" : false,
       "id_str" : "16741826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782441139697651712\/28JNLD6N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847148496650059776\/4CQwhMIB_normal.jpg",
       "id" : 16741826,
       "verified" : true
     }
@@ -601,7 +601,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Autumnal Vollmer \uD83C\uDF42",
+      "name" : "Asher Vollmer",
       "screen_name" : "AsherVo",
       "indices" : [ 3, 11 ],
       "id_str" : "16741826",
@@ -628,11 +628,11 @@ Grailbird.data.tweets_2014_04 =
     "id" : 451206131772182528,
     "created_at" : "2014-04-02 03:54:59 +0000",
     "user" : {
-      "name" : "Autumnal Vollmer \uD83C\uDF42",
+      "name" : "Asher Vollmer",
       "screen_name" : "AsherVo",
       "protected" : false,
       "id_str" : "16741826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782441139697651712\/28JNLD6N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847148496650059776\/4CQwhMIB_normal.jpg",
       "id" : 16741826,
       "verified" : true
     }
@@ -659,7 +659,7 @@ Grailbird.data.tweets_2014_04 =
       "id" : 213139306
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Diablo_KR\/status\/450813514324520961\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Diablo_KR\/status\/450813514324520961\/photo\/1",
       "indices" : [ 82, 104 ],
       "url" : "http:\/\/t.co\/O7t9j74DTq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BkGcgLXCMAAIZbO.jpg",
@@ -705,7 +705,7 @@ Grailbird.data.tweets_2014_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Diablo_KR\/status\/450813514324520961\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Diablo_KR\/status\/450813514324520961\/photo\/1",
         "indices" : [ 67, 89 ],
         "url" : "http:\/\/t.co\/O7t9j74DTq",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BkGcgLXCMAAIZbO.jpg",
@@ -755,7 +755,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "213139306",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000333342024\/8cd4150372c3cfdb81e030c814822983_normal.jpeg",
       "id" : 213139306,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 450846255606808576,

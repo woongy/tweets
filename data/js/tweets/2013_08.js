@@ -123,14 +123,14 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Youssef Sarhan \uD83D\uDD11",
+      "name" : "Youssef Sarhan",
       "screen_name" : "YS",
       "indices" : [ 3, 6 ],
       "id_str" : "19010677",
       "id" : 19010677
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ys\/status\/370591771102674944\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/ys\/status\/370591771102674944\/photo\/1",
       "indices" : [ 115, 137 ],
       "url" : "http:\/\/t.co\/NNhLt2gSnI",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BSSbQJnCAAEprbU.png",
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2013_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ys\/status\/370591771102674944\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ys\/status\/370591771102674944\/photo\/1",
         "indices" : [ 107, 129 ],
         "url" : "http:\/\/t.co\/NNhLt2gSnI",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BSSbQJnCAAEprbU.png",
@@ -210,11 +210,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 370591771102674944,
     "created_at" : "2013-08-22 17:02:18 +0000",
     "user" : {
-      "name" : "Youssef Sarhan \uD83D\uDD11",
+      "name" : "Youssef Sarhan",
       "screen_name" : "YS",
       "protected" : false,
       "id_str" : "19010677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785788569285689344\/9GbP76jC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881285131146858496\/pfKVMxZF_normal.jpg",
       "id" : 19010677,
       "verified" : true
     }
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Youssef Sarhan \uD83D\uDD11",
+      "name" : "Youssef Sarhan",
       "screen_name" : "YS",
       "indices" : [ 3, 6 ],
       "id_str" : "19010677",
@@ -288,11 +288,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 370358814781870082,
     "created_at" : "2013-08-22 01:36:37 +0000",
     "user" : {
-      "name" : "Youssef Sarhan \uD83D\uDD11",
+      "name" : "Youssef Sarhan",
       "screen_name" : "YS",
       "protected" : false,
       "id_str" : "19010677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785788569285689344\/9GbP76jC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881285131146858496\/pfKVMxZF_normal.jpg",
       "id" : 19010677,
       "verified" : true
     }
@@ -784,7 +784,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "aladinbook",
       "protected" : false,
       "id_str" : "144770990",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1747266690\/aladinlogo_kor_len2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882145687005155328\/aiP9PAcl_normal.jpg",
       "id" : 144770990,
       "verified" : true
     }
@@ -854,7 +854,7 @@ Grailbird.data.tweets_2013_08 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/364339964554665984\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/364339964554665984\/photo\/1",
       "indices" : [ 26, 48 ],
       "url" : "http:\/\/t.co\/MT0FgQIFoa",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BQ5lRHUCYAAWmyd.jpg",

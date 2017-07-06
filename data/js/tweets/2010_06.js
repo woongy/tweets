@@ -766,57 +766,6 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dong jin Lee(#suwon)",
-      "screen_name" : "sellenian",
-      "indices" : [ 3, 13 ],
-      "id_str" : "111706239",
-      "id" : 111706239
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16894846798",
-  "text" : "RT @sellenian: http:\/\/is.gd\/d13Hp \uC774 \uAE00\uC774 \uC5BC\uB9C8\uB098 \uD37C\uC9C8\uB7F0\uC9C0\uB294 \uBAA8\uB974\uACA0\uC9C0\uB9CC, \uC5EC\uC790\uBD84\uB4E4\uC740 \uBC18\uB4DC\uC2DC \uC77D\uC5B4\uC8FC\uC2DC\uAE38 \uBC14\uB77C\uACE0, \uB0A8\uC790\uBD84\uB4E4\uB3C4 \uAF2D \uC77D\uC5B4\uC8FC\uC2DC\uAE38 \uBD80\uD0C1\uB4DC\uB9BD\uB2C8\uB2E4. \uB0A8\uC758 \uC77C\uC774 \uC544\uB2D9\uB2C8\uB2E4.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/LipTwit.com\" rel=\"nofollow\"\u003E\uB9BD\uD2B8\uC717\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "16878727114",
-    "text" : "http:\/\/is.gd\/d13Hp \uC774 \uAE00\uC774 \uC5BC\uB9C8\uB098 \uD37C\uC9C8\uB7F0\uC9C0\uB294 \uBAA8\uB974\uACA0\uC9C0\uB9CC, \uC5EC\uC790\uBD84\uB4E4\uC740 \uBC18\uB4DC\uC2DC \uC77D\uC5B4\uC8FC\uC2DC\uAE38 \uBC14\uB77C\uACE0, \uB0A8\uC790\uBD84\uB4E4\uB3C4 \uAF2D \uC77D\uC5B4\uC8FC\uC2DC\uAE38 \uBD80\uD0C1\uB4DC\uB9BD\uB2C8\uB2E4. \uB0A8\uC758 \uC77C\uC774 \uC544\uB2D9\uB2C8\uB2E4.",
-    "id" : 16878727114,
-    "created_at" : "2010-06-23 21:34:07 +0000",
-    "user" : {
-      "name" : "Dong jin Lee(#suwon)",
-      "screen_name" : "sellenian",
-      "protected" : false,
-      "id_str" : "111706239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1174804609\/IMG_0156_normal.jpg",
-      "id" : 111706239,
-      "verified" : false
-    }
-  },
-  "id" : 16894846798,
-  "created_at" : "2010-06-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -982,7 +931,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kolpanic",
       "protected" : false,
       "id_str" : "14934420",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753069078223486976\/rqSUACsY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790196622604972032\/mNAQB8G0_normal.jpg",
       "id" : 14934420,
       "verified" : false
     }
@@ -1674,7 +1623,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "creativeapps",
       "protected" : false,
       "id_str" : "16709304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458920285354205184\/5jmm_yYh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809714289070211072\/ksyQVK0c_normal.jpg",
       "id" : 16709304,
       "verified" : false
     }
@@ -1779,6 +1728,28 @@ Grailbird.data.tweets_2010_06 =
   },
   "id" : 16615938422,
   "created_at" : "2010-06-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16469404191",
+  "text" : "(\uC5EC\uAE30\uB294 \uB0A8\uC544\uACF5) \uCC28\uB450\uB9AC \"USB\uB85C \uCDA9\uC804 \uC911\uC774\uC5C8\uB2E4\" http:\/\/durl.me\/yna7 \uCC28\uB450\uB9AC \uC88B\uB2E4 \u314B\u314B",
+  "id" : 16469404191,
+  "created_at" : "2010-06-18 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -2045,28 +2016,6 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16469404191",
-  "text" : "(\uC5EC\uAE30\uB294 \uB0A8\uC544\uACF5) \uCC28\uB450\uB9AC \"USB\uB85C \uCDA9\uC804 \uC911\uC774\uC5C8\uB2E4\" http:\/\/durl.me\/yna7 \uCC28\uB450\uB9AC \uC88B\uB2E4 \u314B\u314B",
-  "id" : 16469404191,
-  "created_at" : "2010-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Hacker News Bot",
       "screen_name" : "hackernewsbot",
@@ -2261,7 +2210,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "srobbin",
       "protected" : false,
       "id_str" : "956611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626553402017873920\/zhs9JHk-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/830902517105991681\/f3ptT0cA_normal.jpg",
       "id" : 956611,
       "verified" : false
     }
@@ -2745,7 +2694,7 @@ Grailbird.data.tweets_2010_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 87, 95 ],
       "id_str" : "783214",
       "id" : 783214
@@ -3173,7 +3122,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "aksrnk",
       "protected" : false,
       "id_str" : "112658326",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773551721217871872\/Hg1VX5Po_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845048308653441024\/mxsrUoZQ_normal.png",
       "id" : 112658326,
       "verified" : false
     }
@@ -3367,6 +3316,28 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "15841227218",
+  "text" : "\uB098\uB85C\uD638\uC5D0 \uD0C4 \uC704\uC131\uC740 \uC5BC\uB9C8\uB098 \uBB34\uC11C\uC6E0\uC744\uAE4C... \uCE84\uCE84\uD55C \uD398\uC5B4\uB9C1 \uCEE4\uBC84 \uC548\uC5D0\uC11C \uB35C\uB35C\uB35C \uB5A8\uB9AC\uBA74\uC11C \uC62C\uB77C\uAC00\uB294 \uC911\uC774\uC5C8\uC744\uD150\uB370 ;-;",
+  "id" : 15841227218,
+  "created_at" : "2010-06-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "15841452716",
   "text" : "Rest in peace, 2A and 2B. ;-;",
   "id" : 15841452716,
@@ -3448,7 +3419,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "geekycyberdad",
       "protected" : false,
       "id_str" : "2345021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750854275484364800\/Qe4BkATn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854866778442399744\/AEeCAMRf_normal.jpg",
       "id" : 2345021,
       "verified" : false
     }
@@ -3619,28 +3590,6 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "15841227218",
-  "text" : "\uB098\uB85C\uD638\uC5D0 \uD0C4 \uC704\uC131\uC740 \uC5BC\uB9C8\uB098 \uBB34\uC11C\uC6E0\uC744\uAE4C... \uCE84\uCE84\uD55C \uD398\uC5B4\uB9C1 \uCEE4\uBC84 \uC548\uC5D0\uC11C \uB35C\uB35C\uB35C \uB5A8\uB9AC\uBA74\uC11C \uC62C\uB77C\uAC00\uB294 \uC911\uC774\uC5C8\uC744\uD150\uB370 ;-;",
-  "id" : 15841227218,
-  "created_at" : "2010-06-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "15748366930",
   "text" : "Have been taking too much coffee recently knowing that it won't save me from falling asleep. Need to look for an alternative.",
   "id" : 15748366930,
@@ -3659,7 +3608,7 @@ Grailbird.data.tweets_2010_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 3, 11 ],
       "id_str" : "783214",
       "id" : 783214
@@ -3686,10 +3635,10 @@ Grailbird.data.tweets_2010_06 =
     "created_at" : "2010-06-08 23:21:02 +0000",
     "user" : {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -4010,7 +3959,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "creativeapps",
       "protected" : false,
       "id_str" : "16709304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458920285354205184\/5jmm_yYh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809714289070211072\/ksyQVK0c_normal.jpg",
       "id" : 16709304,
       "verified" : false
     }
@@ -4797,7 +4746,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "snackfight",
       "protected" : false,
       "id_str" : "852251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680105856579457026\/f5384bI1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875383730025771009\/PCU63T4z_normal.jpg",
       "id" : 852251,
       "verified" : false
     }
@@ -5014,7 +4963,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Nguyen (\u2310\u25A0_\u25A0)\u30CE\u266A",
+      "name" : "Dan Nguyen",
       "screen_name" : "dancow",
       "indices" : [ 3, 10 ],
       "id_str" : "14335332",
@@ -5047,7 +4996,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15247669479,
     "created_at" : "2010-06-02 12:26:38 +0000",
     "user" : {
-      "name" : "Dan Nguyen (\u2310\u25A0_\u25A0)\u30CE\u266A",
+      "name" : "Dan Nguyen",
       "screen_name" : "dancow",
       "protected" : false,
       "id_str" : "14335332",

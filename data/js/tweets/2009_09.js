@@ -426,7 +426,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u23F9",
+      "name" : "Q-Pressor",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -618,9 +618,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4164343991",
-  "text" : "It will be awesome if there's a way to put more than 8 thumbnails in Chrome's new tab page",
-  "id" : 4164343991,
+  "id_str" : "4299347657",
+  "text" : "Dropped architecture course to take civic technology course.",
+  "id" : 4299347657,
   "created_at" : "2009-09-22 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -640,9 +640,9 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4299347657",
-  "text" : "Dropped architecture course to take civic technology course.",
-  "id" : 4299347657,
+  "id_str" : "4164343991",
+  "text" : "It will be awesome if there's a way to put more than 8 thumbnails in Chrome's new tab page",
+  "id" : 4164343991,
   "created_at" : "2009-09-22 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",

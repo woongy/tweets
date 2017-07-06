@@ -3,7 +3,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leah Culver",
+      "name" : "Leah Culver \uD83C\uDF79",
       "screen_name" : "leahculver",
       "indices" : [ 3, 14 ],
       "id_str" : "662433",
@@ -30,11 +30,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 651698572761501696,
     "created_at" : "2015-10-07 10:00:22 +0000",
     "user" : {
-      "name" : "Leah Culver",
+      "name" : "Leah Culver \uD83C\uDF79",
       "screen_name" : "leahculver",
       "protected" : false,
       "id_str" : "662433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679769047022436353\/nhMCEyEj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882419960928124928\/Tu_OPlsW_normal.jpg",
       "id" : 662433,
       "verified" : false
     }

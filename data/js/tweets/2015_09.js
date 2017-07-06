@@ -29,7 +29,7 @@ Grailbird.data.tweets_2015_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/NASA\/status\/648527086299316224\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/NASA\/status\/648527086299316224\/photo\/1",
         "indices" : [ 118, 140 ],
         "url" : "http:\/\/t.co\/JNksawz2iN",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CQAH8uSW8AA9gSU.jpg",
@@ -155,7 +155,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "90841134",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687909847178715136\/gVo0voBd_normal.png",
       "id" : 90841134,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 641498243541536768,

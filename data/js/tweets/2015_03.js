@@ -94,7 +94,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "sean_a_rose",
       "protected" : false,
       "id_str" : "17797951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702302051242389505\/CW8p09-j_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860960103473627136\/O3LXhdTy_normal.jpg",
       "id" : 17797951,
       "verified" : false
     }

@@ -209,7 +209,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "rands",
       "protected" : false,
       "id_str" : "30923",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879352807228399621\/qtcNEE0n_normal.jpg",
       "id" : 30923,
       "verified" : true
     }
@@ -1086,7 +1086,7 @@ Grailbird.data.tweets_2011_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/120743413443346432\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/120743413443346432\/photo\/1",
       "indices" : [ 34, 54 ],
       "url" : "http:\/\/t.co\/kKyk1fEC",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Aaz3fquCQAAnEXt.jpg",
@@ -1226,7 +1226,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "119333627",
       "id" : 119333627
     }, {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 18, 24 ],
       "id_str" : "61715546",
@@ -1296,67 +1296,6 @@ Grailbird.data.tweets_2011_10 =
   "text" : "@river_deep \uC120\uC120\uD574\uC11C \uC790\uC804\uAC70 \uD0C0\uAE30\uC5D0 \uCC38 \uC88B\uC740 \uB0A0\uC528\uC600\uC5B4\uC694 :)",
   "id" : 120093648670040066,
   "created_at" : "2011-10-01 11:12:11 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "nick disabato",
-      "screen_name" : "nickd",
-      "indices" : [ 3, 9 ],
-      "id_str" : "18196758",
-      "id" : 18196758
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 108, 128 ],
-      "url" : "http:\/\/t.co\/PLlG8CvT",
-      "expanded_url" : "http:\/\/cl.ly\/AZ37",
-      "display_url" : "cl.ly\/AZ37"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "119937139189366784",
-  "text" : "RT @nickd: i click a link and receive the dialog \"Please log in to continue.\" continue doing what, exactly? http:\/\/t.co\/PLlG8CvT",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 97, 117 ],
-        "url" : "http:\/\/t.co\/PLlG8CvT",
-        "expanded_url" : "http:\/\/cl.ly\/AZ37",
-        "display_url" : "cl.ly\/AZ37"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "119858300811612160",
-    "text" : "i click a link and receive the dialog \"Please log in to continue.\" continue doing what, exactly? http:\/\/t.co\/PLlG8CvT",
-    "id" : 119858300811612160,
-    "created_at" : "2011-09-30 19:37:00 +0000",
-    "user" : {
-      "name" : "nick disabato",
-      "screen_name" : "nickd",
-      "protected" : false,
-      "id_str" : "18196758",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000831312104\/04894f7501603ce8eaebe608f28760a9_normal.jpeg",
-      "id" : 18196758,
-      "verified" : true
-    }
-  },
-  "id" : 119937139189366784,
-  "created_at" : "2011-10-01 00:50:16 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

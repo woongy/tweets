@@ -246,7 +246,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/358844843692277760\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/358844843692277760\/photo\/1",
       "indices" : [ 23, 45 ],
       "url" : "http:\/\/t.co\/mWoAZiZd5d",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BPrfe-4CQAIMuyT.jpg",

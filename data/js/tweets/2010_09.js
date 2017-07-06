@@ -34,7 +34,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773257374811430919\/RgvQAUg6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880485839054176257\/fJiRL9gH_normal.jpg",
       "id" : 1753061,
       "verified" : false
     }
@@ -158,7 +158,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773257374811430919\/RgvQAUg6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880485839054176257\/fJiRL9gH_normal.jpg",
       "id" : 1753061,
       "verified" : false
     }
@@ -552,7 +552,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773257374811430919\/RgvQAUg6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880485839054176257\/fJiRL9gH_normal.jpg",
       "id" : 1753061,
       "verified" : false
     }
@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "thelogosmith",
       "protected" : false,
       "id_str" : "1753061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773257374811430919\/RgvQAUg6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880485839054176257\/fJiRL9gH_normal.jpg",
       "id" : 1753061,
       "verified" : false
     }
@@ -1849,7 +1849,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yehuda Katz",
+      "name" : "#BarelyProgrammer",
       "screen_name" : "wycats",
       "indices" : [ 3, 10 ],
       "id_str" : "8526432",
@@ -1882,11 +1882,11 @@ Grailbird.data.tweets_2010_09 =
     "id" : 24784300743,
     "created_at" : "2010-09-17 19:05:30 +0000",
     "user" : {
-      "name" : "Yehuda Katz",
+      "name" : "#BarelyProgrammer",
       "screen_name" : "wycats",
       "protected" : false,
       "id_str" : "8526432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3250074047\/46d910af94e25187832cb4a3bc84b2b5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861010112852262912\/nbPZKMyR_normal.jpg",
       "id" : 8526432,
       "verified" : true
     }
@@ -2453,7 +2453,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "tconrad",
       "protected" : false,
       "id_str" : "12217",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2638240515\/5820a12944698a0979804c43717057f1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806051936298336256\/fSPRpeMk_normal.jpg",
       "id" : 12217,
       "verified" : true
     }
@@ -2549,8 +2549,8 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Louie \uD83C\uDF83 Hallouieen",
-      "screen_name" : "mantia",
+      "name" : "@Mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 3, 10 ],
       "id_str" : "41783",
       "id" : 41783
@@ -2576,11 +2576,11 @@ Grailbird.data.tweets_2010_09 =
     "id" : 24501541298,
     "created_at" : "2010-09-14 19:09:55 +0000",
     "user" : {
-      "name" : "Louie \uD83C\uDF83 Hallouieen",
-      "screen_name" : "mantia",
+      "name" : "@Mantia",
+      "screen_name" : "Mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784067710749552648\/VC17QejC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876847828030562305\/eyK2Z1Mh_normal.jpg",
       "id" : 41783,
       "verified" : true
     }
@@ -2810,7 +2810,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael Heiloween",
+      "name" : "Michael Heilemann",
       "screen_name" : "Heilemann",
       "indices" : [ 122, 132 ],
       "id_str" : "11656",
@@ -4150,7 +4150,7 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ {
       "indices" : [ 66, 85 ],
       "url" : "http:\/\/t.co\/oOf80he",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2010\/09\/twitter-for-ipad-sharing-content-in.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2010\/09\/twitter-for-ipad-sharing-content-in.html",
       "display_url" : "blog.twitter.com\/2010\/09\/twitte\u2026"
     } ]
   },

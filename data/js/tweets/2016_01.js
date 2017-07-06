@@ -48,7 +48,7 @@ Grailbird.data.tweets_2016_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/IAmOxfordComma\/status\/684411628943626240\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/IAmOxfordComma\/status\/684411628943626240\/photo\/1",
         "indices" : [ 99, 122 ],
         "url" : "https:\/\/t.co\/nAKm8dX5SH",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CX8ljroWwAAvwz7.jpg",

@@ -336,7 +336,7 @@ Grailbird.data.tweets_2013_02 =
       "id" : 624947324
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/303210588086104067\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/303210588086104067\/photo\/1",
       "indices" : [ 102, 122 ],
       "url" : "http:\/\/t.co\/mvF874OE",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BDU4bGOCcAAlXKn.png",
@@ -526,12 +526,12 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 55, 75 ],
       "url" : "http:\/\/t.co\/qjc68npa",
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/8310242856",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/8310242856",
       "display_url" : "twitter.com\/woongy\/status\/\u2026"
     }, {
       "indices" : [ 77, 97 ],
       "url" : "http:\/\/t.co\/FsHD16U5",
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/6967806225",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/6967806225",
       "display_url" : "twitter.com\/woongy\/status\/\u2026"
     } ]
   },
@@ -587,7 +587,7 @@ Grailbird.data.tweets_2013_02 =
       "id" : 624947324
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/299635477269581824\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/299635477269581824\/photo\/1",
       "indices" : [ 101, 121 ],
       "url" : "http:\/\/t.co\/E6ZwcZc6",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BCiE4QlCEAAajHe.png",

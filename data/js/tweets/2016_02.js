@@ -10,7 +10,7 @@ Grailbird.data.tweets_2016_02 =
       "id" : 2843126677
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
       "indices" : [ 47, 70 ],
       "url" : "https:\/\/t.co\/rI7v6m2nwy",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CcB_gwtUkAIRj1r.jpg",
@@ -40,7 +40,7 @@ Grailbird.data.tweets_2016_02 =
       } ],
       "display_url" : "pic.twitter.com\/rI7v6m2nwy"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
       "indices" : [ 47, 70 ],
       "url" : "https:\/\/t.co\/rI7v6m2nwy",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CcB_gkzUEAAjn_Q.jpg",
@@ -70,7 +70,7 @@ Grailbird.data.tweets_2016_02 =
       } ],
       "display_url" : "pic.twitter.com\/rI7v6m2nwy"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
       "indices" : [ 47, 70 ],
       "url" : "https:\/\/t.co\/rI7v6m2nwy",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CcB_fm9UkAQor3j.jpg",
@@ -111,7 +111,7 @@ Grailbird.data.tweets_2016_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
         "indices" : [ 29, 52 ],
         "url" : "https:\/\/t.co\/rI7v6m2nwy",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CcB_gwtUkAIRj1r.jpg",
@@ -141,7 +141,7 @@ Grailbird.data.tweets_2016_02 =
         } ],
         "display_url" : "pic.twitter.com\/rI7v6m2nwy"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
         "indices" : [ 29, 52 ],
         "url" : "https:\/\/t.co\/rI7v6m2nwy",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CcB_gkzUEAAjn_Q.jpg",
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2016_02 =
         } ],
         "display_url" : "pic.twitter.com\/rI7v6m2nwy"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/rokanarutari\/status\/702701744103378944\/photo\/1",
         "indices" : [ 29, 52 ],
         "url" : "https:\/\/t.co\/rI7v6m2nwy",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CcB_fm9UkAQor3j.jpg",
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2016_02 =
         "id" : 21059255
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/HowellONeill\/status\/699923949707198468\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/HowellONeill\/status\/699923949707198468\/photo\/1",
         "indices" : [ 116, 139 ],
         "url" : "https:\/\/t.co\/dHPY05rZhM",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Cbag8hSWAAQ9h7D.png",
@@ -371,7 +371,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "HowellONeill",
       "protected" : false,
       "id_str" : "113763153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774309922762813440\/04i9FA9r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/828664494242959360\/CTeJGTh7_normal.jpg",
       "id" : 113763153,
       "verified" : true
     }
@@ -532,7 +532,7 @@ Grailbird.data.tweets_2016_02 =
       "id" : 633793
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/flipzagging\/status\/634448062040162304\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/flipzagging\/status\/634448062040162304\/photo\/1",
       "indices" : [ 44, 66 ],
       "url" : "http:\/\/t.co\/TgFVuYVkex",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CM4DJnCWUAI_Slu.png",
@@ -573,7 +573,7 @@ Grailbird.data.tweets_2016_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/flipzagging\/status\/634448062040162304\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/flipzagging\/status\/634448062040162304\/photo\/1",
         "indices" : [ 27, 49 ],
         "url" : "http:\/\/t.co\/TgFVuYVkex",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CM4DJnCWUAI_Slu.png",
@@ -741,14 +741,14 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FILKB",
+      "name" : "FILKB(7.16~7.23 LA)",
       "screen_name" : "Shiroi_FILKB",
       "indices" : [ 3, 16 ],
       "id_str" : "620861736",
       "id" : 620861736
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Shiroi_FILKB\/status\/694691841321492480\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Shiroi_FILKB\/status\/694691841321492480\/photo\/1",
       "indices" : [ 39, 62 ],
       "url" : "https:\/\/t.co\/j2q1Tg7XaA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CaQKjFjUAAEOMAe.jpg",
@@ -789,7 +789,7 @@ Grailbird.data.tweets_2016_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Shiroi_FILKB\/status\/694691841321492480\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Shiroi_FILKB\/status\/694691841321492480\/photo\/1",
         "indices" : [ 21, 44 ],
         "url" : "https:\/\/t.co\/j2q1Tg7XaA",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CaQKjFjUAAEOMAe.jpg",
@@ -828,11 +828,11 @@ Grailbird.data.tweets_2016_02 =
     "id" : 694691841321492480,
     "created_at" : "2016-02-03 01:20:16 +0000",
     "user" : {
-      "name" : "FILKB",
+      "name" : "FILKB(7.16~7.23 LA)",
       "screen_name" : "Shiroi_FILKB",
       "protected" : false,
       "id_str" : "620861736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717628361049149441\/zAn8Umsm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798123034204741632\/wtGzfKol_normal.jpg",
       "id" : 620861736,
       "verified" : false
     }

@@ -51,7 +51,7 @@ Grailbird.data.tweets_2013_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/340082718345940992\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/340082718345940992\/photo\/1",
       "indices" : [ 20, 42 ],
       "url" : "http:\/\/t.co\/xMEVMSAF9K",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BLg3bjWCUAAOn9t.jpg",
@@ -106,7 +106,7 @@ Grailbird.data.tweets_2013_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/339432089508274177\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/339432089508274177\/photo\/1",
       "indices" : [ 17, 39 ],
       "url" : "http:\/\/t.co\/r2hf04WiDw",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BLXnr-ECYAATYwx.jpg",
@@ -273,7 +273,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "maxvoltar",
       "protected" : false,
       "id_str" : "2727051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726186037593038848\/zb10oFy0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855504488655986688\/VkPrJUs9_normal.jpg",
       "id" : 2727051,
       "verified" : true
     }

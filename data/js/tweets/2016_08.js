@@ -61,7 +61,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "filmisindanger",
       "protected" : false,
       "id_str" : "249256361",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/764341030334324736\/EKmuYO_F_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/801589693984837632\/4CnMsthf_normal.jpg",
       "id" : 249256361,
       "verified" : false
     }
@@ -127,7 +127,7 @@ Grailbird.data.tweets_2016_08 =
       "id" : 60783724
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ianbremmer\/status\/761641203960086529\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/ianbremmer\/status\/761641203960086529\/photo\/1",
       "indices" : [ 110, 133 ],
       "url" : "https:\/\/t.co\/Id44OuehN3",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CpHkocgWgAAS79M.jpg",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2016_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ianbremmer\/status\/761641203960086529\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ianbremmer\/status\/761641203960086529\/photo\/1",
         "indices" : [ 94, 117 ],
         "url" : "https:\/\/t.co\/Id44OuehN3",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CpHkocgWgAAS79M.jpg",
@@ -211,7 +211,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "ianbremmer",
       "protected" : false,
       "id_str" : "60783724",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760130489353134080\/vPLJkNWY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876153360684113920\/xDiGG0nR_normal.jpg",
       "id" : 60783724,
       "verified" : true
     }
@@ -238,7 +238,7 @@ Grailbird.data.tweets_2016_08 =
       "id" : 33856936
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SteveStuWill\/status\/760247045105922048\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/SteveStuWill\/status\/760247045105922048\/photo\/1",
       "indices" : [ 92, 115 ],
       "url" : "https:\/\/t.co\/hJekigARbA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CozwpoHVYAArINt.jpg",
@@ -284,7 +284,7 @@ Grailbird.data.tweets_2016_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SteveStuWill\/status\/760247045105922048\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/SteveStuWill\/status\/760247045105922048\/photo\/1",
         "indices" : [ 74, 97 ],
         "url" : "https:\/\/t.co\/hJekigARbA",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CozwpoHVYAArINt.jpg",
@@ -332,7 +332,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "SteveStuWill",
       "protected" : false,
       "id_str" : "33856936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550836762369470464\/dhdxTO5d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/858965578135904256\/eot8nc9O_normal.jpg",
       "id" : 33856936,
       "verified" : false
     }
@@ -359,7 +359,7 @@ Grailbird.data.tweets_2016_08 =
       "id" : 17781739
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/TheLincoln\/status\/760520313864085504\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/TheLincoln\/status\/760520313864085504\/photo\/1",
       "indices" : [ 115, 138 ],
       "url" : "https:\/\/t.co\/mrvWSAm86X",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Co3pMC4WIAAfQvM.jpg",
@@ -405,7 +405,7 @@ Grailbird.data.tweets_2016_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/TheLincoln\/status\/760520313864085504\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/TheLincoln\/status\/760520313864085504\/photo\/1",
         "indices" : [ 99, 122 ],
         "url" : "https:\/\/t.co\/mrvWSAm86X",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Co3pMC4WIAAfQvM.jpg",
@@ -449,7 +449,7 @@ Grailbird.data.tweets_2016_08 =
     "id" : 760520313864085504,
     "created_at" : "2016-08-02 16:59:07 +0000",
     "user" : {
-      "name" : "Lich King \uD83D\uDC80 Michel",
+      "name" : "Lincoln Michel",
       "screen_name" : "TheLincoln",
       "protected" : false,
       "id_str" : "17781739",

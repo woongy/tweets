@@ -87,7 +87,7 @@ Grailbird.data.tweets_2012_02 =
       "id" : 132110540
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/DarthJinger\/status\/174377320763756544\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/DarthJinger\/status\/174377320763756544\/photo\/1",
       "indices" : [ 41, 61 ],
       "url" : "http:\/\/t.co\/5bWkmSx6",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AmuDP9VCEAEED0_.jpg",
@@ -128,7 +128,7 @@ Grailbird.data.tweets_2012_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/DarthJinger\/status\/174377320763756544\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/DarthJinger\/status\/174377320763756544\/photo\/1",
         "indices" : [ 24, 44 ],
         "url" : "http:\/\/t.co\/5bWkmSx6",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/AmuDP9VCEAEED0_.jpg",
@@ -307,7 +307,7 @@ Grailbird.data.tweets_2012_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/172992119441588225\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/172992119441588225\/photo\/1",
       "indices" : [ 19, 39 ],
       "url" : "http:\/\/t.co\/MwnqcdI0",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AmaXaoSCAAAtX0h.jpg",
@@ -914,7 +914,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -1122,7 +1122,7 @@ Grailbird.data.tweets_2012_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/164727585631240192\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/164727585631240192\/photo\/1",
       "indices" : [ 21, 41 ],
       "url" : "http:\/\/t.co\/Zqn3GNXD",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Akk63cqCAAAZJOm.jpg",

@@ -1,5 +1,551 @@
 Grailbird.data.tweets_2016_10 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeff Atwood",
+      "screen_name" : "codinghorror",
+      "indices" : [ 3, 16 ],
+      "id_str" : "5637652",
+      "id" : 5637652
+    }, {
+      "name" : "Alberto Brandolini",
+      "screen_name" : "ziobrando",
+      "indices" : [ 23, 33 ],
+      "id_str" : "15738236",
+      "id" : 15738236
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "792165880436109312",
+  "text" : "RT @codinghorror: This @ziobrando quote reflects a powerful asymmetry in discussions. And what if everyone is too exhausted to refute it? W\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Alberto Brandolini",
+        "screen_name" : "ziobrando",
+        "indices" : [ 5, 15 ],
+        "id_str" : "15738236",
+        "id" : 15738236
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/codinghorror\/status\/792110912018657280\/photo\/1",
+        "indices" : [ 131, 154 ],
+        "url" : "https:\/\/t.co\/8ZW33EMXm8",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cv4jeg5UAAEPf6K.jpg",
+        "id_str" : "792109591597154305",
+        "id" : 792109591597154305,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cv4jeg5UAAEPf6K.jpg",
+        "sizes" : [ {
+          "h" : 356,
+          "resize" : "fit",
+          "w" : 576
+        }, {
+          "h" : 356,
+          "resize" : "fit",
+          "w" : 576
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 356,
+          "resize" : "fit",
+          "w" : 576
+        }, {
+          "h" : 356,
+          "resize" : "fit",
+          "w" : 576
+        } ],
+        "display_url" : "pic.twitter.com\/8ZW33EMXm8"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "792110912018657280",
+    "text" : "This @ziobrando quote reflects a powerful asymmetry in discussions. And what if everyone is too exhausted to refute it? What then? https:\/\/t.co\/8ZW33EMXm8",
+    "id" : 792110912018657280,
+    "created_at" : "2016-10-28 21:08:52 +0000",
+    "user" : {
+      "name" : "Jeff Atwood",
+      "screen_name" : "codinghorror",
+      "protected" : false,
+      "id_str" : "5637652",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632821853627678720\/zPKK7jql_normal.png",
+      "id" : 5637652,
+      "verified" : true
+    }
+  },
+  "id" : 792165880436109312,
+  "created_at" : "2016-10-29 00:47:18 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "L'ea. H",
+      "screen_name" : "Mardi1225",
+      "indices" : [ 3, 13 ],
+      "id_str" : "1106652180",
+      "id" : 1106652180
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "791172270957862913",
+  "text" : "RT @Mardi1225: \uBA55\uC2DC\uCF54\uC758 \uD3AB\uC0F5\uC5D0\uC11C \uAC1C\uBC1C\uD55C \uD615\uC0C1\uAE30\uC5B5 \uC18C\uC7AC\uC758 \uAC1C \uC904. \uC904\uC744 \uB9C8\uCE58 \uC8FC\uC778\uC774 \uAC1C\uB97C \uC0B0\uCC45\uC2DC\uD0A4\uACE0 \uC788\uB294 \uAC83\uCC98\uB7FC \uBCF4\uC774\uB3C4\uB85D \uB9CC\uB4E4\uC5C8\uB2E4. \uC774 \uC774\uC0C1\uD55C \uAD11\uACBD\uC5D0 \uC0AC\uB78C\uB4E4\uC740 \uAD00\uC2EC\uC744 \uBCF4\uC774\uACE0, \uC720\uAE30\uACAC\uC758 \uBAA9\uC5D0 \uAC78\uB824\uC788\uB294 \uBA54\uC2DC\uC9C0\uB97C \uC77D\uB294\uB2E4. \"\uC800\uB294 \uC720\uAE30\uACAC\uC785\uB2C8\uB2E4.\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Mardi1225\/status\/791002825111187456\/photo\/1",
+        "indices" : [ 136, 159 ],
+        "url" : "https:\/\/t.co\/ww1Fk9sxzK",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cvo03jEUIAAoNC9.jpg",
+        "id_str" : "791002813467729920",
+        "id" : 791002813467729920,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cvo03jEUIAAoNC9.jpg",
+        "sizes" : [ {
+          "h" : 723,
+          "resize" : "fit",
+          "w" : 1485
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 331,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 584,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 723,
+          "resize" : "fit",
+          "w" : 1485
+        } ],
+        "display_url" : "pic.twitter.com\/ww1Fk9sxzK"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/Mardi1225\/status\/791002825111187456\/photo\/1",
+        "indices" : [ 136, 159 ],
+        "url" : "https:\/\/t.co\/ww1Fk9sxzK",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cvo03jDUkAAMNfX.jpg",
+        "id_str" : "791002813463564288",
+        "id" : 791002813463564288,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cvo03jDUkAAMNfX.jpg",
+        "sizes" : [ {
+          "h" : 354,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 625,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 774,
+          "resize" : "fit",
+          "w" : 1486
+        }, {
+          "h" : 774,
+          "resize" : "fit",
+          "w" : 1486
+        } ],
+        "display_url" : "pic.twitter.com\/ww1Fk9sxzK"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/Mardi1225\/status\/791002825111187456\/photo\/1",
+        "indices" : [ 136, 159 ],
+        "url" : "https:\/\/t.co\/ww1Fk9sxzK",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cvo03jDVYAAlNi7.jpg",
+        "id_str" : "791002813463617536",
+        "id" : 791002813463617536,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cvo03jDVYAAlNi7.jpg",
+        "sizes" : [ {
+          "h" : 332,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 726,
+          "resize" : "fit",
+          "w" : 1485
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 726,
+          "resize" : "fit",
+          "w" : 1485
+        }, {
+          "h" : 587,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "display_url" : "pic.twitter.com\/ww1Fk9sxzK"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/Mardi1225\/status\/791002825111187456\/photo\/1",
+        "indices" : [ 136, 159 ],
+        "url" : "https:\/\/t.co\/ww1Fk9sxzK",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cvo03jDUkAE5hKG.jpg",
+        "id_str" : "791002813463564289",
+        "id" : 791002813463564289,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cvo03jDUkAE5hKG.jpg",
+        "sizes" : [ {
+          "h" : 729,
+          "resize" : "fit",
+          "w" : 1485
+        }, {
+          "h" : 334,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 729,
+          "resize" : "fit",
+          "w" : 1485
+        }, {
+          "h" : 589,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "display_url" : "pic.twitter.com\/ww1Fk9sxzK"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "791002825111187456",
+    "text" : "\uBA55\uC2DC\uCF54\uC758 \uD3AB\uC0F5\uC5D0\uC11C \uAC1C\uBC1C\uD55C \uD615\uC0C1\uAE30\uC5B5 \uC18C\uC7AC\uC758 \uAC1C \uC904. \uC904\uC744 \uB9C8\uCE58 \uC8FC\uC778\uC774 \uAC1C\uB97C \uC0B0\uCC45\uC2DC\uD0A4\uACE0 \uC788\uB294 \uAC83\uCC98\uB7FC \uBCF4\uC774\uB3C4\uB85D \uB9CC\uB4E4\uC5C8\uB2E4. \uC774 \uC774\uC0C1\uD55C \uAD11\uACBD\uC5D0 \uC0AC\uB78C\uB4E4\uC740 \uAD00\uC2EC\uC744 \uBCF4\uC774\uACE0, \uC720\uAE30\uACAC\uC758 \uBAA9\uC5D0 \uAC78\uB824\uC788\uB294 \uBA54\uC2DC\uC9C0\uB97C \uC77D\uB294\uB2E4. \"\uC800\uB294 \uC720\uAE30\uACAC\uC785\uB2C8\uB2E4. \uC800\uB97C \uB370\uB824\uAC00\uC8FC\uC138\uC694.\" https:\/\/t.co\/ww1Fk9sxzK",
+    "id" : 791002825111187456,
+    "created_at" : "2016-10-25 19:45:44 +0000",
+    "user" : {
+      "name" : "L'ea. H",
+      "screen_name" : "Mardi1225",
+      "protected" : false,
+      "id_str" : "1106652180",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859668435306860544\/9_JJPXzm_normal.jpg",
+      "id" : 1106652180,
+      "verified" : false
+    }
+  },
+  "id" : 791172270957862913,
+  "created_at" : "2016-10-26 06:59:03 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Programming Wisdom",
+      "screen_name" : "CodeWisdom",
+      "indices" : [ 3, 14 ],
+      "id_str" : "396238794",
+      "id" : 396238794
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/CodeWisdom\/status\/786650411621052417\/photo\/1",
+      "indices" : [ 84, 107 ],
+      "url" : "https:\/\/t.co\/lRpowqsU6d",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cuq-YUZXYAAHlkm.jpg",
+      "id_str" : "786650409930809344",
+      "id" : 786650409930809344,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cuq-YUZXYAAHlkm.jpg",
+      "sizes" : [ {
+        "h" : 386,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 581,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 581,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 581,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "display_url" : "pic.twitter.com\/lRpowqsU6d"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "786858849382731776",
+  "text" : "RT @CodeWisdom: The reality of being a programmer with a finite amount of memory! \uD83D\uDE02 https:\/\/t.co\/lRpowqsU6d",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/CodeWisdom\/status\/786650411621052417\/photo\/1",
+        "indices" : [ 68, 91 ],
+        "url" : "https:\/\/t.co\/lRpowqsU6d",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cuq-YUZXYAAHlkm.jpg",
+        "id_str" : "786650409930809344",
+        "id" : 786650409930809344,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cuq-YUZXYAAHlkm.jpg",
+        "sizes" : [ {
+          "h" : 386,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 581,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 581,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 581,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/lRpowqsU6d"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "786650411621052417",
+    "text" : "The reality of being a programmer with a finite amount of memory! \uD83D\uDE02 https:\/\/t.co\/lRpowqsU6d",
+    "id" : 786650411621052417,
+    "created_at" : "2016-10-13 19:30:48 +0000",
+    "user" : {
+      "name" : "Programming Wisdom",
+      "screen_name" : "CodeWisdom",
+      "protected" : false,
+      "id_str" : "396238794",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/705003311083229184\/qTBCIxpk_normal.jpg",
+      "id" : 396238794,
+      "verified" : false
+    }
+  },
+  "id" : 786858849382731776,
+  "created_at" : "2016-10-14 09:19:03 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Greg Kasavin",
+      "screen_name" : "kasavin",
+      "indices" : [ 3, 11 ],
+      "id_str" : "18755518",
+      "id" : 18755518
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/kasavin\/status\/786293616457035776\/photo\/1",
+      "indices" : [ 113, 136 ],
+      "url" : "https:\/\/t.co\/EAuhsh0FQ6",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cul53yKVUAADCmZ.jpg",
+      "id_str" : "786293609217740800",
+      "id" : 786293609217740800,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cul53yKVUAADCmZ.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1334,
+        "resize" : "fit",
+        "w" : 750
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 382
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 675
+      }, {
+        "h" : 1334,
+        "resize" : "fit",
+        "w" : 750
+      } ],
+      "display_url" : "pic.twitter.com\/EAuhsh0FQ6"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/kasavin\/status\/786293616457035776\/photo\/1",
+      "indices" : [ 113, 136 ],
+      "url" : "https:\/\/t.co\/EAuhsh0FQ6",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cul53yKUsAEwkDE.jpg",
+      "id_str" : "786293609217699841",
+      "id" : 786293609217699841,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cul53yKUsAEwkDE.jpg",
+      "sizes" : [ {
+        "h" : 1214,
+        "resize" : "fit",
+        "w" : 682
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 382
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 674
+      }, {
+        "h" : 1214,
+        "resize" : "fit",
+        "w" : 682
+      } ],
+      "display_url" : "pic.twitter.com\/EAuhsh0FQ6"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "786496054183104512",
+  "text" : "RT @kasavin: Here's my daughter discovering the power of storytelling in games (Fire Emblem Awakening spoilers). https:\/\/t.co\/EAuhsh0FQ6",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/kasavin\/status\/786293616457035776\/photo\/1",
+        "indices" : [ 100, 123 ],
+        "url" : "https:\/\/t.co\/EAuhsh0FQ6",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cul53yKVUAADCmZ.jpg",
+        "id_str" : "786293609217740800",
+        "id" : 786293609217740800,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cul53yKVUAADCmZ.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1334,
+          "resize" : "fit",
+          "w" : 750
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 382
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 675
+        }, {
+          "h" : 1334,
+          "resize" : "fit",
+          "w" : 750
+        } ],
+        "display_url" : "pic.twitter.com\/EAuhsh0FQ6"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/kasavin\/status\/786293616457035776\/photo\/1",
+        "indices" : [ 100, 123 ],
+        "url" : "https:\/\/t.co\/EAuhsh0FQ6",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cul53yKUsAEwkDE.jpg",
+        "id_str" : "786293609217699841",
+        "id" : 786293609217699841,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cul53yKUsAEwkDE.jpg",
+        "sizes" : [ {
+          "h" : 1214,
+          "resize" : "fit",
+          "w" : 682
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 382
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 674
+        }, {
+          "h" : 1214,
+          "resize" : "fit",
+          "w" : 682
+        } ],
+        "display_url" : "pic.twitter.com\/EAuhsh0FQ6"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "786293616457035776",
+    "text" : "Here's my daughter discovering the power of storytelling in games (Fire Emblem Awakening spoilers). https:\/\/t.co\/EAuhsh0FQ6",
+    "id" : 786293616457035776,
+    "created_at" : "2016-10-12 19:53:01 +0000",
+    "user" : {
+      "name" : "Greg Kasavin",
+      "screen_name" : "kasavin",
+      "protected" : false,
+      "id_str" : "18755518",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/567856956509941760\/ZV3ZmJLd_normal.jpeg",
+      "id" : 18755518,
+      "verified" : false
+    }
+  },
+  "id" : 786496054183104512,
+  "created_at" : "2016-10-13 09:17:26 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -259,7 +805,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC7B B\u263B\u263B D\u263BRK \uD83D\uDC7B *\u2729\u207A\u02DA",
+      "name" : "jenny jiao hsia *\u2729\u207A\u02DA",
       "screen_name" : "q_dork",
       "indices" : [ 3, 10 ],
       "id_str" : "2484576654",
@@ -346,11 +892,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 782973294010064896,
     "created_at" : "2016-10-03 15:59:14 +0000",
     "user" : {
-      "name" : "\uD83D\uDC7B B\u263B\u263B D\u263BRK \uD83D\uDC7B *\u2729\u207A\u02DA",
+      "name" : "jenny jiao hsia *\u2729\u207A\u02DA",
       "screen_name" : "q_dork",
       "protected" : false,
       "id_str" : "2484576654",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719663726480244736\/UXvspaIh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876533687835295750\/l9FP-1Xi_normal.jpg",
       "id" : 2484576654,
       "verified" : false
     }
@@ -592,7 +1138,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "warriorkitty",
       "protected" : false,
       "id_str" : "2340217964",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549617164580163584\/6ZrHEqjc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860930749905723392\/xyPas4jT_normal.jpg",
       "id" : 2340217964,
       "verified" : false
     }

@@ -37,7 +37,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 14315671
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/idiosynchris\/status\/719565179801853954\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/idiosynchris\/status\/719565179801853954\/photo\/1",
       "indices" : [ 74, 97 ],
       "url" : "https:\/\/t.co\/KeChpCcJU8",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Cfxot-NUYAAZM3c.jpg",
@@ -78,7 +78,7 @@ Grailbird.data.tweets_2016_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/idiosynchris\/status\/719565179801853954\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/idiosynchris\/status\/719565179801853954\/photo\/1",
         "indices" : [ 56, 79 ],
         "url" : "https:\/\/t.co\/KeChpCcJU8",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Cfxot-NUYAAZM3c.jpg",
@@ -141,14 +141,14 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Huenry Hueffman",
+      "name" : "Huenry @Stugan",
       "screen_name" : "HenryHoffman",
       "indices" : [ 3, 16 ],
       "id_str" : "21082856",
       "id" : 21082856
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/HenryHoffman\/status\/694184106440200192\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/HenryHoffman\/status\/694184106440200192\/photo\/1",
       "indices" : [ 68, 91 ],
       "url" : "https:\/\/t.co\/vUKZJAQKWg",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CaI8xA3W0AA6wMe.png",
@@ -189,7 +189,7 @@ Grailbird.data.tweets_2016_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/HenryHoffman\/status\/694184106440200192\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/HenryHoffman\/status\/694184106440200192\/photo\/1",
         "indices" : [ 50, 73 ],
         "url" : "https:\/\/t.co\/vUKZJAQKWg",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CaI8xA3W0AA6wMe.png",
@@ -228,11 +228,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 694184106440200192,
     "created_at" : "2016-02-01 15:42:42 +0000",
     "user" : {
-      "name" : "Huenry Hueffman",
+      "name" : "Huenry @Stugan",
       "screen_name" : "HenryHoffman",
       "protected" : false,
       "id_str" : "21082856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712300321943515136\/zXlXx_io_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799563635597123584\/shOHNxFG_normal.jpg",
       "id" : 21082856,
       "verified" : false
     }
@@ -259,7 +259,7 @@ Grailbird.data.tweets_2016_04 =
       "id" : 34743251
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SpaceX\/status\/718561436201431040\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/SpaceX\/status\/718561436201431040\/video\/1",
       "indices" : [ 41, 64 ],
       "url" : "https:\/\/t.co\/2Q5qCaPq9P",
       "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/718561154830696448\/pu\/img\/gkHrPH2EXUoZ263b.jpg",
@@ -300,7 +300,7 @@ Grailbird.data.tweets_2016_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SpaceX\/status\/718561436201431040\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/SpaceX\/status\/718561436201431040\/video\/1",
         "indices" : [ 29, 52 ],
         "url" : "https:\/\/t.co\/2Q5qCaPq9P",
         "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/718561154830696448\/pu\/img\/gkHrPH2EXUoZ263b.jpg",
@@ -394,7 +394,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "sempf",
       "protected" : false,
       "id_str" : "16731644",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/657299536851943424\/TFEOZkpj_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/835229671511883777\/JR42IyGR_normal.jpg",
       "id" : 16731644,
       "verified" : false
     }

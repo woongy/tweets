@@ -72,7 +72,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "NoMansSky",
       "protected" : false,
       "id_str" : "2232827756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000837406114\/5cd3833c413e33ed2c3d5938d5c77487_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839212372816441344\/oIPqe6ss_normal.jpg",
       "id" : 2232827756,
       "verified" : true
     }

@@ -473,7 +473,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -1197,7 +1197,7 @@ Grailbird.data.tweets_2013_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/308102778553765888\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/308102778553765888\/photo\/1",
       "indices" : [ 30, 52 ],
       "url" : "http:\/\/t.co\/0vrl3prxkZ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BEaZ2D5CEAAyLQ4.jpg",

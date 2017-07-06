@@ -24,129 +24,6 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "SciencePorn \uD83D\uDE80",
-      "screen_name" : "SciencePorn",
-      "indices" : [ 3, 15 ],
-      "id_str" : "572225652",
-      "id" : 572225652
-    }, {
-      "name" : "Mitchell Moffit",
-      "screen_name" : "mitchellmoffit",
-      "indices" : [ 82, 97 ],
-      "id_str" : "188761522",
-      "id" : 188761522
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/mitchellmoffit\/status\/502078970008182784\/photo\/1",
-      "indices" : [ 100, 122 ],
-      "url" : "http:\/\/t.co\/7vx2gVcKhd",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
-      "id_str" : "502078969274175488",
-      "id" : 502078969274175488,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
-      "sizes" : [ {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 640
-      } ],
-      "display_url" : "pic.twitter.com\/7vx2gVcKhd"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "502286479901478912",
-  "text" : "RT @SciencePorn: The metric system vs imperial - this made me laugh so hard. (Via @mitchellmoffit)  http:\/\/t.co\/7vx2gVcKhd",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Mitchell Moffit",
-        "screen_name" : "mitchellmoffit",
-        "indices" : [ 65, 80 ],
-        "id_str" : "188761522",
-        "id" : 188761522
-      } ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/mitchellmoffit\/status\/502078970008182784\/photo\/1",
-        "indices" : [ 83, 105 ],
-        "url" : "http:\/\/t.co\/7vx2gVcKhd",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
-        "id_str" : "502078969274175488",
-        "id" : 502078969274175488,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bve-KZTIEAAp68z.jpg",
-        "sizes" : [ {
-          "h" : 480,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 480,
-          "resize" : "fit",
-          "w" : 640
-        } ],
-        "display_url" : "pic.twitter.com\/7vx2gVcKhd"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "502136493365010432",
-    "text" : "The metric system vs imperial - this made me laugh so hard. (Via @mitchellmoffit)  http:\/\/t.co\/7vx2gVcKhd",
-    "id" : 502136493365010432,
-    "created_at" : "2014-08-20 16:54:03 +0000",
-    "user" : {
-      "name" : "SciencePorn \uD83D\uDE80",
-      "screen_name" : "SciencePorn",
-      "protected" : false,
-      "id_str" : "572225652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779655933991481344\/40fIH7LV_normal.jpg",
-      "id" : 572225652,
-      "verified" : false
-    }
-  },
-  "id" : 502286479901478912,
-  "created_at" : "2014-08-21 02:50:03 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -188,7 +65,7 @@ Grailbird.data.tweets_2014_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/YKLeeAP\/status\/500509832718192640\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/YKLeeAP\/status\/500509832718192640\/photo\/1",
         "indices" : [ 114, 136 ],
         "url" : "http:\/\/t.co\/C4FpXdB2wc",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BvIrCX_CQAAZc59.jpg",
@@ -285,7 +162,7 @@ Grailbird.data.tweets_2014_08 =
       "id" : 200163448
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/TheAcademy\/status\/498996314395246593\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/TheAcademy\/status\/498996314395246593\/photo\/1",
       "indices" : [ 36, 58 ],
       "url" : "http:\/\/t.co\/WjA9QuuldD",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BuzKgOoIcAAHYNa.jpg",
@@ -326,7 +203,7 @@ Grailbird.data.tweets_2014_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/TheAcademy\/status\/498996314395246593\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/TheAcademy\/status\/498996314395246593\/photo\/1",
         "indices" : [ 20, 42 ],
         "url" : "http:\/\/t.co\/WjA9QuuldD",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BuzKgOoIcAAHYNa.jpg",

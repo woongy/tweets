@@ -141,7 +141,7 @@ Grailbird.data.tweets_2011_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/150549516309897216\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/150549516309897216\/photo\/1",
       "indices" : [ 15, 35 ],
       "url" : "http:\/\/t.co\/ZyqMicCT",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Ahbb_MkCIAAGK6P.jpg",
@@ -219,11 +219,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u300E\u30A8\u30A6\u30EC\u30AB\u30BB\u30D6\u30F3AO\u300F\u516C\u5F0F\u30A2\u30AB\u30A6\u30F3\u30C8",
-      "screen_name" : "EUREKA_AO",
+      "name" : "\u30C8\u30A5\u30EB\u30FC\u30B9",
+      "screen_name" : "eureka_ao",
       "indices" : [ 3, 13 ],
-      "id_str" : "443016117",
-      "id" : 443016117
+      "id_str" : "864469183823622145",
+      "id" : 864469183823622145
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -259,11 +259,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 149906444714651649,
     "created_at" : "2011-12-22 17:37:36 +0000",
     "user" : {
-      "name" : "\u300E\u30A8\u30A6\u30EC\u30AB\u30BB\u30D6\u30F3AO\u300F\u516C\u5F0F\u30A2\u30AB\u30A6\u30F3\u30C8",
-      "screen_name" : "EUREKA_AO",
+      "name" : "\u30A8\u30A6\u30EC\u30AB\u30BB\u30D6\u30F3\u3000\u30CF\u30A4\u30A8\u30DC\u30EA\u30E5\u30FC\u30B7\u30E7\u30F3\u516C\u5F0F",
+      "screen_name" : "EUREKA_HI_EVO",
       "protected" : false,
       "id_str" : "443016117",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1707780834\/ao_Twitterlogo_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842571233279397888\/IH1hpRCl_normal.jpg",
       "id" : 443016117,
       "verified" : false
     }
@@ -1473,7 +1473,7 @@ Grailbird.data.tweets_2011_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/142096906858938368\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/142096906858938368\/photo\/1",
       "indices" : [ 12, 32 ],
       "url" : "http:\/\/t.co\/MBAT6s4L",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AfjUYklCQAEG9g7.jpg",

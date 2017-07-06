@@ -525,7 +525,7 @@ Grailbird.data.tweets_2012_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/210153013678055425\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/210153013678055425\/photo\/1",
       "indices" : [ 70, 90 ],
       "url" : "http:\/\/t.co\/UdaLHha3",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AuqdDXFCIAA6cYY.jpg",

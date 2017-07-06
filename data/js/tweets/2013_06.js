@@ -369,7 +369,7 @@ Grailbird.data.tweets_2013_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -504,7 +504,7 @@ Grailbird.data.tweets_2013_06 =
       "id" : 3241155698
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/344352334870085632\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/344352334870085632\/photo\/1",
       "indices" : [ 38, 60 ],
       "url" : "http:\/\/t.co\/EaxcFGJY6J",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BMdin8YCAAAx_UD.png",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2013_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/344253209474367488\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/344253209474367488\/photo\/1",
       "indices" : [ 25, 47 ],
       "url" : "http:\/\/t.co\/ADcaOWO6h3",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BMcIeFfCAAE8Sjx.png",
@@ -792,7 +792,7 @@ Grailbird.data.tweets_2013_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "watchamovie",
@@ -820,7 +820,7 @@ Grailbird.data.tweets_2013_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Oscar Berg",
@@ -922,7 +922,7 @@ Grailbird.data.tweets_2013_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/341935773488132097\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/341935773488132097\/photo\/1",
       "indices" : [ 25, 47 ],
       "url" : "http:\/\/t.co\/iMLbO5WDci",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BL7MxjsCMAAITcn.jpg",

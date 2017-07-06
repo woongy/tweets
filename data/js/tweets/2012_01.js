@@ -4,7 +4,7 @@ Grailbird.data.tweets_2012_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/163847084355751936\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/163847084355751936\/photo\/1",
       "indices" : [ 16, 36 ],
       "url" : "http:\/\/t.co\/4ZcmMggG",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AkYaDhzCEAAH6tU.jpg",
@@ -365,13 +365,7 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC62C\uB808 (olleh)",
-      "screen_name" : "olleh",
-      "indices" : [ 0, 6 ],
-      "id_str" : "90605157",
-      "id" : 90605157
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -382,7 +376,7 @@ Grailbird.data.tweets_2012_01 =
   "text" : "@olleh \"\uC57D\uC815 \uB05D\uB0AC\uB0D0\uACE0 \uBB3C\uC5B4\uBCF4\uB2C8 \uADF8\uB807\uB2E4\uACE0 \uD588\uB2E4\"\uACE0 \uD558\uB2C8\uAE4C \"\uC5B8\uC81C \uB05D\uB098\uB294\uC9C0 \uC548 \uBB3C\uC5B4\uBCF4\uC168\uAE30 \uB54C\uBB38\uC5D0 \uB05D\uB098\uB294 \uB0A0\uC9DC\uB97C \uC54C\uB824\uC8FC\uC9C0 \uC54A\uC558\uB2E4\"\uB77C\uACE0 \uC751\uB300\uD558\uB294\uB370, \uC694\uC998 KT \uACE0\uAC1D\uC13C\uD130\uB294 \uC774\uB7F0 \uC2DD\uC73C\uB85C \uACE0\uAC1D\uC744 \uAE30\uB9CC\uD558\uB3C4\uB85D \uC0C1\uB2F4\uC6D0\uC744 \uAD50\uC721\uD558\uB098\uC694?",
   "id" : 162143915510738944,
   "created_at" : "2012-01-25 12:04:56 +0000",
-  "in_reply_to_screen_name" : "olleh_cs",
+  "in_reply_to_screen_name" : "kt_cs",
   "in_reply_to_user_id_str" : "53020420",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -396,13 +390,7 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC62C\uB808 (olleh)",
-      "screen_name" : "olleh",
-      "indices" : [ 0, 6 ],
-      "id_str" : "90605157",
-      "id" : 90605157
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -413,7 +401,7 @@ Grailbird.data.tweets_2012_01 =
   "text" : "@olleh KT \uC804\uD654\uC0C1\uB2F4\uC6D0\uC774 \uC57D\uC815 \uB05D\uB0AC\uB2E4\uACE0 \uD558\uC5EC \uD0C0 \uC778\uD130\uB137\uC73C\uB85C \uBC14\uAFB8\uACE0 \uD574\uC9C0\uC2E0\uCCAD\uD558\uB2C8 \uAC11\uC790\uAE30 \uB9D0 \uBC14\uAFB8\uBA74\uC11C \uC57D\uC815 \uAE30\uAC04\uC774 \uC544\uC9C1 \uB0A8\uC558\uACE0 \uC704\uC57D\uAE08\uC744 \uB0B4\uC57C \uD55C\uB2E4\uACE0 \uD569\uB2C8\uB2E4.",
   "id" : 162143846384418817,
   "created_at" : "2012-01-25 12:04:40 +0000",
-  "in_reply_to_screen_name" : "olleh_cs",
+  "in_reply_to_screen_name" : "kt_cs",
   "in_reply_to_user_id_str" : "53020420",
   "user" : {
     "name" : "Woongcheol Yang",

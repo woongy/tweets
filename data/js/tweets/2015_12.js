@@ -69,7 +69,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "adam",
+      "name" : "#dadcon2017",
       "screen_name" : "ADAMATOMIC",
       "indices" : [ 3, 14 ],
       "id_str" : "70587360",
@@ -96,68 +96,17 @@ Grailbird.data.tweets_2015_12 =
     "id" : 682383295091503105,
     "created_at" : "2015-12-31 02:10:30 +0000",
     "user" : {
-      "name" : "adam",
+      "name" : "#dadcon2017",
       "screen_name" : "ADAMATOMIC",
       "protected" : false,
       "id_str" : "70587360",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743846092547076096\/ONUXsuql_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827711830327848960\/_EuhuGH3_normal.jpg",
       "id" : 70587360,
       "verified" : false
     }
   },
   "id" : 682397881446236160,
   "created_at" : "2015-12-31 03:08:27 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ryan Freitas",
-      "screen_name" : "ryanchris",
-      "indices" : [ 3, 13 ],
-      "id_str" : "13349",
-      "id" : 13349
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "682002327734071297",
-  "text" : "RT @ryanchris: If you ever want to see where the product team had a disagreement, open the settings tab.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "421351628994646016",
-    "text" : "If you ever want to see where the product team had a disagreement, open the settings tab.",
-    "id" : 421351628994646016,
-    "created_at" : "2014-01-09 18:43:51 +0000",
-    "user" : {
-      "name" : "Ryan Freitas",
-      "screen_name" : "ryanchris",
-      "protected" : false,
-      "id_str" : "13349",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780772901939281921\/KxzS5WZe_normal.jpg",
-      "id" : 13349,
-      "verified" : false
-    }
-  },
-  "id" : 682002327734071297,
-  "created_at" : "2015-12-30 00:56:40 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",
@@ -293,7 +242,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 66153663
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Luuuuuuuuuuuu\/status\/655743332774121473\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Luuuuuuuuuuuu\/status\/655743332774121473\/photo\/1",
       "indices" : [ 115, 137 ],
       "url" : "http:\/\/t.co\/3cRtbgmrqk",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CRmrFf9UkAAJ5tr.png",
@@ -334,7 +283,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Luuuuuuuuuuuu\/status\/655743332774121473\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Luuuuuuuuuuuu\/status\/655743332774121473\/photo\/1",
         "indices" : [ 96, 118 ],
         "url" : "http:\/\/t.co\/3cRtbgmrqk",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CRmrFf9UkAAJ5tr.png",
@@ -377,7 +326,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "Luuuuuuuuuuuu",
       "protected" : false,
       "id_str" : "66153663",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/589116591729549312\/KV6S51x5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820094393545728000\/0vIgzumK_normal.jpg",
       "id" : 66153663,
       "verified" : false
     }
@@ -549,7 +498,7 @@ Grailbird.data.tweets_2015_12 =
         "id" : 19169495
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SlackHQ\/status\/675050736758206464\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/SlackHQ\/status\/675050736758206464\/photo\/1",
         "indices" : [ 117, 140 ],
         "url" : "https:\/\/t.co\/jtvt7yzV6N",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CV5DEUVWcAEPieh.jpg",
@@ -592,7 +541,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "SlackHQ",
       "protected" : false,
       "id_str" : "1305940272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000271328329\/349dc6f270e53cbe09cd05f6c032fc67_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876830972062212097\/c914dZeu_normal.jpg",
       "id" : 1305940272,
       "verified" : true
     }

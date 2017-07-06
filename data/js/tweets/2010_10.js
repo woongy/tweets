@@ -371,7 +371,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709572878585434112\/OlidnMaV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874258746897309696\/qVEbYoVQ_normal.jpg",
       "id" : 5694822,
       "verified" : true
     }
@@ -1405,8 +1405,8 @@ Grailbird.data.tweets_2010_10 =
       "name" : "Foursquare",
       "screen_name" : "Foursquare",
       "indices" : [ 23, 34 ],
-      "id_str" : "14120151",
-      "id" : 14120151
+      "id_str" : "804341497441255424",
+      "id" : 804341497441255424
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2127,7 +2127,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "snoble",
       "protected" : false,
       "id_str" : "755779",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742375727211773953\/6aWITGlw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787666674413670401\/5VsO3YPk_normal.jpg",
       "id" : 755779,
       "verified" : false
     }
@@ -3694,7 +3694,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Princeton",
       "protected" : false,
       "id_str" : "5694822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709572878585434112\/OlidnMaV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874258746897309696\/qVEbYoVQ_normal.jpg",
       "id" : 5694822,
       "verified" : true
     }
@@ -4059,7 +4059,7 @@ Grailbird.data.tweets_2010_10 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 54, 62 ],
       "id_str" : "783214",
       "id" : 783214
@@ -4069,12 +4069,6 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 79, 86 ],
       "id_str" : "9943672",
       "id" : 9943672
-    }, {
-      "name" : "Twitter Support",
-      "screen_name" : "Support",
-      "indices" : [ 88, 96 ],
-      "id_str" : "17874544",
-      "id" : 17874544
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -739,7 +739,7 @@ Grailbird.data.tweets_2009_11 =
       "screen_name" : "creativeapps",
       "protected" : false,
       "id_str" : "16709304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458920285354205184\/5jmm_yYh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809714289070211072\/ksyQVK0c_normal.jpg",
       "id" : 16709304,
       "verified" : false
     }
@@ -895,7 +895,7 @@ Grailbird.data.tweets_2009_11 =
       "screen_name" : "achimnol",
       "protected" : false,
       "id_str" : "26445061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636944557448429568\/V0JiFpyw_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869188965076566017\/8WwbReLg_normal.jpg",
       "id" : 26445061,
       "verified" : false
     }
@@ -948,7 +948,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u23F9",
+      "name" : "Q-Pressor",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -1003,7 +1003,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u23F9",
+      "name" : "Q-Pressor",
       "screen_name" : "nudimmud",
       "indices" : [ 0, 9 ],
       "id_str" : "42175097",
@@ -1156,6 +1156,28 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5801805309",
+  "text" : "Fire alarm went off during the class, so we had 20 minutes of extra break :)",
+  "id" : 5801805309,
+  "created_at" : "2009-11-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Woongcheol Yang",
+    "screen_name" : "woongy",
+    "protected" : false,
+    "id_str" : "48000543",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
+    "id" : 48000543,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "\uB450\uB450",
       "screen_name" : "dudubebe",
@@ -1248,28 +1270,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5799327347",
   "text" : "\uC544\uC774\uD3F0 \uD55C\uAD6D \uCD9C\uC2DC \uB8E8\uBA38\uB97C \uD37C\uB728\uB9AC\uB294 \uC0AC\uB78C\uC758 \uB300\uBD80\uBD84\uC740 \uC7A0\uC7AC\uC801 \uC544\uC774\uD3F0 \uAD6C\uB9E4\uC790\uAC00 \uC544\uB2CC \uAC83 \uAC19\uB2E4.",
   "id" : 5799327347,
-  "created_at" : "2009-11-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5801805309",
-  "text" : "Fire alarm went off during the class, so we had 20 minutes of extra break :)",
-  "id" : 5801805309,
   "created_at" : "2009-11-17 00:00:00 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "731253",
       "id" : 731253
     }, {
-      "name" : "David E. Wheeler",
+      "name" : "David Wheeler",
       "screen_name" : "theory",
       "indices" : [ 16, 23 ],
       "id_str" : "656233",

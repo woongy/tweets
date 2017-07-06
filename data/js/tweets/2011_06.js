@@ -48,7 +48,7 @@ Grailbird.data.tweets_2011_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/85743059295404032\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/85743059295404032\/photo\/1",
       "indices" : [ 10, 29 ],
       "url" : "http:\/\/t.co\/aOcTcu6",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/ATCe269CAAEYJfk.jpg",
@@ -185,7 +185,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "rands",
       "protected" : false,
       "id_str" : "30923",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879352807228399621\/qtcNEE0n_normal.jpg",
       "id" : 30923,
       "verified" : true
     }
@@ -1222,7 +1222,7 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ {
       "indices" : [ 41, 60 ],
       "url" : "http:\/\/t.co\/b4T6u8R",
-      "expanded_url" : "http:\/\/twitter.com\/#!\/mmmgtweet\/status\/79438231262863360",
+      "expanded_url" : "https:\/\/twitter.com\/#!\/mmmgtweet\/status\/79438231262863360",
       "display_url" : "twitter.com\/#!\/mmmgtweet\/s\u2026"
     } ]
   },
@@ -2623,7 +2623,7 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ {
       "indices" : [ 87, 106 ],
       "url" : "http:\/\/t.co\/ChwvkeU",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2011\/06\/link-sharing-made-simple.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2011\/06\/link-sharing-made-simple.html",
       "display_url" : "blog.twitter.com\/2011\/06\/link-s\u2026"
     } ]
   },
@@ -2730,7 +2730,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "rands",
       "protected" : false,
       "id_str" : "30923",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651438942181453824\/Ov8RmRF9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879352807228399621\/qtcNEE0n_normal.jpg",
       "id" : 30923,
       "verified" : true
     }

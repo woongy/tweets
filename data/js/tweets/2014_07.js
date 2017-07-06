@@ -4,7 +4,7 @@ Grailbird.data.tweets_2014_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/494004499296444416\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/494004499296444416\/photo\/1",
       "indices" : [ 26, 48 ],
       "url" : "http:\/\/t.co\/NNV6DgjmRO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BtsOeX2CQAAQ1gb.jpg",
@@ -73,7 +73,7 @@ Grailbird.data.tweets_2014_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/thejensie\/status\/493618957564518400\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/thejensie\/status\/493618957564518400\/photo\/1",
         "indices" : [ 116, 138 ],
         "url" : "http:\/\/t.co\/xg5EE3ceoW",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Btmv00bIIAA5MLY.jpg",
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Michel Sidib\u00E9",
@@ -417,7 +417,7 @@ Grailbird.data.tweets_2014_07 =
       "id" : 15283165
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/billrobbins\/status\/486671708817211392\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/billrobbins\/status\/486671708817211392\/photo\/1",
       "indices" : [ 78, 100 ],
       "url" : "http:\/\/t.co\/cqBToqiXlu",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BsEBVyPIYAEiFaQ.png",
@@ -458,7 +458,7 @@ Grailbird.data.tweets_2014_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/billrobbins\/status\/486671708817211392\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/billrobbins\/status\/486671708817211392\/photo\/1",
         "indices" : [ 61, 83 ],
         "url" : "http:\/\/t.co\/cqBToqiXlu",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BsEBVyPIYAEiFaQ.png",
@@ -528,7 +528,7 @@ Grailbird.data.tweets_2014_07 =
       "id" : 90841134
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
       "indices" : [ 88, 110 ],
       "url" : "http:\/\/t.co\/h9TaG72eFN",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Br_KdgICIAAUlwC.jpg",
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2014_07 =
       } ],
       "display_url" : "pic.twitter.com\/h9TaG72eFN"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
       "indices" : [ 88, 110 ],
       "url" : "http:\/\/t.co\/h9TaG72eFN",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Br_Kd1aCYAECscO.jpg",
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2014_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
         "indices" : [ 72, 94 ],
         "url" : "http:\/\/t.co\/h9TaG72eFN",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Br_KdgICIAAUlwC.jpg",
@@ -629,7 +629,7 @@ Grailbird.data.tweets_2014_07 =
         } ],
         "display_url" : "pic.twitter.com\/h9TaG72eFN"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/DungeonKim\/status\/486329900681265154\/photo\/1",
         "indices" : [ 72, 94 ],
         "url" : "http:\/\/t.co\/h9TaG72eFN",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Br_Kd1aCYAECscO.jpg",
@@ -674,7 +674,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "90841134",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687909847178715136\/gVo0voBd_normal.png",
       "id" : 90841134,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 486360166560825345,
@@ -699,7 +699,7 @@ Grailbird.data.tweets_2014_07 =
       "id" : 209173806
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
       "indices" : [ 41, 63 ],
       "url" : "http:\/\/t.co\/ktOgWXQqRj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMfFLCMAEnhP8.jpg",
@@ -729,7 +729,7 @@ Grailbird.data.tweets_2014_07 =
       } ],
       "display_url" : "pic.twitter.com\/ktOgWXQqRj"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
       "indices" : [ 41, 63 ],
       "url" : "http:\/\/t.co\/ktOgWXQqRj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMfeKCAAA7KZt.jpg",
@@ -759,7 +759,7 @@ Grailbird.data.tweets_2014_07 =
       } ],
       "display_url" : "pic.twitter.com\/ktOgWXQqRj"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
       "indices" : [ 41, 63 ],
       "url" : "http:\/\/t.co\/ktOgWXQqRj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMfwUCQAAmiSl.jpg",
@@ -789,7 +789,7 @@ Grailbird.data.tweets_2014_07 =
       } ],
       "display_url" : "pic.twitter.com\/ktOgWXQqRj"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
       "indices" : [ 41, 63 ],
       "url" : "http:\/\/t.co\/ktOgWXQqRj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMgHYCYAAFQKp.jpg",
@@ -830,7 +830,7 @@ Grailbird.data.tweets_2014_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
         "indices" : [ 20, 42 ],
         "url" : "http:\/\/t.co\/ktOgWXQqRj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMfFLCMAEnhP8.jpg",
@@ -860,7 +860,7 @@ Grailbird.data.tweets_2014_07 =
         } ],
         "display_url" : "pic.twitter.com\/ktOgWXQqRj"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
         "indices" : [ 20, 42 ],
         "url" : "http:\/\/t.co\/ktOgWXQqRj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMfeKCAAA7KZt.jpg",
@@ -890,7 +890,7 @@ Grailbird.data.tweets_2014_07 =
         } ],
         "display_url" : "pic.twitter.com\/ktOgWXQqRj"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
         "indices" : [ 20, 42 ],
         "url" : "http:\/\/t.co\/ktOgWXQqRj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMfwUCQAAmiSl.jpg",
@@ -920,7 +920,7 @@ Grailbird.data.tweets_2014_07 =
         } ],
         "display_url" : "pic.twitter.com\/ktOgWXQqRj"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/deadcatssociety\/status\/485065500959846403\/photo\/1",
         "indices" : [ 20, 42 ],
         "url" : "http:\/\/t.co\/ktOgWXQqRj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BrtMgHYCYAAFQKp.jpg",

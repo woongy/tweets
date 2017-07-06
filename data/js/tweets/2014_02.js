@@ -554,7 +554,7 @@ Grailbird.data.tweets_2014_02 =
         "id" : 3271
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ShelbyWhite\/status\/429666472734887936\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ShelbyWhite\/status\/429666472734887936\/photo\/1",
         "indices" : [ 120, 142 ],
         "url" : "http:\/\/t.co\/COquQKP1zF",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BfZ7YVrCIAEl2I7.jpg",
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "ShelbyWhite",
       "protected" : false,
       "id_str" : "7233772",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739637499518029824\/KqEO-git_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/872173779870302208\/LoKLGWdq_normal.jpg",
       "id" : 7233772,
       "verified" : false
     }

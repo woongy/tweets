@@ -181,7 +181,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "MSHelpsKorea",
       "protected" : false,
       "id_str" : "275056006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643808248999514112\/CN9TfoQ8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875614693057896449\/6i6KQDLe_normal.jpg",
       "id" : 275056006,
       "verified" : true
     }
@@ -463,7 +463,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "TYPE4GRAPHIC",
       "protected" : false,
       "id_str" : "69320336",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715939852282437632\/E6Loe6yf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848188389673152514\/n1lC_jc1_normal.jpg",
       "id" : 69320336,
       "verified" : true
     }
@@ -483,7 +483,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uBC15\uC791\uAC00@\uC5ED\uC2DC \uB77C\uB77C\uD3A0\uC740 \uCD5C\uACE0\uC57C",
+      "name" : "\uBC15\uC791\uAC00@\u30DE\u30F3\u30E1\u30F3\u30DF!",
       "screen_name" : "Writer_Park",
       "indices" : [ 3, 15 ],
       "id_str" : "254592592",
@@ -510,11 +510,11 @@ Grailbird.data.tweets_2014_01 =
     "id" : 425121434424180736,
     "created_at" : "2014-01-20 04:23:43 +0000",
     "user" : {
-      "name" : "\uBC15\uC791\uAC00@\uC5ED\uC2DC \uB77C\uB77C\uD3A0\uC740 \uCD5C\uACE0\uC57C",
+      "name" : "\uBC15\uC791\uAC00@\u30DE\u30F3\u30E1\u30F3\u30DF!",
       "screen_name" : "Writer_Park",
       "protected" : false,
       "id_str" : "254592592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775903258636410880\/IaYX-AQ6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881928925328195585\/u846IbQp_normal.jpg",
       "id" : 254592592,
       "verified" : false
     }
@@ -534,7 +534,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -589,7 +589,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -622,7 +622,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -1159,117 +1159,6 @@ Grailbird.data.tweets_2014_01 =
   "text" : "\"'\uC800\uB294 \uC5B8\uC81C \uD589\uBCF5\uD55C \uC0AC\uB78C\uC778\uC9C0 \uB300\uC2E0 \uB9D0\uD574\uC8FC\uC138\uC694'\uB77C\uACE0 \uC800\uD55C\uD14C \uBB3B\uB294 \uAC70\uC608\uC694\" http:\/\/t.co\/H4IbkWA3sy",
   "id" : 419850376372686848,
   "created_at" : "2014-01-05 15:18:24 +0000",
-  "user" : {
-    "name" : "Woongcheol Yang",
-    "screen_name" : "woongy",
-    "protected" : false,
-    "id_str" : "48000543",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3241201428\/656f0121a42868f1d377b0ae2be86670_normal.png",
-    "id" : 48000543,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "SciencePorn \uD83D\uDE80",
-      "screen_name" : "SciencePorn",
-      "indices" : [ 3, 15 ],
-      "id_str" : "572225652",
-      "id" : 572225652
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SciencePorn\/status\/418414002390446080\/photo\/1",
-      "indices" : [ 67, 89 ],
-      "url" : "http:\/\/t.co\/PotGdg7a3E",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bc6BUWFIYAENlsu.png",
-      "id_str" : "418414001916502017",
-      "id" : 418414001916502017,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bc6BUWFIYAENlsu.png",
-      "sizes" : [ {
-        "h" : 1371,
-        "resize" : "fit",
-        "w" : 2059
-      }, {
-        "h" : 682,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 226,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/PotGdg7a3E"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "419370336388280320",
-  "text" : "RT @SciencePorn: Andromeda Galaxy's actual size if it was brighter http:\/\/t.co\/PotGdg7a3E",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SciencePorn\/status\/418414002390446080\/photo\/1",
-        "indices" : [ 50, 72 ],
-        "url" : "http:\/\/t.co\/PotGdg7a3E",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bc6BUWFIYAENlsu.png",
-        "id_str" : "418414001916502017",
-        "id" : 418414001916502017,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bc6BUWFIYAENlsu.png",
-        "sizes" : [ {
-          "h" : 1371,
-          "resize" : "fit",
-          "w" : 2059
-        }, {
-          "h" : 682,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 226,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/PotGdg7a3E"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "418414002390446080",
-    "text" : "Andromeda Galaxy's actual size if it was brighter http:\/\/t.co\/PotGdg7a3E",
-    "id" : 418414002390446080,
-    "created_at" : "2014-01-01 16:10:46 +0000",
-    "user" : {
-      "name" : "SciencePorn \uD83D\uDE80",
-      "screen_name" : "SciencePorn",
-      "protected" : false,
-      "id_str" : "572225652",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779655933991481344\/40fIH7LV_normal.jpg",
-      "id" : 572225652,
-      "verified" : false
-    }
-  },
-  "id" : 419370336388280320,
-  "created_at" : "2014-01-04 07:30:54 +0000",
   "user" : {
     "name" : "Woongcheol Yang",
     "screen_name" : "woongy",

@@ -10,7 +10,7 @@ Grailbird.data.tweets_2015_01 =
       "id" : 7319272
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/kinduff\/status\/556127056938151936\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/kinduff\/status\/556127056938151936\/photo\/1",
       "indices" : [ 40, 62 ],
       "url" : "http:\/\/t.co\/pAHtrPrm84",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/B7fCnFBIQAAcnjx.png",
@@ -51,7 +51,7 @@ Grailbird.data.tweets_2015_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/kinduff\/status\/556127056938151936\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/kinduff\/status\/556127056938151936\/photo\/1",
         "indices" : [ 27, 49 ],
         "url" : "http:\/\/t.co\/pAHtrPrm84",
         "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/B7fCnFBIQAAcnjx.png",
@@ -94,7 +94,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "kinduff",
       "protected" : false,
       "id_str" : "7319272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763570485850415104\/mkCXs7Z4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876955050672664578\/FF_i6Su__normal.jpg",
       "id" : 7319272,
       "verified" : false
     }
@@ -136,14 +136,14 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cute Emergency\uD83C\uDF83",
+      "name" : "Cute Emergency",
       "screen_name" : "CuteEmergency",
       "indices" : [ 3, 17 ],
       "id_str" : "568825492",
       "id" : 568825492
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/CuteEmergency\/status\/555913593422897153\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/CuteEmergency\/status\/555913593422897153\/photo\/1",
       "indices" : [ 94, 116 ],
       "url" : "http:\/\/t.co\/3Kje0AoyHe",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B7cAd8LIcAAFQDn.jpg",
@@ -184,7 +184,7 @@ Grailbird.data.tweets_2015_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/CuteEmergency\/status\/555913593422897153\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/CuteEmergency\/status\/555913593422897153\/photo\/1",
         "indices" : [ 75, 97 ],
         "url" : "http:\/\/t.co\/3Kje0AoyHe",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B7cAd8LIcAAFQDn.jpg",
@@ -223,7 +223,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 555913593422897153,
     "created_at" : "2015-01-16 02:25:03 +0000",
     "user" : {
-      "name" : "Cute Emergency\uD83C\uDF83",
+      "name" : "Cute Emergency",
       "screen_name" : "CuteEmergency",
       "protected" : false,
       "id_str" : "568825492",

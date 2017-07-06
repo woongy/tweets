@@ -925,7 +925,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -1015,7 +1015,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "2546688840",
       "id" : 2546688840
     }, {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 12, 18 ],
       "id_str" : "61715546",
@@ -1269,7 +1269,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -2329,9 +2329,9 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "gregory",
       "protected" : false,
       "id_str" : "816532",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/119555253\/greg_Duck_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793938575939293186\/l_azaXPp_normal.jpg",
       "id" : 816532,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 4682231188561920,
@@ -2410,7 +2410,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "2546688840",
       "id" : 2546688840
     }, {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 12, 18 ],
       "id_str" : "61715546",
@@ -2465,7 +2465,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -3047,7 +3047,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "kelvindonghokim",
       "protected" : false,
       "id_str" : "49897254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756117481752662017\/QJknIVPr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874271007854415875\/Kr1o2dYx_normal.jpg",
       "id" : 49897254,
       "verified" : false
     }
@@ -3248,7 +3248,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "uxmovement",
       "protected" : false,
       "id_str" : "199168582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677167742500257792\/204UicW__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880959623284404224\/ZRAuGfr0_normal.jpg",
       "id" : 199168582,
       "verified" : false
     }
@@ -3394,7 +3394,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V Special Prosecutor",
+      "name" : "jbr \uD83C\uDFC3",
       "screen_name" : "jacobrothstein",
       "indices" : [ 3, 18 ],
       "id_str" : "27302287",
@@ -3421,7 +3421,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 2157046266863616,
     "created_at" : "2010-11-10 00:34:14 +0000",
     "user" : {
-      "name" : "V Special Prosecutor",
+      "name" : "jbr \uD83C\uDFC3",
       "screen_name" : "jacobrothstein",
       "protected" : false,
       "id_str" : "27302287",
@@ -3566,7 +3566,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jong Wook Kim",
+      "name" : "\uD83C\uDF08\u0669(\u2661\u25BD\u2661 )\u06F6",
       "screen_name" : "lyomi",
       "indices" : [ 0, 6 ],
       "id_str" : "61715546",
@@ -4038,7 +4038,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "hirodusk",
       "protected" : false,
       "id_str" : "9341072",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863661935\/hawk_icon_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864380559610478593\/UKH8TEwN_normal.jpg",
       "id" : 9341072,
       "verified" : false
     }
@@ -4601,7 +4601,7 @@ Grailbird.data.tweets_2010_11 =
   "text" : "@ollehkt \uC544\uC774\uD3F0 \uACE0\uAC1D\uC13C\uD130 \uC571 \uC5C5\uB370\uC774\uD2B8\uB97C \uBC1B\uC558\uB294\uB370\uB3C4 \uACC4\uC18D\uD574\uC11C \uC624\uB958\uBA54\uC2DC\uC9C0\uAC00 \uB739\uB2C8\uB2E4. \uAE30\uB2A5\uC744 \uC544\uC608 \uC0AC\uC6A9\uD560 \uC218 \uC5C6\uB124\uC694. http:\/\/img.ly\/2lR5",
   "id" : 29333418169,
   "created_at" : "2010-11-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olleh_cs",
+  "in_reply_to_screen_name" : "kt_cs",
   "in_reply_to_user_id_str" : "53020420",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4656,7 +4656,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 29342769875,
   "in_reply_to_status_id" : 29342536367,
   "created_at" : "2010-11-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "olleh_cs",
+  "in_reply_to_screen_name" : "kt_cs",
   "in_reply_to_user_id_str" : "53020420",
   "user" : {
     "name" : "Woongcheol Yang",
@@ -4753,7 +4753,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "khit",
       "protected" : false,
       "id_str" : "7114842",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606136681784209409\/b9F8Zh_k_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851648061986058240\/Rgu5xgzd_normal.jpg",
       "id" : 7114842,
       "verified" : false
     }

@@ -64,69 +64,14 @@ Grailbird.data.tweets_2016_07 =
     "source" : "\u003Ca href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\"\u003E\u3064\u3044\u3063\u3077\u308B\u3000\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/pokemongo_trend\/status\/756047946999668736\/photo\/1",
-        "indices" : [ 112, 135 ],
-        "url" : "https:\/\/t.co\/vSnlCRvuDM",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cn4Fjy8UIAE2qj4.jpg",
-        "id_str" : "756047899973132289",
-        "id" : 756047899973132289,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cn4Fjy8UIAE2qj4.jpg",
-        "sizes" : [ {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 640
-        } ],
-        "display_url" : "pic.twitter.com\/vSnlCRvuDM"
-      }, {
-        "expanded_url" : "http:\/\/twitter.com\/pokemongo_trend\/status\/756047946999668736\/photo\/1",
-        "indices" : [ 112, 135 ],
-        "url" : "https:\/\/t.co\/vSnlCRvuDM",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cn4FlYBVYAAyfHk.jpg",
-        "id_str" : "756047927106166784",
-        "id" : 756047927106166784,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cn4FlYBVYAAyfHk.jpg",
-        "sizes" : [ {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 487
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 859
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 859
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 859
-        } ],
-        "display_url" : "pic.twitter.com\/vSnlCRvuDM"
-      } ],
+      "media" : [ ],
       "hashtags" : [ ],
-      "urls" : [ ]
+      "urls" : [ {
+        "indices" : [ 112, 135 ],
+        "url" : "https:\/\/t.co\/vSnlCRvuDM",
+        "expanded_url" : "https:\/\/twitter.com\/pokemongo_trend\/status\/756047946999668736\/photo\/1",
+        "display_url" : "pic.twitter.com\/vSnlCRvuDM"
+      } ]
     },
     "geo" : { },
     "id_str" : "756100199588634624",
@@ -267,7 +212,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "SuzanEraslan",
       "protected" : false,
       "id_str" : "7457242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633477318019784704\/YBQ8UzbP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819764367814234112\/8Z77Hn7H_normal.jpg",
       "id" : 7457242,
       "verified" : false
     }
@@ -288,7 +233,7 @@ Grailbird.data.tweets_2016_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/753161486290124802\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/753161486290124802\/photo\/1",
       "indices" : [ 39, 62 ],
       "url" : "https:\/\/t.co\/jPT0psbeGV",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/CnPEXdsVIAEY_HA.jpg",

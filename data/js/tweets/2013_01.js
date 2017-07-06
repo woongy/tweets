@@ -26,7 +26,7 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/295154718605451264\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/295154718605451264\/photo\/1",
       "indices" : [ 86, 106 ],
       "url" : "http:\/\/t.co\/HKEhC98d",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BBiZpxzCIAAKOYX.jpg",
@@ -100,7 +100,7 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/294130248109391872\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/294130248109391872\/photo\/1",
       "indices" : [ 42, 62 ],
       "url" : "http:\/\/t.co\/HwgpRPoq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BBT15vzCAAAZbbY.jpg",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/292651795816275968\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/292651795816275968\/photo\/1",
       "indices" : [ 16, 36 ],
       "url" : "http:\/\/t.co\/yfebLTti",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BA-1QfzCYAAEwkC.jpg",
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/287076147752222720\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/287076147752222720\/photo\/1",
       "indices" : [ 20, 40 ],
       "url" : "http:\/\/t.co\/gnq1oZkE",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A_vmPEKCQAEZ90T.jpg",
@@ -513,7 +513,7 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/woongy\/status\/287075190356197376\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/woongy\/status\/287075190356197376\/photo\/1",
       "indices" : [ 31, 51 ],
       "url" : "http:\/\/t.co\/sk4Kb8wl",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A_vlXVlCQAE05un.jpg",

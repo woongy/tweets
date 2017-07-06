@@ -102,11 +102,11 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "1209608880",
       "id" : 1209608880
     }, {
-      "name" : "William Barton",
+      "name" : "ArchonAmnesiac",
       "screen_name" : "ArchonAmnesiac",
       "indices" : [ 42, 57 ],
-      "id_str" : "2835498826",
-      "id" : 2835498826
+      "id_str" : "832634463850885120",
+      "id" : 832634463850885120
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -132,11 +132,11 @@ Grailbird.data.tweets_2016_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "William Barton",
+        "name" : "ArchonAmnesiac",
         "screen_name" : "ArchonAmnesiac",
         "indices" : [ 21, 36 ],
-        "id_str" : "2835498826",
-        "id" : 2835498826
+        "id_str" : "832634463850885120",
+        "id" : 832634463850885120
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -165,7 +165,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "PlayHearthstone",
       "protected" : false,
       "id_str" : "1209608880",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760047301360517120\/JNF9peNL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/850385042303893504\/dXDwn8oC_normal.jpg",
       "id" : 1209608880,
       "verified" : true
     }
